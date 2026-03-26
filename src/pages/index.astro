@@ -1,0 +1,103 @@
+---
+import Base from '../layouts/Base.astro';
+import DealCard from '../components/DealCard.astro';
+import siteData from '../data/site-data.json';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const deals = siteData.posts.slice(0, 60);
+const latest = deals[0];
+---
+
+<Base
+  title="Shopping With Noya — Daily Amazon Deals"
+  description="The best Amazon deals updated every day. Save big on home, beauty, kitchen, and more. Follow our Telegram for instant deal alerts."
+  image={latest?.asin ? `https://images-na.ssl-images-amazon.com/images/P/${latest.asin}.01._SCLZZZZZZZ_.jpg` : undefined}
+>
+
+  <!-- Hero -->
+  <section class="hero">
+    <h1>🛍️ Daily Amazon Deals</h1>
+    <p class="hero-sub">Hand-picked deals updated every few minutes. Never overpay on Amazon again.</p>
+    <a href="https://t.me/shoppingwithnoya" class="hero-cta" target="_blank" rel="noopener">
+      🔔 Get instant alerts on Telegram →
+    </a>
+  </section>
+
+  <!-- Stats bar -->
+  <div class="stats-bar">
+    <div class="stat"><strong>{siteData.total}</strong> deals posted</div>
+    <div class="stat"><strong>Free</strong> Amazon deals daily</div>
+    <div class="stat">Updated <strong>every 2 min</strong></div>
+  </div>
+
+  <!-- Deals grid -->
+  <section>
+    <h2 class="section-title">Latest Deals</h2>
+    <div class="deals-grid">
+      {deals.map(deal => (
+        <DealCard deal={deal} base={base} />
+      ))}
+    </div>
+  </section>
+
+  <!-- Telegram CTA -->
+  <section class="tg-cta">
+    <div class="tg-box">
+      <div class="tg-icon">📲</div>
+      <div>
+        <h2>Never miss a deal</h2>
+        <p>Join our Telegram channel and get the best Amazon deals delivered instantly.</p>
+        <a href="https://t.me/shoppingwithnoya" class="tg-btn" target="_blank" rel="noopener">
+          Join @shoppingwithnoya — It's Free
+        </a>
+      </div>
+    </div>
+  </section>
+
+</Base>
+
+<style>
+  .hero { text-align: center; padding: 40px 20px 32px; }
+  .hero h1 { font-size: 2.2rem; font-weight: 800; margin-bottom: 12px; }
+  .hero-sub { font-size: 1.1rem; color: #94a3b8; max-width: 500px; margin: 0 auto 24px; }
+  .hero-cta {
+    display: inline-block; background: #0088cc; color: #fff;
+    padding: 12px 28px; border-radius: 30px; font-size: 1rem; font-weight: 600;
+    transition: background 0.15s;
+  }
+  .hero-cta:hover { background: #0077b5; text-decoration: none; }
+
+  .stats-bar {
+    display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;
+    margin: 0 0 40px; padding: 16px; background: #1e293b; border-radius: 12px;
+  }
+  .stat { font-size: 0.9rem; color: #94a3b8; padding: 0 16px; border-right: 1px solid #334155; }
+  .stat:last-child { border-right: none; }
+  .stat strong { color: #e2e8f0; }
+
+  .section-title { font-size: 1.1rem; color: #94a3b8; margin-bottom: 20px; }
+
+  .deals-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 14px;
+    margin-bottom: 48px;
+  }
+
+  .tg-cta { margin: 20px 0 40px; }
+  .tg-box {
+    background: #0c2340; border: 1px solid #0088cc44;
+    border-radius: 16px; padding: 32px;
+    display: flex; gap: 24px; align-items: center;
+  }
+  .tg-icon { font-size: 3rem; flex-shrink: 0; }
+  .tg-box h2 { font-size: 1.4rem; margin-bottom: 8px; }
+  .tg-box p { color: #94a3b8; margin-bottom: 20px; }
+  .tg-btn {
+    display: inline-block; background: #0088cc; color: #fff;
+    padding: 12px 24px; border-radius: 8px; font-weight: 600;
+    transition: background 0.15s;
+  }
+  .tg-btn:hover { background: #0077b5; text-decoration: none; }
+  @media (max-width: 600px) { .tg-box { flex-direction: column; } }
+</style>
