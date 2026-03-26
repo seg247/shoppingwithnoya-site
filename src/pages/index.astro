@@ -4,13 +4,18 @@ import DealCard from '../components/DealCard.astro';
 import siteData from '../data/site-data.json';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const deals = siteData.posts.slice(0, 60);
-const latest = deals[0];
+
+// Filter out placeholder titles on the frontend too (belt + suspenders)
+const isPlaceholder = (t: string) =>
+  !t || /^\$[\d.,x]+ was \$[\d.,x]+$/i.test(t) || /^as low as/i.test(t) || t.length < 10;
+
+const deals = siteData.posts.filter(p => !isPlaceholder(p.title)).slice(0, 60);
+const latest = deals.find(d => d.asin);
 ---
 
 <Base
   title="Shopping With Noya — Daily Amazon Deals"
-  description="The best Amazon deals updated every day. Save big on home, beauty, kitchen, and more. Follow our Telegram for instant deal alerts."
+  description="The best Amazon deals updated every day. Save big on home, beauty, kitchen, and more. Follow our Telegram channel for instant deal alerts."
   image={latest?.asin ? `https://images-na.ssl-images-amazon.com/images/P/${latest.asin}.01._SCLZZZZZZZ_.jpg` : undefined}
 >
 
@@ -46,7 +51,7 @@ const latest = deals[0];
       <div class="tg-icon">📲</div>
       <div>
         <h2>Never miss a deal</h2>
-        <p>Join our Telegram channel and get the best Amazon deals delivered instantly.</p>
+        <p>Join our free Telegram channel and get the best Amazon deals delivered instantly — before they sell out.</p>
         <a href="https://t.me/shoppingwithnoya" class="tg-btn" target="_blank" rel="noopener">
           Join @shoppingwithnoya — It's Free
         </a>
@@ -57,47 +62,109 @@ const latest = deals[0];
 </Base>
 
 <style>
-  .hero { text-align: center; padding: 40px 20px 32px; }
-  .hero h1 { font-size: 2.2rem; font-weight: 800; margin-bottom: 12px; }
-  .hero-sub { font-size: 1.1rem; color: #94a3b8; max-width: 500px; margin: 0 auto 24px; }
+  /* Hero */
+  .hero {
+    text-align: center;
+    padding: 52px 20px 36px;
+  }
+  .hero h1 {
+    font-size: clamp(1.8rem, 4vw, 2.6rem);
+    font-weight: 800;
+    margin-bottom: 14px;
+    line-height: 1.2;
+  }
+  .hero-sub {
+    font-size: 1.05rem;
+    color: #94a3b8;
+    max-width: 480px;
+    margin: 0 auto 28px;
+    line-height: 1.6;
+  }
   .hero-cta {
-    display: inline-block; background: #0088cc; color: #fff;
-    padding: 12px 28px; border-radius: 30px; font-size: 1rem; font-weight: 600;
+    display: inline-block;
+    background: #0088cc;
+    color: #fff !important;
+    padding: 13px 30px;
+    border-radius: 30px;
+    font-size: 1rem;
+    font-weight: 600;
     transition: background 0.15s;
+    text-decoration: none;
   }
   .hero-cta:hover { background: #0077b5; text-decoration: none; }
 
+  /* Stats bar */
   .stats-bar {
-    display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;
-    margin: 0 0 40px; padding: 16px; background: #1e293b; border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0;
+    margin: 0 0 44px;
+    background: #1e293b;
+    border-radius: 12px;
+    overflow: hidden;
   }
-  .stat { font-size: 0.9rem; color: #94a3b8; padding: 0 16px; border-right: 1px solid #334155; }
+  .stat {
+    flex: 1;
+    min-width: 140px;
+    font-size: 0.9rem;
+    color: #94a3b8;
+    padding: 16px 24px;
+    text-align: center;
+    border-right: 1px solid #334155;
+  }
   .stat:last-child { border-right: none; }
-  .stat strong { color: #e2e8f0; }
+  .stat strong { color: #e2e8f0; display: block; font-size: 1.1rem; margin-bottom: 2px; }
 
-  .section-title { font-size: 1.1rem; color: #94a3b8; margin-bottom: 20px; }
+  /* Section title */
+  .section-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #64748b;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-bottom: 20px;
+  }
 
+  /* Grid */
   .deals-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
     gap: 14px;
-    margin-bottom: 48px;
+    margin-bottom: 52px;
   }
 
-  .tg-cta { margin: 20px 0 40px; }
+  /* Telegram CTA */
+  .tg-cta { margin-bottom: 20px; }
   .tg-box {
-    background: #0c2340; border: 1px solid #0088cc44;
-    border-radius: 16px; padding: 32px;
-    display: flex; gap: 24px; align-items: center;
+    background: #0c2340;
+    border: 1px solid rgba(0,136,204,0.3);
+    border-radius: 16px;
+    padding: 36px 40px;
+    display: flex;
+    gap: 28px;
+    align-items: center;
   }
-  .tg-icon { font-size: 3rem; flex-shrink: 0; }
-  .tg-box h2 { font-size: 1.4rem; margin-bottom: 8px; }
-  .tg-box p { color: #94a3b8; margin-bottom: 20px; }
+  .tg-icon { font-size: 3.5rem; flex-shrink: 0; }
+  .tg-box h2 { font-size: 1.4rem; font-weight: 700; margin-bottom: 10px; }
+  .tg-box p { color: #94a3b8; margin-bottom: 22px; line-height: 1.6; }
   .tg-btn {
-    display: inline-block; background: #0088cc; color: #fff;
-    padding: 12px 24px; border-radius: 8px; font-weight: 600;
+    display: inline-block;
+    background: #0088cc;
+    color: #fff !important;
+    padding: 13px 26px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 0.95rem;
     transition: background 0.15s;
+    text-decoration: none;
   }
   .tg-btn:hover { background: #0077b5; text-decoration: none; }
-  @media (max-width: 600px) { .tg-box { flex-direction: column; } }
+
+  @media (max-width: 640px) {
+    .tg-box { flex-direction: column; padding: 24px; text-align: center; }
+    .stats-bar { border-radius: 12px; }
+    .stat { border-right: none; border-bottom: 1px solid #334155; }
+    .stat:last-child { border-bottom: none; }
+  }
 </style>
