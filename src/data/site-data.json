@@ -1,7 +1,31 @@
 {
-  "generatedAt": "2026-03-26T04:59:24.866Z",
-  "total": 346,
+  "generatedAt": "2026-03-26T06:00:02.231Z",
+  "total": 348,
   "posts": [
+    {
+      "slug": "b0b5fcxqtz-10-xx-for-12",
+      "asin": "B0B5FCXQTZ",
+      "title": "$10.xx for 12",
+      "url": "https://www.amazon.com/dp/B0B5FCXQTZ/ref=cm_sw_r_as_gl_apa_gl_i_C1DQD2374WV8YA14ZRA8?linkCode=ml1&tag=noya0b-20&linkId=781cbc25720b26c88ab2810921258dc3",
+      "price": null,
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Today's Deal",
+      "ts": "2026-03-26T05:48:15.647Z",
+      "type": "deal"
+    },
+    {
+      "slug": "b074v8vphd-3-xx-was-13-xx-for-3-packs",
+      "asin": "B074V8VPHD",
+      "title": "$3.xx was $13.xx for 3 packs",
+      "url": "https://www.amazon.com/dp/B074V8VPHD/ref=cm_sw_r_as_gl_apa_gl_i_D9H8FGM61FSVWHQRG069?linkCode=ml1&tag=noya0b-20&linkId=dfd042c3daa0e52393980ba81ebec5a8",
+      "price": null,
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Today's Deal",
+      "ts": "2026-03-26T05:36:13.388Z",
+      "type": "deal"
+    },
     {
       "slug": "b0bvfx154j-floor-lamp-with-shelves",
       "asin": "B0BVFX154J",
