@@ -1,7 +1,150 @@
 {
-  "generatedAt": "2026-03-27T15:21:04.341Z",
-  "total": 113,
+  "generatedAt": "2026-03-27T15:30:08.137Z",
+  "total": 117,
   "posts": [
+    {
+      "slug": "b0d6qj7gpn-amazon-com-oekla-unisex-led-shoes-fashion-light-up-sneakers-",
+      "asin": "B0D6QJ7GPN",
+      "title": "Amazon.com | OEKLA Unisex LED Shoes, Fashion Light Up Sneakers, Breathable USB Charging, Glowing Luminous LED Shoes for",
+      "url": "https://www.amazon.com/dp/B0D6QJ7GPN?tag=noya0b-20",
+      "price": null,
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Shoes",
+      "ts": "2026-03-27T15:28:35.230Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61ApG2FADTL._AC_SL1500_.jpg"
+    },
+    {
+      "slug": "b0bsnxfdml-arm-amp-hammer-plus-oxiclean-odor-blasters-fresh-burst-128-l",
+      "asin": "B0BSNXFDML",
+      "title": "ARM &amp; HAMMER Plus OxiClean Odor Blasters Fresh Burst, 128 Loads Liquid Laundry Detergent, 166.5 Fl oz :",
+      "url": "https://www.amazon.com/dp/B0BSNXFDML?tag=noya0b-20",
+      "price": null,
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Shoes",
+      "ts": "2026-03-27T15:28:34.612Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81myOFhFGCL._AC_UF350,350_QL50_.jpg"
+    },
+    {
+      "slug": "b0d4v2fwwc-lightning-deals-of-today-2024-deals-of-the-day-clearance-che",
+      "asin": "B0D4V2FWWC",
+      "title": "Lightning Deals of Today 2024 Deals of The Day Clearance Cheap Womens Dresses for Wedding Guest Plus Size A Line Dresses",
+      "url": "https://www.amazon.com/dp/B0D4V2FWWC?tag=noya0b-20",
+      "price": null,
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Women's Fashion",
+      "ts": "2026-03-27T15:28:28.404Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/7138QbmUF7L._AC_UY1000_.jpg"
+    },
+    {
+      "slug": "b0d7hc5dzq-kingtool-276-piece-tool-set-kit-tool-kit-with-12v-cordless-p",
+      "asin": "B0D7HC5DZQ",
+      "title": "KingTool 276-Piece Tool Set Kit - Tool kit with 12V Cordless Power Drill Driver Toolbox Storage Case with Drawer, Drill",
+      "url": "https://www.amazon.com/dp/B0D7HC5DZQ?tag=noya0b-20",
+      "price": null,
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Tools",
+      "ts": "2026-03-27T15:26:31.988Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/816dDdm4NwL._AC_SR100,100_.jpg"
+    },
+    {
+      "slug": "b09qmpyrb7-connoisseurs-premium-edition-fine-jewelry-cleaner-solution-f",
+      "asin": "B09QMPYRB7",
+      "title": "Connoisseurs Premium Edition Fine Jewelry Cleaner Solution for Gold, Diamonds, Platinum, and Gemstones - 9.6",
+      "url": "https://www.amazon.com/dp/B09QMPYRB7?tag=noya0b-20",
+      "price": null,
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Jewelry",
+      "ts": "2026-03-27T15:26:31.176Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61YoM1ywKzL._AC_SL1000_.jpg"
+    },
+    {
+      "slug": "b00iowbl4u-how-fun-47-off-wiggle-car-ride-on-toy-just-39-xx-reg-75",
+      "asin": "B00IOWBL4U",
+      "title": "How fun! 47% off Wiggle Car - Ride on Toy, just $39.xx (Reg. $75)",
+      "url": "https://www.amazon.com/dp/B00IOWBL4U?linkCode=sl2&tag=noya0b-20&linkId=f57b661eed5da9a79969c4bb3531fdd4&language=en_US",
+      "price": null,
+      "discount": 47,
+      "rating": "HOT",
+      "category": "Today's Deal",
+      "ts": "2026-03-27T15:24:17.423Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/7135KxEN00L._AC_SR100,100_.jpg"
+    },
+    {
+      "slug": "b00iowbl4u-how-fun-47-off-wiggle-car-ride-on-toy-just-39-xx-reg-75",
+      "asin": "B00IOWBL4U",
+      "title": "How fun! 47% off Wiggle Car - Ride on Toy, just $39.xx (Reg. $75)",
+      "url": "https://www.amazon.com/dp/B00IOWBL4U?linkCode=sl2&tag=noya0b-20&linkId=f57b661eed5da9a79969c4bb3531fdd4&language=en_US",
+      "price": null,
+      "discount": 47,
+      "rating": "HOT",
+      "category": "Today's Deal",
+      "ts": "2026-03-27T15:24:16.933Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/7135KxEN00L._AC_SR100,100_.jpg"
+    },
+    {
+      "slug": "b00iowbl4u-how-fun-47-off-wiggle-car-ride-on-toy-just-39-xx-reg-75",
+      "asin": "B00IOWBL4U",
+      "title": "How fun! 47% off Wiggle Car - Ride on Toy, just $39.xx (Reg. $75)",
+      "url": "https://www.amazon.com/dp/B00IOWBL4U?linkCode=sl2&tag=noya0b-20&linkId=f57b661eed5da9a79969c4bb3531fdd4&language=en_US",
+      "price": null,
+      "discount": 47,
+      "rating": "HOT",
+      "category": "Today's Deal",
+      "ts": "2026-03-27T15:24:16.571Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71ryebcP9YL._AC_SR100,100_.jpg"
+    },
+    {
+      "slug": "b07fdjmc9q-ninja-air-fryer-4-qt-capacity-4-in-1-roast-crisp-roast-rehea",
+      "asin": "B07FDJMC9Q",
+      "title": "Ninja Air Fryer | 4 QT Capacity | 4-in-1 Roast, Crisp, Roast, Reheats, &amp; Dehydrates | Dishwasher Safe Pa",
+      "url": "https://www.amazon.com/dp/B07FDJMC9Q?tag=noya0b-20",
+      "price": null,
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Appliances",
+      "ts": "2026-03-27T15:22:32.763Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71+8uTMDRFL._AC_UF350,350_QL50_.jpg"
+    },
+    {
+      "slug": "b0g3pkscmd-girls-metallic-mermaid-skirt-shiny-elastic-high-waisted-kids",
+      "asin": "B0G3PKSCMD",
+      "title": "Girls Metallic Mermaid Skirt Shiny Elastic High Waisted Kids Cute Party Club Rave Maxi Skirts for 2-17 Years",
+      "url": "https://www.amazon.com/dp/B0G3PKSCMD?tag=noya0b-20",
+      "price": null,
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Kids' Fashion",
+      "ts": "2026-03-27T15:22:31.705Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71i9ixKEPKL._AC_SL1500_.jpg"
+    },
+    {
+      "slug": "b0g6h4y2p8-osfvnoxv-toddler-girls-sweatpants-kids-sport-jogger-cotton-c",
+      "asin": "B0G6H4Y2P8",
+      "title": "OSFVNOXV Toddler Girls Sweatpants Kids Sport Jogger Cotton Casual Elastic Waist Sweats Pants 2-7 Years: Clot",
+      "url": "https://www.amazon.com/dp/B0G6H4Y2P8?tag=noya0b-20",
+      "price": null,
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Kids' Fashion",
+      "ts": "2026-03-27T15:22:19.475Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51WZmfJWsoL._AC_SL1500_.jpg"
+    },
     {
       "slug": "b0bcpxlvsy-chiczone-womens-casual-lapel-button-down-long-plaid-shirt-fl",
       "asin": "B0BCPXLVSY",
@@ -12,7 +155,8 @@
       "rating": "WORTH A LOOK",
       "category": "Men's Fashion",
       "ts": "2026-03-27T15:20:32.743Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81-OYrYnw9L._AC_SL1500_.jpg"
     },
     {
       "slug": "b0d179v152-crz-yoga-butterluxe-biker-shorts-6-quot-high-waisted-workout",
@@ -24,7 +168,8 @@
       "rating": "WORTH A LOOK",
       "category": "Women's Fashion",
       "ts": "2026-03-27T15:20:29.192Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/716flQBImzL._AC_SL1500_.jpg"
     },
     {
       "slug": "1836336969-on-thin-ice-a-brand-new-hockey-player-x-pop-star-romance-fro",
@@ -36,7 +181,8 @@
       "rating": "WORTH A LOOK",
       "category": "Appliances",
       "ts": "2026-03-27T15:20:19.386Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/318jsl+GY8L.jpg"
     },
     {
       "slug": "1668169258-murder-among-the-stacks-solve-the-puzzles-and-the-plot-of-a-",
@@ -48,7 +194,8 @@
       "rating": "WORTH A LOOK",
       "category": "Women's Fashion",
       "ts": "2026-03-27T15:18:35.894Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71UORG4s86L._AC_SR77,100_.jpg"
     },
     {
       "slug": "b0c447cg1d-40-off-pit-boss-10960-2-burner-tabletop-griddle-black",
@@ -60,7 +207,8 @@
       "rating": "HOT",
       "category": "Today's Deal",
       "ts": "2026-03-27T15:18:17.278Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71rptP6kzlL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0c447cg1d-40-off-pit-boss-10960-2-burner-tabletop-griddle-black",
@@ -72,7 +220,8 @@
       "rating": "HOT",
       "category": "Today's Deal",
       "ts": "2026-03-27T15:18:16.261Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71rptP6kzlL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0fppkk2z5-medicube-jelly-mist-serum-with-pink-pdrn-collagen-dual-textu",
@@ -84,7 +233,8 @@
       "rating": "WORTH A LOOK",
       "category": "Garden & Outdoor",
       "ts": "2026-03-27T15:16:29.454Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61yIHcs0EkL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b08wvhv3h5-keter-solana-70-gallon-storage-bench-deck-box-for-patio-furn",
@@ -96,7 +246,8 @@
       "rating": "WORTH A LOOK",
       "category": "Tools",
       "ts": "2026-03-27T15:16:26.049Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/6112ekCftTL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b08wvhv3h5-keter-solana-70-gallon-storage-bench-deck-box-for-patio-furn",
@@ -108,7 +259,8 @@
       "rating": "WORTH A LOOK",
       "category": "Electronics",
       "ts": "2026-03-27T15:16:21.603Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/618vM8svSFL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0fmznwc9q-reebok-men-s-poseidon-short-sleeve-t-shirt-standard-fit-brea",
@@ -120,7 +272,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deals",
       "ts": "2026-03-27T15:14:34.832Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71QUb7bjWNL._AC_SL1500_.jpg"
     },
     {
       "slug": "b0cltkgwqx-our-place-wonder-oven-6-in-1-stainless-steel-air-fryer-toast",
@@ -132,7 +285,8 @@
       "rating": "WORTH A LOOK",
       "category": "Appliances",
       "ts": "2026-03-27T15:14:26.257Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71KuPxRENbL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0btrq599b-liba-plastic-shower-curtain-heavy-duty-8g-shower-curtain-for",
@@ -144,7 +298,8 @@
       "rating": "WORTH A LOOK",
       "category": "Home & Kitchen",
       "ts": "2026-03-27T15:14:25.107Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61WHLasYZwL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0fbw5ms4y-the-future-book-9798217033171-barnett-mac-harris-shawn-books",
@@ -156,7 +311,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deals",
       "ts": "2026-03-27T15:14:15.336Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51iLKqcT-9L._AC_SR100,100_.jpg"
     },
     {
       "slug": "b08f288k81-megawise-electric-glass-kettle-with-auto-shut-off-1-8l-home-",
@@ -168,7 +324,8 @@
       "rating": "WORTH A LOOK",
       "category": "Appliances",
       "ts": "2026-03-27T15:12:29.375Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71SmSqaaq7L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0f6v98c31-letsjoli-jelly-bras-for-women-supportive-wireless-push-up-br",
@@ -180,7 +337,8 @@
       "rating": "WORTH A LOOK",
       "category": "Home & Kitchen",
       "ts": "2026-03-27T15:12:24.008Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61T+3HsY2AL._AC_SL1500_.jpg"
     },
     {
       "slug": "b0cg5bbbk8-lifewit-medium-lunch-bag-insulated-lunch-box-soft-cooler-coo",
@@ -192,7 +350,8 @@
       "rating": "WORTH A LOOK",
       "category": "Home & Kitchen",
       "ts": "2026-03-27T15:10:26.127Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/318jsl+GY8L.jpg"
     },
     {
       "slug": "b005p0oqjq-mercer-culinary-millennia-colors-3-inch-slim-paring-knife-gr",
@@ -204,7 +363,8 @@
       "rating": "WORTH A LOOK",
       "category": "Home & Kitchen",
       "ts": "2026-03-27T15:10:21.654Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51wHN3VfiXL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0ccv5x48q-osoeri-bird-feeder-with-camera-solar-smart-bird-feeder-with-",
@@ -216,7 +376,8 @@
       "rating": "WORTH A LOOK",
       "category": "Garden & Outdoor",
       "ts": "2026-03-27T15:10:19.048Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/6157lr-X-sL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0f83xkbt2-someone-asked-for-a-watercolor-set-this-one-is-adorable",
@@ -228,7 +389,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T15:10:18.477Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/615HsEmYUML._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b00j0t3lxk-platinum-thickening-mousse-12-volumizing-styler-adds-fullnes",
@@ -240,7 +402,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T15:08:16.901Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/21KiwifhoiL.jpg"
     },
     {
       "slug": "b01b262o54-cap-barbell-2-inch-olympic-weight-plate-multiple-options",
@@ -252,7 +415,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T15:04:26.230Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/91zzOdz6ECL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0f9f8hy9v-kidcuddz-baby-dolls",
@@ -264,7 +428,8 @@
       "rating": "HOT",
       "category": "Today's Deal",
       "ts": "2026-03-27T14:58:18.206Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81b0uq9P0dL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0f5px4h5v-great-price-to-give-this-a-try-8-xx-migraine-relief-cap",
@@ -276,7 +441,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T14:56:18.907Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51Sfv5wWS9L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0d4nkqvqv-chloraseptic-children-s-sugar-free-sore-throat-spray-cherry-",
@@ -288,7 +454,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T14:52:17.239Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/615qu-l1JsL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0d4nkqvqv-chloraseptic-children-s-sugar-free-sore-throat-spray-cherry-",
@@ -300,7 +467,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T14:52:16.784Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/615qu-l1JsL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b00cbt5jw2-70-off-rockland-journey-softside-upright-luggage-set-expanda",
@@ -312,7 +480,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T14:46:21.132Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81HbtWrfHzL._AC_SL1500_.jpg"
     },
     {
       "slug": "b0g63snjgy-120pcs-mini-multicolor-easter-pens-50-off-now-34-xx",
@@ -324,7 +493,8 @@
       "rating": "FIRE",
       "category": "Today's Deal",
       "ts": "2026-03-27T14:44:20.937Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/815LEoDKZuL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0g63bm364-120pcs-mini-multicolor-easter-pens-50-off-now-34-xx",
@@ -336,7 +506,8 @@
       "rating": "FIRE",
       "category": "Today's Deal",
       "ts": "2026-03-27T14:44:18.931Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Z3hFWlAjL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b004r696to-puritan-s-pride-green-tea-standardized-extract-315mg-dietary",
@@ -348,7 +519,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T14:38:16.158Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71euuCytz7L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b004r696to-puritan-s-pride-green-tea-standardized-extract-315mg-dietary",
@@ -360,7 +532,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T14:38:14.988Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71euuCytz7L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b09rncy44q-amazon-essentials-women-s-mid-weight-puffer-vest",
@@ -372,7 +545,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T14:32:19.302Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81BfvbFAa+L._AC_SL1500_.jpg"
     },
     {
       "slug": "b09rncy44q-amazon-essentials-women-s-mid-weight-puffer-vest",
@@ -384,7 +558,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T14:32:18.285Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81BfvbFAa+L._AC_SL1500_.jpg"
     },
     {
       "slug": "b003a07vbs-krylon-camouflage-spray-paint-ultra-flat-woodland-light-gree",
@@ -396,7 +571,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T14:16:21.131Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71cV1aFAyIL._AC_SR46,100_.jpg"
     },
     {
       "slug": "b003a07vbs-krylon-camouflage-spray-paint-ultra-flat-woodland-light-gree",
@@ -408,7 +584,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T14:16:20.468Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/512GNkw6AdL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b07ttdv3m6-great-deal-47-off-pit-boss-6qt-cast-iron-roaster-with-lid",
@@ -420,7 +597,8 @@
       "rating": "HOT",
       "category": "Today's Deal",
       "ts": "2026-03-27T14:06:17.491Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71lWHfwJb-L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b07ttdv3m6-great-deal-47-off-pit-boss-6qt-cast-iron-roaster-with-lid",
@@ -432,7 +610,8 @@
       "rating": "HOT",
       "category": "Today's Deal",
       "ts": "2026-03-27T14:06:16.179Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71lWHfwJb-L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0gt9bj61d-9qt-gold-chafing-dish-buffet-set",
@@ -444,7 +623,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T13:56:14.319Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/318jsl+GY8L.jpg"
     },
     {
       "slug": "b00jtsk47s-5-xx-100-garden-labels-plant-tags",
@@ -456,7 +636,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T13:46:15.183Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71fI1qBHx7L._AC_SR100,100_.jpg"
     },
     {
       "slug": "b00jtsk47s-5-xx-100-garden-labels-plant-tags",
@@ -468,7 +649,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T13:46:14.984Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71fI1qBHx7L._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0cwds7ghx-dyalsa-small-sling-bag-for-women-canvas-fanny-pack-crossbody",
@@ -480,7 +662,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T13:34:17.849Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61OrfcrlR1L._AC_SL1500_.jpg"
     },
     {
       "slug": "b0792fq7pl-puma-kids-transformation-14-duffel-bag",
@@ -492,7 +675,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T13:32:16.683Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81zGMM+k6hL._AC_SL1500_.jpg"
     },
     {
       "slug": "b0792fq7pl-puma-kids-transformation-14-duffel-bag",
@@ -504,7 +688,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T13:32:15.512Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81zGMM+k6hL._AC_SL1500_.jpg"
     },
     {
       "slug": "b0csn2lzx4-sinoer-bike-storage-rack-bike-wall-rack-6-bike-rack-wall-mou",
@@ -516,7 +701,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T13:26:17.035Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/718N5nHc05L._AC_SR100,100_.jpg"
     },
     {
       "slug": "b000nv9g88-melissa-doug-wooden-cutting-fruit-toy-food-set-pretend-play-",
@@ -528,7 +714,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T13:18:15.589Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/8120LCgtq8L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b000nv9g88-melissa-doug-wooden-cutting-fruit-toy-food-set-pretend-play-",
@@ -540,7 +727,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T13:18:14.733Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/8120LCgtq8L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0b5dpv3pb-car-seat-organizer-for-back-seat-front-seat-between-seats-ca",
@@ -552,7 +740,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T13:10:18.172Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71aFv3TMBeL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0dkf97s22-eufy-security-smart-lock-c33-keypad-door-lock-with-handle-fi",
@@ -564,7 +753,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T13:00:15.117Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51U3gWXoAcL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0dkf97s22-eufy-security-smart-lock-c33-keypad-door-lock-with-handle-fi",
@@ -576,7 +766,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T13:00:15.074Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51U3gWXoAcL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0fwkyzf9t-breakfast-cereal-variety-pack-lucky-charms-cinnamon-toast-cr",
@@ -588,7 +779,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T12:54:16.241Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81Gsnf+JF7L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0fwkyzf9t-breakfast-cereal-variety-pack-lucky-charms-cinnamon-toast-cr",
@@ -600,7 +792,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T12:54:15.910Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81Gsnf+JF7L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0dpnb55c3-ninja-cooler-frostvault-30qt-cooler-with-wheels-insulated-wi",
@@ -612,7 +805,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T12:52:14.741Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61mOPqz8AwL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0dpnb55c3-ninja-cooler-frostvault-30qt-cooler-with-wheels-insulated-wi",
@@ -624,7 +818,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T12:52:14.575Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61mOPqz8AwL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b005ihsuie-lubriderm-fragrance-free-daily-moisture-lotion-pro-ceramide-",
@@ -636,7 +831,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T12:50:15.451Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61nWNvSnQeL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b005ihsuie-lubriderm-fragrance-free-daily-moisture-lotion-pro-ceramide-",
@@ -648,7 +844,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T12:50:15.058Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61nWNvSnQeL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0g1yvp4nz-automatic-soap-dispenser-touchless-hand-wall-mount-rechargea",
@@ -660,7 +857,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T12:46:19.237Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61QIimnunPL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0g1bpv7nq-wireless-doorbell-doorbell-chime-kits-with-1-transmitter-1-r",
@@ -672,7 +870,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T12:28:14.648Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71cAJnedB7L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0g1bpv7nq-wireless-doorbell-doorbell-chime-kits-with-1-transmitter-1-r",
@@ -684,7 +883,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T12:28:14.365Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71cAJnedB7L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0f11xtwlp-dog-man-movie-plush-in-pdq-of-8-plushies-includes-4-dog-man-",
@@ -696,7 +896,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T12:06:14.770Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71blgiY7m+L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0f11xtwlp-dog-man-movie-plush-in-pdq-of-8-plushies-includes-4-dog-man-",
@@ -708,7 +909,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T12:06:14.652Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71blgiY7m+L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0d1gc55bq-endless-games-murdle-board-game-based-on-the-crime-puzzle-bo",
@@ -720,7 +922,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T11:42:17.206Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61wJTcPf-GL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0drwzqknd-amazon-basics-44-piece-school-supplies-student-success-kit-c",
@@ -732,7 +935,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T11:24:15.565Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/7179qSZpYfL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0ffltm2rf-gsg-men-s-rfid-blocking-bifold-wallet-genuine-leather-slim-f",
@@ -744,7 +948,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T11:12:16.571Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71IUHvidUbL._AC_SL1500_.jpg"
     },
     {
       "slug": "b0c54ykdq2-amazon-com-travel-bag-with-shoe-compartment-weekender-bag-fo",
@@ -756,7 +961,8 @@
       "rating": "FIRE",
       "category": "Today's Deal",
       "ts": "2026-03-27T10:56:16.924Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/619bOEbKYbL._AC_SL1500_.jpg"
     },
     {
       "slug": "b0000cfq2w-anchor-hocking-64192b-presence-sugar-dish-with-cover-8-oz",
@@ -768,7 +974,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T10:54:16.808Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61WinQ-W3GL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b00bsw6p80-nature-valley-sweet-and-salty-granola-bars-peanut-30-bars-36",
@@ -780,7 +987,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T10:46:19.105Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71n1joIUI5L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0c8s7sf4b-synology-4-bay-diskstation-ds925-diskless",
@@ -792,7 +1000,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T10:46:16.394Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/810NbEgxKvL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0f96n2bp8-dyson-supersonic-nural-hair-dryer",
@@ -804,7 +1013,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T10:44:14.351Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/11dGd3ZbgwL.jpg"
     },
     {
       "slug": "b0f96n2bp8-dyson-supersonic-nural-hair-dryer",
@@ -816,7 +1026,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T10:44:14.019Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/11dGd3ZbgwL.jpg"
     },
     {
       "slug": "b0ddt56tmf-liqcool-aunt-gifts-40-oz-cream-tumbler-with-handle-aunt-club",
@@ -828,7 +1039,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T10:34:13.822Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/612GG3E09WL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b01b1us01i-melissa-doug-wooden-train-cars-8-piece-magnetic-train-set-wi",
@@ -840,7 +1052,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T10:28:15.151Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Il4zKqTgL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b08pd5wmww-charlotte-tilbury-beauty-light-wand-liquid-highlighter-makeu",
@@ -852,7 +1065,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T10:26:17.304Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/11j++UHbEfL.jpg"
     },
     {
       "slug": "b08pd5wmww-charlotte-tilbury-beauty-light-wand-liquid-highlighter-makeu",
@@ -864,7 +1078,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T10:26:17.245Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/11j++UHbEfL.jpg"
     },
     {
       "slug": "b07jb9d9sy-melissa-doug-seek-find-sticker-pad-animals-400-stickers-14-s",
@@ -876,7 +1091,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T10:12:17.175Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71BpWFG9E-L._AC_SR100,100_.jpg"
     },
     {
       "slug": "b07jb9d9sy-melissa-doug-seek-find-sticker-pad-animals-400-stickers-14-s",
@@ -888,7 +1104,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T10:12:16.753Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71BpWFG9E-L._AC_SR100,100_.jpg"
     },
     {
       "slug": "b09hv226ct-jellyfish-lamp-bluetooth-speaker-with-white-noise-7-color-ch",
@@ -900,7 +1117,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T10:04:13.902Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71GvEe-YnML._AC_SR100,100_.jpg"
     },
     {
       "slug": "b09hv226ct-jellyfish-lamp-bluetooth-speaker-with-white-noise-7-color-ch",
@@ -912,7 +1130,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T10:04:13.394Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71GvEe-YnML._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0dy7pgky7-large-capacity-cosmetic-bag-for-women-portable-waterproof-pu",
@@ -924,7 +1143,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T09:48:16.503Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51VhUb+g6RL._AC_.jpg"
     },
     {
       "slug": "b0dfm4n1vl-merry-christmas-backdrop-71x43-inches-red-and-gold-gift-box-",
@@ -936,7 +1156,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T09:44:16.725Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/819VW8-UQ6L._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0dnky21jb-wicked-blu-ray-digital",
@@ -948,7 +1169,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T09:04:14.704Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/814dABjNE9L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0dnky21jb-wicked-blu-ray-digital",
@@ -960,7 +1182,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T09:04:14.409Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/814dABjNE9L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0cfty3lpn-chipmunk-kids-bike-12-14-16-18-inch-bicycle-with-training-wh",
@@ -972,7 +1195,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T08:46:15.317Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/719aruKmc1L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0cfty3lpn-chipmunk-kids-bike-12-14-16-18-inch-bicycle-with-training-wh",
@@ -984,7 +1208,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T08:46:13.975Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/719aruKmc1L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0c8wfhxry-nano-titanium-professional-curling-iron-with-extended-long-b",
@@ -996,7 +1221,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T08:44:15.449Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/21U662YqaVL.jpg"
     },
     {
       "slug": "b0c8wfhxry-nano-titanium-professional-curling-iron-with-extended-long-b",
@@ -1008,7 +1234,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T08:44:15.087Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/21U662YqaVL.jpg"
     },
     {
       "slug": "b082pmyz2x-arctic-chef-acfr725amz6com-2-door-apartment-size-refrigerato",
@@ -1020,7 +1247,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T08:28:16.602Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51w3JQCTPXL._AC_SR102,100_.jpg"
     },
     {
       "slug": "b082pmyz2x-arctic-chef-acfr725amz6com-2-door-apartment-size-refrigerato",
@@ -1032,7 +1260,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T08:28:15.692Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51w3JQCTPXL._AC_SR102,100_.jpg"
     },
     {
       "slug": "b000eicisa-mae-ploy-thai-yellow-curry-paste-for-restaurant-quality-curr",
@@ -1044,7 +1273,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T08:18:16.850Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81iSyfqC+iL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b000eicisa-mae-ploy-thai-yellow-curry-paste-for-restaurant-quality-curr",
@@ -1056,7 +1286,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T08:18:16.625Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81iSyfqC+iL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b08wq6pb21-curlsmith-core-strength-shampoo-strengthening-shampoo-for-cu",
@@ -1068,7 +1299,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T08:02:17.731Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/110H7AkIaRL.jpg"
     },
     {
       "slug": "b08wq6pb21-curlsmith-core-strength-shampoo-strengthening-shampoo-for-cu",
@@ -1080,7 +1312,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T08:02:16.993Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/110H7AkIaRL.jpg"
     },
     {
       "slug": "b0fjcq7kd6-no-drill-cellular-shades-for-indoor-windows-thermal-insulati",
@@ -1092,7 +1325,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T07:50:15.728Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61ZHA-fjq8L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0f99l1mc7-football-bean-bag-chair-for-kids",
@@ -1104,7 +1338,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T07:40:17.783Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81U09aV2YuL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0f99l1mc7-football-bean-bag-chair-for-kids",
@@ -1116,7 +1351,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T07:40:16.977Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81U09aV2YuL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b07r4659zy-bedsure-queen-comforter-set-7-pieces-reversible-grey-bedding",
@@ -1128,7 +1364,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T07:38:19.980Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81DmoEtqPgL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b07r4659zy-bedsure-queen-comforter-set-7-pieces-reversible-grey-bedding",
@@ -1140,7 +1377,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T07:38:18.832Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81SXEAo8KML._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b08xy6b6vr-step-2-pump-splash-discovery-pond-water-table",
@@ -1152,7 +1390,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T07:36:17.526Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Fsxhymg1L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b08xy6b6vr-step-2-pump-splash-discovery-pond-water-table",
@@ -1164,7 +1403,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T07:36:16.984Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Fsxhymg1L._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0cs1kzyh5-bissell-little-green-max-pet-portable-carpet-and-upholstery-",
@@ -1176,7 +1416,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T07:24:19.341Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71-b-jLnUYL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0cs1kzyh5-bissell-little-green-max-pet-portable-carpet-and-upholstery-",
@@ -1188,7 +1429,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T07:24:19.250Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71-b-jLnUYL._AC_SR100,100_.jpg"
     },
     {
       "slug": "b08fj678yk-levoit-air-purifier-for-home",
@@ -1200,7 +1442,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T07:18:17.753Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71eM07+OB6L._AC_SR100,100_.jpg"
     },
     {
       "slug": "b08fj678yk-levoit-air-purifier-for-home",
@@ -1212,7 +1455,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T07:18:16.802Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71eM07+OB6L._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0d1vzvdnm-shark-steam-scrub-steam-mop-all-in-one-scrubbing-and-sanitiz",
@@ -1224,7 +1468,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T07:16:16.814Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61R6Hqgpv4L._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0d1vzvdnm-shark-steam-scrub-steam-mop-all-in-one-scrubbing-and-sanitiz",
@@ -1236,7 +1481,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T07:16:16.754Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61R6Hqgpv4L._AC_SR100,100_.jpg"
     },
     {
       "slug": "b07vcmspky-little-tikes-magic-flower-water-table-with-blooming-flower",
@@ -1248,7 +1494,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T07:14:16.395Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Fsxhymg1L._AC_SR100,100_.jpg"
     },
     {
       "slug": "b0dp5jnlqr-bissell-pet-hair-eraser-allergen-lift-off-with-powerful-suct",
@@ -1260,7 +1507,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T07:12:15.222Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71UcKaNoGEL._AC_UF350,350_QL50_.jpg"
     },
     {
       "slug": "b0dp5jnlqr-bissell-pet-hair-eraser-allergen-lift-off-with-powerful-suct",
@@ -1272,91 +1520,8 @@
       "rating": "WORTH A LOOK",
       "category": "Today's Deal",
       "ts": "2026-03-27T07:12:14.692Z",
-      "type": "deal"
-    },
-    {
-      "slug": "b073q48z95-amazon-basics-ups-battery-backup-surge-protector-400va-255w-",
-      "asin": "B073Q48Z95",
-      "title": "Amazon Basics UPS Battery Backup & Surge Protector, 400VA/255W, 6 Outlets, Uninterruptible Power Supply, Small Compact S",
-      "url": "https://www.amazon.com/dp/B073Q48Z95?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "price": null,
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Today's Deal",
-      "ts": "2026-03-27T07:08:13.914Z",
-      "type": "deal"
-    },
-    {
-      "slug": "b073q48z95-amazon-basics-ups-battery-backup-surge-protector-400va-255w-",
-      "asin": "B073Q48Z95",
-      "title": "Amazon Basics UPS Battery Backup & Surge Protector, 400VA/255W, 6 Outlets, Uninterruptible Power Supply, Small Compact S",
-      "url": "https://www.amazon.com/dp/B073Q48Z95?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "price": null,
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Today's Deal",
-      "ts": "2026-03-27T07:08:13.315Z",
-      "type": "deal"
-    },
-    {
-      "slug": "b0ckty2qt4-ninja-kitchen-system-all-in-one-for-smoothies-frozen-drinks-",
-      "asin": "B0CKTY2QT4",
-      "title": "Ninja Kitchen System | All-in-One for Smoothies, Frozen Drinks, Veggie Chopper & More",
-      "url": "https://www.amazon.com/Ninja-BR601AMZ-Crushing-Full-Size-Processor/dp/B0CKTY2QT4?content-id=amzn1.sym.076a0151-296b-4f82-8604-0237973abcd7&pd_rd_i=B0CKTY2QT4&th=1&linkCode=sl2&tag=noya0b-20&linkId=f77c0d24be51585002f16542675052a3&language=en_US",
-      "price": null,
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Today's Deal",
-      "ts": "2026-03-27T07:06:14.846Z",
-      "type": "deal"
-    },
-    {
-      "slug": "b0ckty2qt4-ninja-kitchen-system-all-in-one-for-smoothies-frozen-drinks-",
-      "asin": "B0CKTY2QT4",
-      "title": "Ninja Kitchen System | All-in-One for Smoothies, Frozen Drinks, Veggie Chopper & More",
-      "url": "https://www.amazon.com/Ninja-BR601AMZ-Crushing-Full-Size-Processor/dp/B0CKTY2QT4?content-id=amzn1.sym.076a0151-296b-4f82-8604-0237973abcd7&pd_rd_i=B0CKTY2QT4&th=1&linkCode=sl2&tag=noya0b-20&linkId=f77c0d24be51585002f16542675052a3&language=en_US",
-      "price": null,
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Today's Deal",
-      "ts": "2026-03-27T07:06:14.590Z",
-      "type": "deal"
-    },
-    {
-      "slug": "b0gbmmfnk9-amazon-com-menzcci-24-pack-easter-bunny-party-favors-toys-fo",
-      "asin": "B0GBMMFNK9",
-      "title": "Amazon.com: Menzcci 24 Pack Easter Bunny Party Favors Toys for Easter Basket Stuffers, Bunny Stretchy Toys Bunnies Decor",
-      "url": "https://www.amazon.com/dp/B0GBMMFNK9/ref=cm_sw_r_as_gl_apa_gl_i_N7TZ88RWPZFF0CEFJE43?linkCode=ml1&tag=noya0b-20&linkId=9f00a7159b3c990b96bb1bcd8d39f9e5",
-      "price": null,
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Today's Deal",
-      "ts": "2026-03-27T07:00:17.363Z",
-      "type": "deal"
-    },
-    {
-      "slug": "b0gbmmfnk9-amazon-com-menzcci-24-pack-easter-bunny-party-favors-toys-fo",
-      "asin": "B0GBMMFNK9",
-      "title": "Amazon.com: Menzcci 24 Pack Easter Bunny Party Favors Toys for Easter Basket Stuffers, Bunny Stretchy Toys Bunnies Decor",
-      "url": "https://www.amazon.com/dp/B0GBMMFNK9/ref=cm_sw_r_as_gl_apa_gl_i_N7TZ88RWPZFF0CEFJE43?linkCode=ml1&tag=noya0b-20&linkId=9f00a7159b3c990b96bb1bcd8d39f9e5",
-      "price": null,
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Today's Deal",
-      "ts": "2026-03-27T07:00:17.270Z",
-      "type": "deal"
-    },
-    {
-      "slug": "b000i1m5ng-scotts-turf-builder-halts-crabgrass-preventer-with-lawn-food",
-      "asin": "B000I1M5NG",
-      "title": "Scotts Turf Builder Halts Crabgrass Preventer with Lawn Food - Pre-Emergent Weed Killer, Lawn Fertilizer, 5,000 sq. ft.,",
-      "url": "https://www.amazon.com/dp/B000I1M5NG?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "price": null,
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Today's Deal",
-      "ts": "2026-03-27T06:58:15.101Z",
-      "type": "deal"
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71UcKaNoGEL._AC_UF350,350_QL50_.jpg"
     }
   ]
 }
