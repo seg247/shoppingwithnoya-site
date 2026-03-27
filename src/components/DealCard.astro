@@ -10,6 +10,7 @@ export interface Props {
     rating: string;
     category: string;
     ts: string;
+    imageUrl?: string | null;
   };
   base: string;
 }
@@ -25,9 +26,9 @@ function ratingColor(r: string) {
 }
 
 const color = ratingColor(deal.rating);
-const imgSrc = deal.asin
-  ? `https://images-na.ssl-images-amazon.com/images/P/${deal.asin}.01._SCLZZZZZZZ_.jpg`
-  : null;
+// Use real CDN imageUrl from scraper; fall back to ASIN thumbnail
+const imgSrc = deal.imageUrl ||
+  (deal.asin ? `https://images-na.ssl-images-amazon.com/images/P/${deal.asin}.01._SCLZZZZZZZ_.jpg` : null);
 const timeAgo = new Date(deal.ts).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'America/New_York' });
 ---
 

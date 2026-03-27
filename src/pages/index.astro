@@ -72,9 +72,9 @@ const dataUrl = `${base}/site-data.json`;
 
   function renderCard(deal) {
     const color = ratingColor(deal.rating);
-    const imgSrc = deal.asin
-      ? `https://images-na.ssl-images-amazon.com/images/P/${deal.asin}.01._SCLZZZZZZZ_.jpg`
-      : null;
+    // Use real CDN imageUrl from scraper; fall back to ASIN thumbnail
+    const imgSrc = deal.imageUrl ||
+      (deal.asin ? `https://images-na.ssl-images-amazon.com/images/P/${deal.asin}.01._SCLZZZZZZZ_.jpg` : null);
     const discountBadge = deal.discount > 0
       ? `<span class="badge-discount" style="background:${color}">💸 ${deal.discount}% OFF</span>` : '';
     const priceBadge = deal.price
