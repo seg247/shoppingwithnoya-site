@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-04-13T22:20:01.873Z",
+  "generatedAt": "2026-04-13T22:30:01.486Z",
   "total": 440,
   "posts": [
+    {
+      "slug": "b002lzsyuk-wall-control-30-wrk-800buw-master-workbench-metal-pegboard-t",
+      "asin": "B002LZSYUK",
+      "title": "Wall Control 30-WRK-800BUW Master Workbench Metal Pegboard Tool Organizer,Blue/White",
+      "url": "https://www.amazon.com/dp/B002LZSYUK?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "price": null,
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Tools & Hardware",
+      "ts": "2026-04-13T22:22:15.600Z",
+      "type": "deal",
+      "imageUrl": null,
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0dk7w9djy-nyx-professional-makeup-lip-iv-hydrating-glossy-lip-stain-wi",
+      "asin": "B0DK7W9DJY",
+      "title": "NYX PROFESSIONAL MAKEUP Lip IV Hydrating Glossy Lip Stain with 12HR Hydration - Cranberry Splash (Red) : Toys & Games",
+      "url": "https://www.amazon.com/dp/B0DK7W9DJY?m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=ea101fcf5547b0c499ed3b667c638e09&language=en_US",
+      "price": null,
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-04-13T22:20:13.170Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/7176Mu9JAOL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0bn53tpn8-little-tikes-story-dream-machine-dino-story-collection-dinos",
       "asin": "B0BN53TPN8",
@@ -6569,36 +6599,6 @@
       "ts": "2026-04-12T08:52:19.148Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71ImbhXrXML.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b00ijyjkri-kohler-k-6379-0-kitchen-sink-squeegee-and-countertop-brush-m",
-      "asin": "B00IJYJKRI",
-      "title": "Kohler K-6379-0 Kitchen Sink Squeegee and Countertop Brush, Multi-Purpose, Cleans Wet and Dry Spills, Dishwasher Safe, W",
-      "url": "https://www.amazon.com/dp/B00IJYJKRI?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "price": null,
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-04-12T08:48:15.964Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/11BOIDhCyZL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0blrq8tn3-liquid-health-complete-multiple",
-      "asin": "B0BLRQ8TN3",
-      "title": "Liquid Health Complete Multiple",
-      "url": "https://www.amazon.com/dp/B0BLRQ8TN3/ref=cm_sw_r_as_gl_apa_gl_i_T0H4GE72HMZHCEY6GZ3J?linkCode=ml1&tag=noya0b-20&linkId=3e0b4dfa393b961b7df40579541bde3a",
-      "price": null,
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-04-12T08:44:14.887Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61S51p+kyiL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
