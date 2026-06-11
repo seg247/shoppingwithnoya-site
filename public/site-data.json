@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-06-11T14:00:01.583Z",
+  "generatedAt": "2026-06-11T14:10:00.355Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "mavely-amc-theatres-2-tickets-drinks-popcorn",
+      "asin": null,
+      "title": "AMC Theatres — 2 Tickets + Drinks + Popcorn",
+      "url": "https://mavely.app.link/rVRFEglEO3b",
+      "price": null,
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Entertainment",
+      "ts": "2026-06-11T14:00:04.334Z",
+      "type": "deal",
+      "imageUrl": null,
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0dsjr7yby-srixon-q-star-ultispeed-golf-balls-white-sports-outdoors",
       "asin": "B0DSJR7YBY",
@@ -2129,21 +2144,6 @@
       "ts": "2026-06-11T03:00:36.690Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/41nH7CReKYL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "mavely-amc-theatres-2-tickets-drinks-popcorn",
-      "asin": null,
-      "title": "AMC Theatres — 2 Tickets + Drinks + Popcorn",
-      "url": "https://mavely.app.link/rVRFEglEO3b",
-      "price": null,
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Entertainment",
-      "ts": "2026-06-11T03:00:01.925Z",
-      "type": "deal",
-      "imageUrl": null,
       "expiresAt": null,
       "promoCode": null
     },
