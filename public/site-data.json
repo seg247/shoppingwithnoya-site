@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T06:20:00.660Z",
+  "generatedAt": "2026-06-14T06:30:00.186Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b09s1bwbwf-trident-vibes-sour-patch-kids-redberry-sugar-free-chewing-gu",
+      "asin": "B09S1BWBWF",
+      "title": "Trident Vibes SOUR PATCH KIDS Redberry Sugar-Free Chewing Gum, 4-40 Piece Bottles (160 Total Pieces) : Grocery & Gourmet",
+      "url": "https://www.amazon.com/dp/B09S1BWBWF/ref=cm_sw_r_as_gl_apa_gl_i_KDKNBB82XD55A5J2Z6J9?linkCode=ml1&tag=noya0b-20&linkId=f1eeeaa2bab69c91cff2e0b18d899b27",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-14T06:26:26.257Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81SdXTZ7iSL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b07sk8x1zq-goli-apple-cider-vinegar-gummies-worlds-first-acv-gummy-with",
+      "asin": "B07SK8X1ZQ",
+      "title": "Goli Apple Cider Vinegar Gummies - Worlds First ACV Gummy with Vitamin B12, Beetroot & Pomegranate - Vegan, Non-GMO, Glu",
+      "url": "https://www.amazon.com/dp/B07SK8X1ZQ/ref=cm_sw_r_as_gl_apa_gl_i_HWX5PAHWBXH6QJTDMN6Q?linkCode=ml1&tag=noya0b-20&linkId=f1b91f8a95e228f3a338b444334f5a12",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-14T06:20:26.545Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Y1VEWXMyL._AC_SL1080_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b07r9gp85m-black-decker-dust-buster-hand-held-vacuum-cordless-rechargea",
       "asin": "B07R9GP85M",
@@ -4231,20 +4259,6 @@
       "promoCode": null
     },
     {
-      "slug": "b07sk8x1zq-goli-apple-cider-vinegar-gummies-worlds-first-acv-gummy-with",
-      "asin": "B07SK8X1ZQ",
-      "title": "Goli Apple Cider Vinegar Gummies - Worlds First ACV Gummy with Vitamin B12, Beetroot & Pomegranate - Vegan, Non-GMO, Glu",
-      "url": "https://www.amazon.com/dp/B07SK8X1ZQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=f8a3bda8e1731e568da6915f2b75ead5&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-13T15:34:26.986Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61Y1VEWXMyL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
       "slug": "b09mztssr2-instant-pot-8-quart-whisper-quiet-9-in-1-electric-pressure-c",
       "asin": "B09MZTSSR2",
       "title": "Instant Pot, 8-Quart Whisper Quiet 9-in-1 Electric Pressure Cooker, Slow Rice Cooker, Steamer, Sauté, Yogurt Maker, Warm",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-13T01:06:29.934Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71JuWu+wlML.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0dfh5qqp1-lowest-price-4-pack-of-lip-butter-balm-only-9-xx-on-amazon",
-      "asin": "B0DFH5QQP1",
-      "title": "Lowest price! 4 pack of Lip Butter Balm Only $9.xx on Amazon! \udc8b",
-      "url": "https://www.amazon.com/dp/B0DFH5QQP1?th=1&linkCode=sl2&tag=noya0b-20&linkId=9947f973e908b4f50ad06c46a8792f87&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T01:02:30.255Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61RaXN7xVcL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
