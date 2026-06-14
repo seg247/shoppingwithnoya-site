@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T11:30:01.193Z",
+  "generatedAt": "2026-06-14T11:40:01.641Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0g2tw36k3-colgate-harry-potter-kids-battery-toothbrush-multipack-extra",
+      "asin": "B0G2TW36K3",
+      "title": "Colgate Harry Potter Kids Battery Toothbrush Multipack, Extra Soft Kids Vibrating Toothbrush, AA Batteries Included, 4 P",
+      "url": "https://www.amazon.com/dp/B0G2TW36K3/ref=cm_sw_r_as_gl_api_gl_i_dl_14D27A3DE88YA8B963W8?linkCode=ml1&tag=noya0b-20&linkId=554b6acd33db9258399b6195fe735d34",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Personal Care",
+      "ts": "2026-06-14T11:34:22.752Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71MgE0y13QL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0frng2n5h-bowflex-results-series-selecttech-dumbbells",
+      "asin": "B0FRNG2N5H",
+      "title": "BowFlex Results Series SelectTech Dumbbells",
+      "url": "https://www.amazon.com/dp/B0FRNG2N5H?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Sports & Fitness",
+      "ts": "2026-06-14T11:32:21.929Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61KE8cmqB+L._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0fms68r65-lego-technic-john-deere-1470h-wheeled-harvester-building-toy",
       "asin": "B0FMS68R65",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T04:36:34.404Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51W6kIIQRNL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b00cfn3khk-whitmor-hanging-boot-file-hanging-storage-for-men-s-and-woma",
-      "asin": "B00CFN3KHK",
-      "title": "Whitmor Hanging Boot File - Hanging Storage for Men's and Woman's Boots - 3 Pair : Office Products",
-      "url": "https://www.amazon.com/dp/B00CFN3KHK/ref=cm_sw_r_as_gl_apa_gl_i_70ZYMMP0Q9VPTP72SQ02?linkCode=ml1&tag=noya0b-20&linkId=e052025a6352a70302ddf630852aff8c",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-06-13T04:34:26.773Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71iOe5IoCPL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b07sfh93gk-livebox-kids-rug-3-x5-car-rug-play-mat-for-playing-cars-toys",
-      "asin": "B07SFH93GK",
-      "title": "LIVEBOX Kids Rug 3'x5' Car Rug Play Mat for Playing Cars Toys, City Life Playroom Rugs Educational Carpet for Children B",
-      "url": "https://www.amazon.com/dp/B07SFH93GK/ref=cm_sw_r_as_gl_apa_gl_i_G6GRQ3VN5BYE0KVTWC49?linkCode=ml1&tag=noya0b-20&linkId=1fed9b11de9b8dd600378bdd66dfda1f",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Toys & Kids",
-      "ts": "2026-06-13T04:24:27.915Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/818hRttwE0L.jpg",
       "expiresAt": null,
       "promoCode": null
     }
