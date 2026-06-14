@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T04:40:02.031Z",
+  "generatedAt": "2026-06-14T04:50:00.815Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0dydk5ngn-pacifica-body-wash-vanilla-crystal-super-hydrating-body-wash",
+      "asin": "B0DYDK5NGN",
+      "title": "Pacifica Body Wash - Vanilla Crystal Super Hydrating Body Wash - Bath & Shower Gel - Clean Beauty, Vegan & Cruelty-Free ",
+      "url": "https://www.amazon.com/dp/B0DYDK5NGN/ref=cm_sw_r_as_gl_apa_gl_i_S0KF1F7E30K7ZA2E39H6?linkCode=ml1&tag=noya0b-20&linkId=cd648afd9100d1c568e41ffaa71e9e4b",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-06-14T04:48:28.573Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61obB5QTx9L.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0gtc1yl5t-ninja-frostvault-50qt-hard-cooler-with-dry-zone-integrated-f",
+      "asin": "B0GTC1YL5T",
+      "title": "Ninja FrostVault 50qt Hard Cooler with Dry Zone | Integrated Fridge-Temp Dry Storage Drawer | Premium Heavy-Duty Insulat",
+      "url": "https://www.amazon.com/dp/B0GTC1YL5T/ref=cm_sw_r_as_gl_apa_gl_i_dl_5YB9RRPA2266R7QZ9JEK?linkCode=ml1&tag=noya0b-20&linkId=d5ca2d1dfdc6e42d41bae72db1b0f940",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-14T04:46:26.611Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61EBaTJh5NL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0cn3n2q8r-squishmallows-original-sanrio-14-inch-50th-anniversary-pink-",
       "asin": "B0CN3N2Q8R",
@@ -5449,20 +5477,6 @@
       "promoCode": null
     },
     {
-      "slug": "b0gtc1yl5t-ninja-frostvault-50qt-hard-cooler-with-dry-zone-integrated-f",
-      "asin": "B0GTC1YL5T",
-      "title": "Ninja FrostVault 50qt Hard Cooler with Dry Zone | Integrated Fridge-Temp Dry Storage Drawer | Premium Heavy-Duty Insulat",
-      "url": "https://www.amazon.com/dp/B0GTC1YL5T?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T08:02:26.856Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/11QvXA-pq5L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
       "slug": "b0gv1lh78y-shark-ultracyclone-pet-pro-plus-cordless-handheld-vacuum-pow",
       "asin": "B0GV1LH78Y",
       "title": "Shark UltraCyclone™ Pet Pro Plus Cordless Handheld Vacuum, Powerful Suction, Portable Vacuum for Car & Home, Pet Power B",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-13T00:40:29.485Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/21qJoDwE+TL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fcmn4v45-dual-tip-metallic-markers-12-pack-only-3-xx-on-amazon-reg-8",
-      "asin": "B0FCMN4V45",
-      "title": "Dual Tip Metallic Markers 12-Pack Only $3.xx on Amazon (Reg $8)",
-      "url": "https://www.amazon.com/Prudiut-Metallic-Christmas-Painting-Scrapbooking/dp/B0FCMN4V45?th=1&linkCode=sl2&tag=noya0b-20&linkId=11875a7ab5aa25f28044fc62563e905e&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T00:38:30.497Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71Lc95DI6+L.jpg",
       "expiresAt": null,
       "promoCode": null
     }
