@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-14T07:30:00.201Z",
+  "generatedAt": "2026-06-14T07:40:01.902Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0d9mdy56x-turtle-beach-kone-ii-air-wireless-rgb-gaming-mouse-350-hr-re",
+      "asin": "B0D9MDY56X",
+      "title": "Turtle Beach Kone II Air Wireless RGB Gaming Mouse, 350-Hr Rechargeable Battery, 26000 DPI Optical Sensor, 100M Click Op",
+      "url": "https://www.amazon.com/dp/B0D9MDY56X/ref=cm_sw_r_as_gl_apa_gl_i_Z2HPE1RZA8C5ZGVQ30TX?linkCode=ml1&tag=noya0b-20&linkId=110ee8b5f6b4b7816339c438c0545348",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-06-14T07:38:19.805Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/618fDSoUS8L._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0gk9776yf-cooling-comforter-queen-size-cooling-blanket-for-hot-sleeper",
       "asin": "B0GK9776YF",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-13T01:26:27.707Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/810ofwYxjfL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0f2jn4bfq-nuwave-bravo-pro-convection-air-fryer-toaster-oven-combo-202",
-      "asin": "B0F2JN4BFQ",
-      "title": "Nuwave Bravo Pro Convection Air Fryer Toaster Oven Combo, 2025 New and Improved, 10-in-1, 50°-450°F Temp Controls, Quick",
-      "url": "https://www.amazon.com/dp/B0F2JN4BFQ?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=cc696fb54e5a94b539d8afa36b41bdc2&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-13T01:24:29.708Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71OouUxKelL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
