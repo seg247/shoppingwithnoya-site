@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-14T08:50:01.729Z",
+  "generatedAt": "2026-06-14T09:00:00.191Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b01n5ojocm-camco-eaz-lift-camper-rv-bumper-hitch-ideal-for-bikes-cargo-",
+      "asin": "B01N5OJOCM",
+      "title": "Camco Eaz-Lift Camper/RV Bumper Hitch - Ideal for Bikes, Cargo Racks & More - Clamps onto 4” Square RV Bumpers - No Dril",
+      "url": "https://www.amazon.com/dp/B01N5OJOCM/ref=cm_sw_r_as_gl_api_gl_i_dl_WKBC4BHGRFF8JBJ5SNNG?linkCode=ml1&tag=noya0b-20&linkId=951ccfca13feb41ff1680aeaaecb3426",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-14T08:56:27.642Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71YNuXct7zL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0dpxyjvqq-squishmallows-original-12in-sonic-the-hedgehog-vampire-sonic",
       "asin": "B0DPXYJVQQ",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-13T02:04:26.420Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/21qJoDwE+TL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b07h17k8zx-white-paper-towel-roll-7-7-8-w-x-160-l-8-rolls",
-      "asin": "B07H17K8ZX",
-      "title": "White Paper Towel Roll 7-7/8\"W x 160'L, 8 Rolls",
-      "url": "https://www.amazon.com/dp/B07H17K8ZX?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&linkCode=sl2&tag=noya0b-20&linkId=dd25e3c922a7eba2fda05bf761c50f52&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Cleaning Supplies",
-      "ts": "2026-06-13T02:02:28.051Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/419q27AsAiL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
