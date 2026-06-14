@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T12:50:01.769Z",
+  "generatedAt": "2026-06-14T13:00:00.674Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0dpfh5sr3-bandai-hobby-mobile-suit-gundam-gquuuuuux-1-gquuuuuux-hg-1-1",
+      "asin": "B0DPFH5SR3",
+      "title": "Bandai Hobby - Mobile Suit Gundam GQuuuuuuX - #1 GQuuuuuuX HG 1/144 Model Kit",
+      "url": "https://www.amazon.com/dp/B0DPFH5SR3/ref=cm_sw_r_as_gl_api_gl_i_EXN9TRH9JNBG3BDE7SSX?linkCode=ml1&tag=noya0b-20&linkId=42efe12ab9297372b8e6b72283c2aad2",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-14T12:52:27.375Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/6140TmFvwbL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b085pwsjgl-acqua-panna-natural-spring-water-11-15-fl-oz-plastic-water-b",
+      "asin": "B085PWSJGL",
+      "title": "Acqua Panna Natural Spring Water, 11.15 FL OZ Plastic Water Bottles (24 Count) : Health & Household",
+      "url": "https://www.amazon.com/dp/B085PWSJGL/ref=cm_sw_r_as_gl_api_gl_i_E401GS7YPXPDYWGF3JXN?linkCode=ml1&tag=noya0b-20&linkId=b99fd5e2efb1aa2c3a4ed35dc7c846d0",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-14T12:50:29.089Z",
+      "type": "deal",
+      "imageUrl": null,
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b08ppzwncv-instant-pot-pro-8-qt-10-in-1-pressure-cooker-slow-cooker-ric",
       "asin": "B08PPZWNCV",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T06:34:28.447Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71kPTHKnBIL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b08wm298tv-jbl-tune-510bt-bluetooth-headphones-with-up-to-40-hours-batt",
-      "asin": "B08WM298TV",
-      "title": "JBL Tune 510BT - Bluetooth headphones with up to 40 hours battery, microphone for call, foldable and comfortable, Androi",
-      "url": "https://www.amazon.com/dp/B08WM298TV/ref=cm_sw_r_as_gl_apa_gl_i_8EHG4830B418HGJDE1G1?linkCode=ml1&tag=noya0b-20&linkId=04c73a79530c240ac71fd9d9e1277318",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-06-13T06:30:29.913Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51EUjPMn6UL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0gys1tzsh-butter-squishy-stress-toy",
-      "asin": "B0GYS1TZSH",
-      "title": "Butter Squishy Stress Toy",
-      "url": "https://www.amazon.com/dp/B0GYS1TZSH?linkCode=sl2&tag=noya0b-20&linkId=d5e29690486c56f1dd5cd17732d0916b&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T06:28:25.908Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/21qJoDwE+TL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
