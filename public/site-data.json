@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T06:50:00.999Z",
+  "generatedAt": "2026-06-14T07:00:00.483Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b008exf1mc-blue-buffalo-wilderness-kitten-grain-free-chicken-pat-wet-ca",
+      "asin": "B008EXF1MC",
+      "title": "Blue Buffalo Wilderness Kitten Grain-Free Chicken Paté Wet Cat Food with DHA, High-Protein & Made with Natural Ingredien",
+      "url": "https://www.amazon.com/dp/B008EXF1MC/ref=cm_sw_r_as_gl_apa_gl_i_SRVVK3E2RSEAADM7H7ZD?linkCode=ml1&tag=noya0b-20&linkId=f5186c8c00f3844a4cdbf215c0d5de56",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Pet Supplies",
+      "ts": "2026-06-14T06:56:27.494Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81WCdYwj3xL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b09v7z4tjg-medicube-toner-pads-zero-pore-pad-2-0-dual-textured-facial-p",
+      "asin": "B09V7Z4TJG",
+      "title": "medicube Toner Pads Zero Pore Pad 2.0 | Dual-Textured Facial Pad for Exfoliation and Pore Care with 4.5% AHA Lactic Acid",
+      "url": "https://www.amazon.com/dp/B09V7Z4TJG/ref=cm_sw_r_as_gl_apa_gl_i_ZRJ4QG5JBNXXHVEKTDE7?linkCode=ml1&tag=noya0b-20&linkId=3e1ddc01ead41cd15db19b5654e05add",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-06-14T06:52:24.707Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Mcspt-6AL._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0d9w46w82-country-kitchen-nonstick-stackable-bakeware-set-deluxe-heavy",
       "asin": "B0D9W46W82",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T01:18:34.441Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61XUpm7uijL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0cdy277d3-chefman-6-quart-dual-basket-air-fryer-oven-with-easy-view-wi",
-      "asin": "B0CDY277D3",
-      "title": "CHEFMAN 6 Quart Dual Basket Air Fryer Oven with Easy View Windows, Sync Finish, Hi-Fry, Auto Shutoff, 2 Independent 3Qt ",
-      "url": "https://www.amazon.com/dp/B0CDY277D3?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-13T01:08:34.398Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81VavY-KG8L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0g4cq5qlx-preferhouse-dog-floats-for-pool-dog-pool-float-for-small-med",
-      "asin": "B0G4CQ5QLX",
-      "title": "Preferhouse Dog Floats for Pool, Dog Pool Float for Small Medium and Large Dogs, Pet Inflatable Swimming Float for Lake ",
-      "url": "https://www.amazon.com/Preferhouse-Floats-Medium-Inflatable-Swimming/dp/B0G4CQ5QLX?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=641fd471794415faa319b97d12c1223d&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T01:06:29.934Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71JuWu+wlML.jpg",
       "expiresAt": null,
       "promoCode": null
     }
