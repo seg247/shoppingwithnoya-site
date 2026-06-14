@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T10:40:00.539Z",
+  "generatedAt": "2026-06-14T10:50:01.120Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0gh8jxyx9-contigo-autoseal-16-oz-stainless-steel-vacuum-insulated-wate",
+      "asin": "B0GH8JXYX9",
+      "title": "Contigo AutoSeal 16 oz Stainless Steel Vacuum-Insulated Water Bottle with Leakproof Push-Button Spout & Lock, Carry Stra",
+      "url": "https://www.amazon.com/dp/B0GH8JXYX9/ref=cm_sw_r_as_gl_api_gl_i_dl_DQ6NKPQ1S9PZPPVK0EF4?linkCode=ml1&tag=noya0b-20&linkId=a4c6163251e9c17142aefc90fbc5398d",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-14T10:46:23.265Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61nD9vkP9lL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0czy31npr-flexoffice-24-pack-color-edges-plastic-sheet-protectors-8-5-",
+      "asin": "B0CZY31NPR",
+      "title": "FLEXOFFICE 24 Pack, Color Edges Plastic Sheet Protectors 8.5\"x11\", Premium Heavy Duty, Top & Side Loading, Page Protecto",
+      "url": "https://www.amazon.com/dp/B0CZY31NPR/ref=cm_sw_r_as_gl_api_gl_i_AGHV5NC6GS8D6EEV6PTA?linkCode=ml1&tag=noya0b-20&linkId=784202a02d1711bf30dd0cc22a8ac61d",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-14T10:42:20.887Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71nPo9ABi+L.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b08ppzwncv-instant-pot-pro-8-qt-10-in-1-pressure-cooker-slow-cooker-ric",
       "asin": "B08PPZWNCV",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T03:52:26.649Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/21qJoDwE+TL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0f6c1l1kk-preorder-releases-07-21",
-      "asin": "B0F6C1L1KK",
-      "title": "Preorder Releases 07/21",
-      "url": "https://www.amazon.com/dp/B0F6C1L1KK/ref=cm_sw_r_as_gl_apa_gl_i_RQ53B5GR7X596S5AE8PV?linkCode=ml1&tag=noya0b-20&linkId=dd1398456934e37666fa0c650f438792",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T03:48:27.622Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/715sk4YXaDL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0cnf1mswf-nexxus-styling-spray-xxl-finish-volume-just-4-xx-reg-18",
-      "asin": "B0CNF1MSWF",
-      "title": "Nexxus Styling Spray XXL Finish Volume JUST $4.xx! (Reg. $18)",
-      "url": "https://www.amazon.com/dp/B0CNF1MSWF?th=1&linkCode=sl2&tag=noya0b-20&linkId=35041a3cb36b35d7bda75d73940285a2&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T03:36:28.858Z",
-      "type": "deal",
-      "imageUrl": null,
       "expiresAt": null,
       "promoCode": null
     }
