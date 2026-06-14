@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T09:40:00.444Z",
+  "generatedAt": "2026-06-14T09:50:00.373Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0ffsdcnr4-jackery-homepower-3000-portable-power-station-with-2x-200w-s",
+      "asin": "B0FFSDCNR4",
+      "title": "Jackery HomePower 3000 Portable Power Station with 2X 200W Solar Panels, 3600W (Surge 7200W) Output, 3072Wh LFP Battery ",
+      "url": "https://www.amazon.com/dp/B0FFSDCNR4?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-14T09:48:25.295Z",
+      "type": "deal",
+      "imageUrl": null,
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b00939i7ek-ninja-kitchen-system-all-in-one-food-processor-blender-for-s",
+      "asin": "B00939I7EK",
+      "title": "Ninja Kitchen System | All-in-One Food Processor & Blender for Smoothies | Includes Pitcher, (2) 16 oz. To-Go Cups & 8-C",
+      "url": "https://www.amazon.com/dp/B00939I7EK?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-14T09:46:22.730Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81ME5sqz5TL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0c8135647-clear-bag-for-stadium-events-approved-small-clear-crossbody-",
       "asin": "B0C8135647",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T02:38:26.671Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/21qJoDwE+TL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0cv5ymmt1-mucinex-sinus-saline-nasal-spray-sinus-rinse-drug-free-addit",
-      "asin": "B0CV5YMMT1",
-      "title": "Mucinex Sinus Saline Nasal Spray & Sinus Rinse, Drug-Free, Additive Free, Non-Drowsy Nasal Irrigation with 2-in-1 Jet + ",
-      "url": "https://www.amazon.com/dp/B0CV5YMMT1?ie=UTF8&ascsubtag=63db22e266d011f1b36026c003b84d860INT&th=1&linkCode=sl2&tag=noya0b-20&linkId=6a043001a414cef5572313a5996d1e93&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Health",
-      "ts": "2026-06-13T02:36:30.056Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/6137AABbd+L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b00ixbms6m-nuwave-bravo-air-fryer-toaster-smart-oven-12-in-1-countertop",
-      "asin": "B00IXBMS6M",
-      "title": "Nuwave Bravo Air Fryer Toaster Smart Oven, 12-in-1 Countertop Convection, 30-QT XL Capacity, 50°-500°F Temperature Contr",
-      "url": "https://www.amazon.com/dp/B00IXBMS6M?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-13T02:32:29.789Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81UDiz1iWPL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
