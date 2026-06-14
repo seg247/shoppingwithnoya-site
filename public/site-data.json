@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-14T11:50:02.013Z",
+  "generatedAt": "2026-06-14T12:00:01.667Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b076v317q8-horusdy-6-piece-1000v-insulated-precision-screwdriver-set-ma",
+      "asin": "B076V317Q8",
+      "title": "HORUSDY 6-Piece 1000V Insulated Precision Screwdriver Set, Magnetic Tip CR-V Electrician Tools with Cushion Grip TPR Han",
+      "url": "https://www.amazon.com/dp/B076V317Q8/ref=cm_sw_r_as_gl_api_gl_i_dl_3WMNRDETAFCQS99ECS2G?linkCode=ml1&tag=noya0b-20&linkId=70bd3222aea6c54f096cb0e29ad4e3bd",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Tools & Hardware",
+      "ts": "2026-06-14T11:58:23.890Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81txs0pcjhL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0d1gvtmhf-aeropostale-men-s-aero-uniform-polo-short-sleeve",
       "asin": "B0D1GVTMHF",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-13T04:50:26.766Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71VVn9fb73L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0gq6sd8tz-mambobaby-no-flip-baby-pool-float-with-canopy-tail-non-infla",
-      "asin": "B0GQ6SD8TZ",
-      "title": "Mambobaby No-Flip Baby Pool Float with Canopy & Tail Non-Inflatable Swim Float for Infants, Pearl-Foam, UPF 50+ & Adjust",
-      "url": "https://www.amazon.com/dp/B0GQ6SD8TZ/ref=cm_sw_r_as_gl_apa_gl_i_FM8E9S6D80T9HAR7QX0C?linkCode=ml1&tag=noya0b-20&linkId=238f8a93ab9dfc710f4edd2e0ac815f3",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-13T04:48:30.127Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/711jotPZFAL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
