@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T04:00:01.422Z",
+  "generatedAt": "2026-06-14T04:10:00.367Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b07tcfrkcy-burt-s-bees-renewal-dark-spot-corrector-with-natural-retinol",
+      "asin": "B07TCFRKCY",
+      "title": "Burt's Bees Renewal Dark Spot Corrector With Natural Retinol Alternative and Vitamin C, Reduces Appearance of Dark Spots",
+      "url": "https://www.amazon.com/dp/B07TCFRKCY/ref=cm_sw_r_as_gl_apa_gl_i_RHB9QJ5BEZP5P5MQ3JB8?linkCode=ml1&tag=noya0b-20&linkId=af3a75fcf1faa8a0f87a732235008f2d",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-06-14T04:06:21.839Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/711JoxSGjDL._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0dm2n7l4j-hydrapeak-nba-officially-licensed-hardwood-classics-retro-al",
+      "asin": "B0DM2N7L4J",
+      "title": "Hydrapeak NBA Officially Licensed Hardwood Classics Retro All-Team Sticker Print Logo 32oz Insulated Water Bottle with S",
+      "url": "https://www.amazon.com/dp/B0DM2N7L4J/ref=cm_sw_r_as_gl_apa_gl_i_8P3BQTQXDAH0BNKQJAZE?linkCode=ml1&tag=noya0b-20&linkId=82161b3e13cb8739859a3e56245ff9f1",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-14T04:04:27.818Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71s3wW749pL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0g3y7rcgx-old-spice-antiperspirant-spray-for-men-24-7-sweat-odor-prote",
       "asin": "B0G3Y7RCGX",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T00:32:30.902Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61qFDIh4wdL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0gymqdh39-ytl-travel-makeup-bag-puffer-cosmetic-bag-for-women-waterpro",
-      "asin": "B0GYMQDH39",
-      "title": "YTL Travel Makeup Bag, Puffer Cosmetic Bag for Women, Waterproof Puffy Padded Make Up Bags, Flat Open Portable Organizer",
-      "url": "https://www.amazon.com/dp/B0GYMQDH39?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-06-13T00:32:29.530Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81X09rGOm-L._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0d73z95tq-women-s-sleeveless-sundress-with-pockets-only-9-xx-on-amazon",
-      "asin": "B0D73Z95TQ",
-      "title": "Women's Sleeveless Sundress with Pockets Only $9.xx on Amazon (Reg. $25)!\ude0d",
-      "url": "https://www.amazon.com/Flower-Dresses-Trendy-Sundresses-Pockets/dp/B0D73Z95TQ?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=26dd00e4b7a487eea67400080d5a5662&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-06-13T00:30:35.382Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71lFhX7JV5L._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
