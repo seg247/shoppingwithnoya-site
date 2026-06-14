@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T16:00:01.287Z",
+  "generatedAt": "2026-06-14T16:10:01.553Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b089tqb1rb-amazon-com-shark-az2002-vertex-powered-lift-away-upright-vac",
+      "asin": "B089TQB1RB",
+      "title": "Amazon.com - Shark AZ2002 Vertex Powered Lift-Away Upright Vacuum with DuoClean PowerFins, Self-Cleaning Brushroll, Larg",
+      "url": "https://www.amazon.com/dp/B089TQB1RB?th=1&linkCode=sl2&tag=noya0b-20&linkId=c03072e5bc79e3bc258b7b24e8b5a72b&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-14T16:08:33.259Z",
+      "type": "deal",
+      "imageUrl": null,
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0bmss7c2d-epson-workforce-pro-wf-3823-wireless-all-in-one-printer-with",
+      "asin": "B0BMSS7C2D",
+      "title": "Epson Workforce Pro WF-3823 Wireless All-in-One Printer with Auto 2-Sided Printing, 35-Page ADF, 250-Sheet Paper Tray an",
+      "url": "https://www.amazon.com/dp/B0BMSS7C2D?th=1&linkCode=sl2&tag=noya0b-20&linkId=986c445a91b04c5b097f9952f5c19e58&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-14T16:02:34.564Z",
+      "type": "deal",
+      "imageUrl": null,
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0dttvdtzr-omg",
       "asin": "B0DTTVDTZR",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T08:50:28.578Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61Q8JKCRnEL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0f6vv1zfg-blink-video-doorbell-outdoor-4-wireless-smart-security-camer",
-      "asin": "B0F6VV1ZFG",
-      "title": "Blink Video Doorbell + Outdoor 4 – Wireless smart security cameras, head-to-toe HD view, two-year battery life. Sync Mod",
-      "url": "https://www.amazon.com/dp/B0F6VV1ZFG/ref=cm_sw_r_as_gl_apa_gl_i_dl_8ZDX738NGNBVWTKMWNGX?linkCode=ml1&tag=noya0b-20&linkId=0b8445db031cc45b84251b68e27dc71a",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-06-13T08:48:25.640Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61-so6myJUL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0dd7czfny-sun-bum-original-spf-30-sunscreen-lotion-vegan-and-hawaii-10",
-      "asin": "B0DD7CZFNY",
-      "title": "Sun Bum Original SPF 30 Sunscreen Lotion | Vegan and Hawaii 104 Act Compliant (Octinoxate & Oxybenzone Free) Broad Spect",
-      "url": "https://www.amazon.com/dp/B0DD7CZFNY/ref=cm_sw_r_as_gl_apa_gl_i_RVHWD6XXXF636TX1VXS5?linkCode=ml1&tag=noya0b-20&linkId=d2b75299b18aa4efc057709b241a146a",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-06-13T08:46:27.617Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81Z9F4akcxL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
