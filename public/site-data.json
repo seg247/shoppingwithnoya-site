@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T08:10:01.792Z",
+  "generatedAt": "2026-06-14T08:20:00.385Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b000z8yx78-derma-e-acne-oil-control-face-moisturizer-2-oz-matte-moistur",
+      "asin": "B000Z8YX78",
+      "title": "DERMA E Acne Oil Control Face Moisturizer, 2 Oz, Matte Moisturizer with Salicylic Acid, Tea Tree Oil & Aloe Vera, Face C",
+      "url": "https://www.amazon.com/dp/B000Z8YX78/ref=cm_sw_r_as_gl_apa_gl_i_6RBWD6NW3MDFJ5FJXN8J?linkCode=ml1&tag=noya0b-20&linkId=2fa6c17adf68b44c6b537ea7b2b02f36",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-14T08:18:24.304Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61desJg6IiL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0fbg4xlv1-18-piece-bath-towels-set-100-microfiber-family-bathroom-towe",
+      "asin": "B0FBG4XLV1",
+      "title": "18 Piece Bath Towels Set,100% Microfiber Family Bathroom Towel with Hanging Loops-6 Bath Towels,6 Hand Towels,6 Washclot",
+      "url": "https://www.amazon.com/dp/B0FBG4XLV1/ref=cm_sw_r_as_gl_apa_gl_i_dl_X86ET3RKJDA3WMHVG2Z2?linkCode=ml1&tag=noya0b-20&linkId=e04def92f73cee3a0ff0e07397249f4e",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-14T08:10:27.020Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/91z0VUr+isL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b01fhowya2-ninja-fit-compact-personal-blender-for-smoothies-shakes-froz",
       "asin": "B01FHOWYA2",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T01:38:30.635Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/81h0cqWBAnL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0g69t8lbq-grace-karin-womens-summer-maxi-floral-dress-casual-2026-long",
-      "asin": "B0G69T8LBQ",
-      "title": "GRACE KARIN Womens Summer Maxi Floral Dress Casual 2026 Long Zipper Dresses Boho Flowy Beach Vacation Sundress with Pock",
-      "url": "https://www.amazon.com/dp/B0G69T8LBQ?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-06-13T01:36:28.997Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81sshRAPe-L._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0cppd6p5w-funjuly-maternity-skirt-women-s-high-waist-floral-print-mate",
-      "asin": "B0CPPD6P5W",
-      "title": "FUNJULY Maternity Skirt Women's High Waist Floral Print Maternity Skirts Ruffled Tiered Casual A Line Swing Boho Skirts ",
-      "url": "https://www.amazon.com/dp/B0CPPD6P5W?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=a32910ef8506b6da4a8978a46560c3c8&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T01:34:27.892Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/7143pEc5IPL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
