@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-14T16:20:01.703Z",
+  "generatedAt": "2026-06-14T16:30:01.998Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b01bgq1hf8-orgain-organic-vegan-protein-powder-creamy-chocolate-fudge-2",
+      "asin": "B01BGQ1HF8",
+      "title": "Orgain Organic Vegan Protein Powder, Creamy Chocolate Fudge - 21g Plant Protein, 7g Prebiotic Fiber, Low Net Carb, No La",
+      "url": "https://www.amazon.com/dp/B01BGQ1HF8?ie=UTF8&ascsubtag=cda48a36680d11f193402a158784cb780INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=1dbfdbfc16a9f63a08d45eeb4e219234&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-14T16:28:30.830Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71dlyx8HhLL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b089tqb1rb-amazon-com-shark-az2002-vertex-powered-lift-away-upright-vac",
       "asin": "B089TQB1RB",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-13T08:54:28.396Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/81WArrp4csL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fztlyp5m-loftychef-portable-4-cup-electric-heated-lunch-box-33oz-food",
-      "asin": "B0FZTLYP5M",
-      "title": "LoftyChef Portable 4 Cup Electric Heated Lunch Box, 33oz Food Warmer for Work& Travel, Leak-Proof Silicone Lid, Foldable",
-      "url": "https://www.amazon.com/dp/B0FZTLYP5M/ref=cm_sw_r_as_gl_apa_gl_i_dl_N35X5TRCQ3N6R5GF31YG?linkCode=ml1&tag=noya0b-20&linkId=00d322c7363cff98ca1805a2eed350dd",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-13T08:50:28.578Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61Q8JKCRnEL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
