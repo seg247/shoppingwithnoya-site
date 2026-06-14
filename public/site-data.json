@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-14T06:30:00.186Z",
+  "generatedAt": "2026-06-14T06:40:00.602Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0d9w46w82-country-kitchen-nonstick-stackable-bakeware-set-deluxe-heavy",
+      "asin": "B0D9W46W82",
+      "title": "Country Kitchen Nonstick Stackable Bakeware Set - Deluxe Heavy Duty, Durable, Easy Release Baking Set, Sage, 13 Pcs",
+      "url": "https://www.amazon.com/dp/B0D9W46W82/ref=cm_sw_r_as_gl_apa_gl_i_GSYQSY0BZQGYEVR610X4?linkCode=ml1&tag=noya0b-20&linkId=3683b9c43a0976cf796aa3cf570310ba",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-14T06:34:27.963Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/813skiFpVPL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b09s1bwbwf-trident-vibes-sour-patch-kids-redberry-sugar-free-chewing-gu",
       "asin": "B09S1BWBWF",
@@ -1693,20 +1707,6 @@
       "ts": "2026-06-13T23:16:33.830Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51cbTe9hELL._AC_SL1200_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0d9w46w82-country-kitchen-nonstick-stackable-bakeware-set-deluxe-heavy",
-      "asin": "B0D9W46W82",
-      "title": "Country Kitchen Nonstick Stackable Bakeware Set - Deluxe Heavy Duty, Durable, Easy Release Baking Set, Sage, 13 Pcs",
-      "url": "https://www.amazon.com/dp/B0D9W46W82?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-13T23:14:33.532Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71rkCHrAu8L._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     },
