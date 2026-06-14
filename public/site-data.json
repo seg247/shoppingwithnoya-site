@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-14T03:50:00.447Z",
+  "generatedAt": "2026-06-14T04:00:01.422Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0g3y7rcgx-old-spice-antiperspirant-spray-for-men-24-7-sweat-odor-prote",
+      "asin": "B0G3Y7RCGX",
+      "title": "Old Spice Antiperspirant Spray for Men, 24/7 Sweat & Odor Protection, 24/7 Signature Scent & Lasting Freshness, Lightwei",
+      "url": "https://www.amazon.com/dp/B0G3Y7RCGX/ref=cm_sw_r_as_gl_apa_gl_i_86QGPWRJNT24BY3QNXVQ?linkCode=ml1&tag=noya0b-20&linkId=0ac69cb6b1bf12f5e9b6c0220e2e774a",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-14T03:54:25.570Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61vOYufcRaL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b08r12qzs1-ninja-toaster-oven-air-fryer-thermometer-toaster-oven-air-fr",
       "asin": "B08R12QZS1",
@@ -5053,20 +5067,6 @@
       "ts": "2026-06-13T09:24:26.239Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/712AjV53C0L._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0g3y7rcgx-old-spice-antiperspirant-spray-for-men-24-7-sweat-odor-prote",
-      "asin": "B0G3Y7RCGX",
-      "title": "Old Spice Antiperspirant Spray for Men, 24/7 Sweat & Odor Protection, 24/7 Signature Scent & Lasting Freshness, Lightwei",
-      "url": "https://www.amazon.com/dp/B0G3Y7RCGX/ref=cm_sw_r_as_gl_api_gl_i_ECFNC9DK5BQ952YYX1QT?linkCode=ml1&tag=noya0b-20&linkId=4600e5244f62f2665f78aa331e15c1b5",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-13T09:20:27.759Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61vOYufcRaL.jpg",
       "expiresAt": null,
       "promoCode": null
     },
