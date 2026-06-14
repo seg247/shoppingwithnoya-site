@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-14T07:40:01.902Z",
+  "generatedAt": "2026-06-14T07:50:01.111Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fmyryvkw-shark-matrix-plus-2in1-robot-vacuum-mop-with-sonic-mopping-m",
+      "asin": "B0FMYRYVKW",
+      "title": "Shark Matrix Plus 2in1 Robot Vacuum & Mop with Sonic Mopping, Matrix Clean, Home Mapping, HEPA Bagless Self Empty Base, ",
+      "url": "https://www.amazon.com/dp/B0FMYRYVKW/ref=cm_sw_r_as_gl_apa_gl_i_CF8SXFNKPQQKW15BCYEK?linkCode=ml1&tag=noya0b-20&linkId=51ddc271dcb3455c5f1f4555ae1b5707",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-14T07:42:23.191Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/711Y7XezncL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0d9mdy56x-turtle-beach-kone-ii-air-wireless-rgb-gaming-mouse-350-hr-re",
       "asin": "B0D9MDY56X",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-13T01:28:28.910Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71u2hlA-P2L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0gffmy7t2-tide-pods-laundry-detergent-soap-with-downy-4-in-1-stain-rem",
-      "asin": "B0GFFMY7T2",
-      "title": "Tide PODS Laundry Detergent Soap with Downy 4-in-1 Stain Remover Freshness Softness Detergent pacs, April Fresh Scent, 3",
-      "url": "https://www.amazon.com/dp/B0GFFMY7T2?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=566383925eae691b8b12df3bc2b84170&language=en_US",
-      "discount": 15,
-      "rating": "GOOD",
-      "category": "Cleaning Supplies",
-      "ts": "2026-06-13T01:26:27.707Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/810ofwYxjfL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
