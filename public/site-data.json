@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T13:00:00.674Z",
+  "generatedAt": "2026-06-14T13:10:01.634Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0c384t4p2-breville-bsv600pss-joule-turbo-sous-vide-machine-polished-st",
+      "asin": "B0C384T4P2",
+      "title": "Breville BSV600PSS Joule Turbo Sous Vide Machine, Polished Stainless Steel",
+      "url": "https://www.amazon.com/dp/B0C384T4P2?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-14T13:08:26.832Z",
+      "type": "deal",
+      "imageUrl": null,
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0fms87vkq-lego-speed-champions-mclaren-w1-race-car-toy-for-boys-girls-",
+      "asin": "B0FMS87VKQ",
+      "title": "LEGO Speed Champions McLaren W1 Race Car Toy for Boys & Girls, Ages 9+ - Building Set for Pretend Play & Display w/1 Dri",
+      "url": "https://www.amazon.com/dp/B0FMS87VKQ/ref=cm_sw_r_as_gl_api_gl_i_GRV08Z2AT9T341QH5F7R?linkCode=ml1&tag=noya0b-20&linkId=25c1d9a721b6f32be74a856b93d1a990",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Toys & Kids",
+      "ts": "2026-06-14T13:06:27.941Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81bc2K6cTTL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0dpfh5sr3-bandai-hobby-mobile-suit-gundam-gquuuuuux-1-gquuuuuux-hg-1-1",
       "asin": "B0DPFH5SR3",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T06:38:34.617Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/81Ar3QzaS9L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0752vwv65-hamilton-beach-digital-programmable-rice-cooker-food-steamer",
-      "asin": "B0752VWV65",
-      "title": "Hamilton Beach Digital Programmable Rice Cooker & Food Steamer, 8 Cups Cooked (4 Uncooked), With Steam & Rinse Basket, S",
-      "url": "https://www.amazon.com/dp/B0752VWV65/ref=cm_sw_r_as_gl_apa_gl_i_T7F73Z26DJCGN3NPDM4K?linkCode=ml1&tag=noya0b-20&linkId=c73da85c3e3ee380193ea3839fa686bb",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-13T06:36:26.763Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81DS0bClg0L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b000gg6d9a-nature-s-bounty-melatonin-3mg-quick-dissolve-sleep-aid-suppl",
-      "asin": "B000GG6D9A",
-      "title": "Nature's Bounty Melatonin 3mg Quick Dissolve, Sleep Aid Supplement, Sleep Aids for Adults, Cherry Flavor, 240 Count (Pac",
-      "url": "https://www.amazon.com/dp/B000GG6D9A/ref=cm_sw_r_as_gl_apa_gl_i_YK57P8YCXCG659MYF31H?linkCode=ml1&tag=noya0b-20&linkId=f2ea08900b810e8847f4022ef84755c6",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Cleaning Supplies",
-      "ts": "2026-06-13T06:34:28.447Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71kPTHKnBIL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
