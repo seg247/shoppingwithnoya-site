@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-14T04:20:00.247Z",
+  "generatedAt": "2026-06-14T04:30:00.853Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fzthjmdd-portable-20-ounce-electric-heated-lunch-box",
+      "asin": "B0FZTHJMDD",
+      "title": "Portable 20-Ounce Electric Heated Lunch Box",
+      "url": "https://www.amazon.com/dp/B0FZTHJMDD?th=1&linkCode=sl2&tag=noya0b-20&linkId=97cf845179f77d23cc838ca3febfc073&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-14T04:20:27.102Z",
+      "type": "deal",
+      "imageUrl": null,
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b07tcfrkcy-burt-s-bees-renewal-dark-spot-corrector-with-natural-retinol",
       "asin": "B07TCFRKCY",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-13T00:34:30.096Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51A5tJrQAUL._AC_SL1130_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0dmzhgtgp-diu-life-3-pack-biker-plus-size-shorts-for-women-with-pocket",
-      "asin": "B0DMZHGTGP",
-      "title": "Diu Life 3 Pack Biker Plus Size Shorts for Women with Pockets - High Waist 8\" Black Workout Shorts for Yoga (1X 2X 3X 4X",
-      "url": "https://www.amazon.com/Diu-Life-Biker-Shorts-Pockets/dp/B0DMZHGTGP?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=3f585c470b3df512a9af1659fe36bb32&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T00:32:30.902Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61qFDIh4wdL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
