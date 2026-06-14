@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T04:30:00.853Z",
+  "generatedAt": "2026-06-14T04:40:02.031Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0cn3n2q8r-squishmallows-original-sanrio-14-inch-50th-anniversary-pink-",
+      "asin": "B0CN3N2Q8R",
+      "title": "Squishmallows Original Sanrio 14-Inch 50th Anniversary Pink Embossed Hello Kitty – Official Jazwares Plush (Large) : Toy",
+      "url": "https://www.amazon.com/dp/B0CN3N2Q8R/ref=cm_sw_r_as_gl_apa_gl_i_dl_3Z8J81RZ73ABHJXF19AV?linkCode=ml1&tag=noya0b-20&linkId=2355c29c917412748e3ad1c1e18c6133",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Toys & Kids",
+      "ts": "2026-06-14T04:34:28.243Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71fP7S1Po4L.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0cmv9pyrq-bissell-crosswave-omniforce-cordless-wet-dry-vacuum-mop-mult",
+      "asin": "B0CMV9PYRQ",
+      "title": "Bissell CrossWave OmniForce Cordless Wet Dry Vacuum Mop, Multi-Surface Floor Cleaner with Tangle-Free Brush Roll & Dedic",
+      "url": "https://www.amazon.com/dp/B0CMV9PYRQ/ref=cm_sw_r_as_gl_apa_gl_i_dl_5CWNKVW0KPF6W5Q03118?linkCode=ml1&tag=noya0b-20&linkId=1138dc17aa4b6190dad5249cd3a5ec63",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-14T04:30:25.505Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71SwH11djQL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0fzthjmdd-portable-20-ounce-electric-heated-lunch-box",
       "asin": "B0FZTHJMDD",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T00:38:30.497Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71Lc95DI6+L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0gyw5h45c-usa-250th-anniversary-4th-of-july-decorations-patriotic-part",
-      "asin": "B0GYW5H45C",
-      "title": "USA 250th Anniversary 4th of July Decorations Patriotic Party Supplies, 30Pcs Reusable Red White Blue Star Shaped Straws",
-      "url": "https://www.amazon.com/dp/B0GYW5H45C?m=A140UJE8NG325Q&psc=1&th=1&linkCode=sl2&tag=noya0b-20&linkId=6b98a9f9ba416ee481783e5fe5b9b906&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T00:36:33.149Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/21qJoDwE+TL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b089w8nlzc-vice-pro-plus-golf-balls",
-      "asin": "B089W8NLZC",
-      "title": "Vice Pro Plus Golf Balls",
-      "url": "https://www.amazon.com/dp/B089W8NLZC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Sports & Fitness",
-      "ts": "2026-06-13T00:34:30.096Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51A5tJrQAUL._AC_SL1130_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
