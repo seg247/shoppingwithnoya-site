@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T10:30:01.907Z",
+  "generatedAt": "2026-06-14T10:40:00.539Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b08ppzwncv-instant-pot-pro-8-qt-10-in-1-pressure-cooker-slow-cooker-ric",
+      "asin": "B08PPZWNCV",
+      "title": "Instant Pot Pro (8 QT) 10-in-1 Pressure Cooker, Slow Cooker, Rice/Grain Cooker, Steamer, Sauté, Sous Vide, Yogurt Maker,",
+      "url": "https://www.amazon.com/dp/B08PPZWNCV?th=1&linkCode=sl2&tag=noya0b-20&linkId=f0e35a5b8eec7ff0b1f5b6bd00f1a0f0&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-14T10:38:22.956Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71crmdgrhpL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b01n5uptzs-breville-bov900bss-smart-oven-air-fryer-pro-and-convection-o",
+      "asin": "B01N5UPTZS",
+      "title": "Breville BOV900BSS Smart Oven Air Fryer Pro and Convection Oven, Brushed Stainless Steel",
+      "url": "https://www.amazon.com/dp/B01N5UPTZS?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-14T10:30:25.424Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51jCxzgxYwL._AC_SL1080_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0d9w9ynwd-netgear-8-port-gigabit-ethernet-easy-smart-managed-essential",
       "asin": "B0D9W9YNWD",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T03:36:28.858Z",
       "type": "deal",
       "imageUrl": null,
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0cq5f4cmk-s-well-stainless-steel-tumbler-with-slide-open-lid-10oz-onyx",
-      "asin": "B0CQ5F4CMK",
-      "title": "S'well Stainless Steel Tumbler with Slide-Open Lid, 10oz, Onyx, Triple Layered Vacuum Insulated Containers Keeps Drinks ",
-      "url": "https://www.amazon.com/dp/B0CQ5F4CMK/ref=cm_sw_r_as_gl_apa_gl_i_1CZNF2TWNYX0R5JKJ96A?linkCode=ml1&tag=noya0b-20&linkId=d7e9992c8eb413032438279926d2aa28",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T03:24:26.428Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61yG-RDzGjL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0dsjwszbz-summer-s-eve-blissful-escape-whole-body-deodorant-for-women-",
-      "asin": "B0DSJWSZBZ",
-      "title": "Summer's Eve Blissful Escape Whole Body Deodorant for Women, Aluminum-Free Ultimate Odor Control Cream, 3 Oz : Beauty & ",
-      "url": "https://www.amazon.com/dp/B0DSJWSZBZ/ref=cm_sw_r_as_gl_apa_gl_i_6K8NX8RYFKGZCD985BRB?linkCode=ml1&tag=noya0b-20&linkId=1480bfbf2c21dd253122e8edd3fcafa6",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-06-13T03:14:31.650Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/616tjMfqyhL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
