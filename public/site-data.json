@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-14T12:00:01.667Z",
+  "generatedAt": "2026-06-14T12:10:00.374Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0dcnk7vlk-ski-helmet-lightweight-adult-snowboard-helmet-with-sturdy-pc",
+      "asin": "B0DCNK7VLK",
+      "title": "Ski Helmet, Lightweight Adult Snowboard Helmet with Sturdy PC Shell & Shock-Absorbing EPS Foam & Soft Lining, Adjustable",
+      "url": "https://www.amazon.com/dp/B0DCNK7VLK/ref=cm_sw_r_as_gl_api_gl_i_dl_TGZY57NYY6764AQXZZ1M?linkCode=ml1&tag=noya0b-20&linkId=6f9b6d4fa46f7ddde0361009a215b605",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-14T12:08:25.809Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71pxvXB8VkL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b076v317q8-horusdy-6-piece-1000v-insulated-precision-screwdriver-set-ma",
       "asin": "B076V317Q8",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-13T04:56:29.119Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/212W3ovsj+L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0br5y8snm-4-pack-qtip-holder-glass-dispenser-with-bamboo-lids-for-bath",
-      "asin": "B0BR5Y8SNM",
-      "title": "4 Pack Qtip Holder, Glass Dispenser with Bamboo Lids for Bathroom Organization : Home & Kitchen",
-      "url": "https://www.amazon.com/dp/B0BR5Y8SNM/ref=cm_sw_r_as_gl_apa_gl_i_RQEBWNP2SZ8MVM5ZZWV3?linkCode=ml1&tag=noya0b-20&linkId=c61145697851412c397c3269c03d065d",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-13T04:50:26.766Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71VVn9fb73L.jpg",
       "expiresAt": null,
       "promoCode": null
     }
