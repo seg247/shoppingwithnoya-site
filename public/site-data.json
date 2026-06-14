@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T09:00:00.191Z",
+  "generatedAt": "2026-06-14T09:10:00.528Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fyclwgvz-renoj-insulated-mug-100-spill-resistant-insulated-water-bott",
+      "asin": "B0FYCLWGVZ",
+      "title": "Renoj Insulated Mug 100% Spill Resistant Insulated Water Bottle for Iced Coffee & Hot Drinks - Fits Car Cup Holder, Idea",
+      "url": "https://www.amazon.com/dp/B0FYCLWGVZ/ref=cm_sw_r_as_gl_api_gl_i_dl_4MGE3W4NANCS1HHRQP6E?linkCode=ml1&tag=noya0b-20&linkId=6dcc1cee8fa2f03198fac85647344e20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-14T09:08:21.708Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61ogPZ5kiJL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0fvlqqz5j-window-squeegee-2-in-1-window-cleaner-with-removable-extensi",
+      "asin": "B0FVLQQZ5J",
+      "title": "Window Squeegee, 2-in-1 Window Cleaner with Removable Extension Poles 177'' Window Washing Kit Glass Door Cleaner Multi-",
+      "url": "https://www.amazon.com/dp/B0FVLQQZ5J/ref=cm_sw_r_as_gl_api_gl_i_dl_5RKAEGFA0GZSQYJ9R8KV?linkCode=ml1&tag=noya0b-20&linkId=fdb282389ec260cf795ca1c22ce8cd39",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-14T09:04:26.165Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/715PV59ob7L.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b01n5ojocm-camco-eaz-lift-camper-rv-bumper-hitch-ideal-for-bikes-cargo-",
       "asin": "B01N5OJOCM",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T02:18:27.474Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71jgoKfUaZL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0ffbrn9pk-officially-licensed-baseball-caps-for-adults-teens-kids",
-      "asin": "B0FFBRN9PK",
-      "title": "Officially Licensed Baseball Caps for Adults, Teens & Kids",
-      "url": "https://www.amazon.com/dp/B0FFBRN9PK?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=4a83b22eaa2799d79901717d7123ed7a&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Sports & Fitness",
-      "ts": "2026-06-13T02:10:26.333Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/613NRRlifmL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fl27zdpy-nicetown-desert-rose-velvet-curtains-96-inches-long-floor-to",
-      "asin": "B0FL27ZDPY",
-      "title": "NICETOWN Desert Rose Velvet Curtains 96 Inches Long, Floor to Ceiling Heavy Drapes for High Windows, Modern Farmhouse Pr",
-      "url": "https://www.amazon.com/dp/B0FL27ZDPY?th=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-13T02:04:26.420Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/21qJoDwE+TL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
