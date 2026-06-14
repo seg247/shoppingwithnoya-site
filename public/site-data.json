@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-14T15:10:00.221Z",
+  "generatedAt": "2026-06-14T15:20:01.287Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0cs4r9q52-melissa-doug-sticker-wow-fox-bundle-only-4-xx-for-prime-memb",
+      "asin": "B0CS4R9Q52",
+      "title": "Melissa & Doug Sticker Wow Fox Bundle Only $4.xx for Prime Members (Reg. $18)",
+      "url": "https://www.amazon.com/dp/B0CS4R9Q52?th=1&linkCode=sl2&tag=noya0b-20&linkId=d9df60774ec6cf0dd89dc318db7b46af&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-14T15:10:31.694Z",
+      "type": "deal",
+      "imageUrl": null,
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0cl1ggynw-pop-tarts-toaster-pastries-breakfast-foods-kids-snacks-varie",
       "asin": "B0CL1GGYNW",
@@ -1105,20 +1119,6 @@
       "ts": "2026-06-14T09:24:22.919Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71ost1z1N5L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0cs4r9q52-melissa-doug-sticker-wow-fox-bundle-24-page-activity-book-re",
-      "asin": "B0CS4R9Q52",
-      "title": "Melissa & Doug Sticker Wow!™ Fox Bundle: 24-Page Activity Book, Refillable Sticker Stamper, Mini Pad, 500 Stickers, Arts",
-      "url": "https://www.amazon.com/dp/B0CS4R9Q52/ref=cm_sw_r_as_gl_api_gl_i_dl_TA581Y4E0BQ1C0BAZ9W8?linkCode=ml1&tag=noya0b-20&linkId=a69fd2f2fc8296d0b2292ac5020b9b6f",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Books & Media",
-      "ts": "2026-06-14T09:22:22.740Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/711AUKW7aOL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     },
