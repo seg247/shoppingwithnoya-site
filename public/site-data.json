@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-14T02:10:01.565Z",
+  "generatedAt": "2026-06-14T02:20:01.415Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0d5d75fp9-gyroor-c1s-electric-scooter-with-seat-for-adults-550w-motor-",
+      "asin": "B0D5D75FP9",
+      "title": "Gyroor C1S Electric Scooter with Seat for Adults - 550W Motor, Pet Basket, 19 MPH Top Speed, 20 Miles Range, 12\" Pneumat",
+      "url": "https://www.amazon.com/dp/B0D5D75FP9?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Sports & Fitness",
+      "ts": "2026-06-14T02:10:30.319Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81Vn7BfsVdL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b00cphx6yi-melissa-doug-stainless-steel-pots-pans-8-piece-play-kitchen-",
       "asin": "B00CPHX6YI",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-12T23:22:31.599Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61-1bRdhl4L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fwd2lf7c-nature-s-bounty-zinc-50mg-immune-system-skin-antioxidant-hea",
-      "asin": "B0FWD2LF7C",
-      "title": "Nature’s Bounty Zinc 50mg Immune System, Skin, & Antioxidant Health Support Contributes to DNA Formation Vegetarian, Non",
-      "url": "https://www.amazon.com/dp/B0FWD2LF7C?th=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Cleaning Supplies",
-      "ts": "2026-06-12T23:20:30.090Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81Vluh93mRL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
