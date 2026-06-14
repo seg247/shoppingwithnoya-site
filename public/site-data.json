@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T13:10:01.634Z",
+  "generatedAt": "2026-06-14T13:20:01.992Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0dttvdtzr-omg",
+      "asin": "B0DTTVDTZR",
+      "title": "\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31",
+      "url": "https://www.amazon.com/dp/B0DTTVDTZR?social_share=cm_sw_r_cso_cp_apan_dp_hul_E7VW1PYM4ZDEV0M7PQCM&s=bazaar&linkCode=sl2&tag=noya0b-20&linkId=e93cd98227d04bba99d0edc10d0c1eae&language=en_US",
+      "discount": 84,
+      "rating": "FIRE",
+      "category": "Other",
+      "ts": "2026-06-14T13:14:27.267Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71XtALhZV3L._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b011bxk81k-cuisinart-chef-s-classic-non-stick-loaf-pan-9-bronze",
+      "asin": "B011BXK81K",
+      "title": "Cuisinart Chef's Classic Non-Stick Loaf Pan, 9\", Bronze",
+      "url": "https://www.amazon.com/dp/B011BXK81K/ref=cm_sw_r_as_gl_api_gl_i_RHB3DQY363FNFHJF5BCZ?linkCode=ml1&tag=noya0b-20&linkId=b239d10f9f20b0ebdf758e69fad3b551",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-14T13:10:28.067Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41+TmdDzrmL._AC_SL1024_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0c384t4p2-breville-bsv600pss-joule-turbo-sous-vide-machine-polished-st",
       "asin": "B0C384T4P2",
@@ -321,20 +349,6 @@
       "ts": "2026-06-14T11:14:25.282Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/81jCx7GEbnL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0dttvdtzr-omg",
-      "asin": "B0DTTVDTZR",
-      "title": "\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31",
-      "url": "https://www.amazon.com/dp/B0DTTVDTZR?social_share=cm_sw_r_cso_cp_apan_dp_hul_E7VW1PYM4ZDEV0M7PQCM&s=bazaar&linkCode=sl2&tag=noya0b-20&linkId=e93cd98227d04bba99d0edc10d0c1eae&language=en_US",
-      "discount": 84,
-      "rating": "FIRE",
-      "category": "Other",
-      "ts": "2026-06-14T11:12:25.619Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71XtALhZV3L._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     },
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-13T06:44:27.686Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/81YLrtR3izL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0gydx57p8-amazon-com-dumos-42-round-dining-table-for-4-6-space-saving-",
-      "asin": "B0GYDX57P8",
-      "title": "Amazon.com - DUMOS 42\" Round Dining Table for 4-6, Space Saving Kitchen Table with Dual-Tier Storage, Pedestal Metal Fra",
-      "url": "https://www.amazon.com/dp/B0GYDX57P8/ref=cm_sw_r_as_gl_apa_gl_i_dl_6Q7AHRCDJBPKYH2727QX?linkCode=ml1&tag=noya0b-20&linkId=403cdf1a86eb28f3e62db91f71050948",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-13T06:38:34.617Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81Ar3QzaS9L.jpg",
       "expiresAt": null,
       "promoCode": null
     }
