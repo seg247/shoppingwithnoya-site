@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-14T13:20:01.992Z",
+  "generatedAt": "2026-06-14T13:30:00.074Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fk19937h-fisher-price-wood-pretend-play-toy-charcuterie-board-set-19-",
+      "asin": "B0FK19937H",
+      "title": "Fisher-Price Wood Pretend Play Toy Charcuterie Board Set, 19-Piece Playset with Wood & Fabric Food for Preschool Kids Ag",
+      "url": "https://www.amazon.com/dp/B0FK19937H/ref=cm_sw_r_as_gl_api_gl_i_dl_M9JQRMRAX93203JJT8EZ?linkCode=ml1&tag=noya0b-20&linkId=e38fcdc33142435ec1c041b705a91e8f",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Toys & Kids",
+      "ts": "2026-06-14T13:20:27.618Z",
+      "type": "deal",
+      "imageUrl": null,
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0dttvdtzr-omg",
       "asin": "B0DTTVDTZR",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-13T06:46:27.266Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/91SOz6xZV2L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0g36z353f-original-squishmallows-slimygloop-blue-gelli-gels-slow-risin",
-      "asin": "B0G36Z353F",
-      "title": "Original Squishmallows™ SLIMYGLOOP Blue Gelli Gels™, Slow Rising Sensory Squeeze Toy with Glitter, Gel Filled Fidget Toy",
-      "url": "https://www.amazon.com/dp/B0G36Z353F/ref=cm_sw_r_as_gl_apa_gl_i_2Z36MKRRCK0FCPG9YPA7?linkCode=ml1&tag=noya0b-20&linkId=14a23a31439f3708cfad517b53ea968a",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Toys & Kids",
-      "ts": "2026-06-13T06:44:27.686Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81YLrtR3izL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
