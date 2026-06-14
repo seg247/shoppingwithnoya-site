@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-14T12:30:02.038Z",
+  "generatedAt": "2026-06-14T12:40:01.737Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b09yz44hc1-wilton-platinum-non-stick-loaf-pan-stainless-steel-bakeware-",
+      "asin": "B09YZ44HC1",
+      "title": "Wilton Platinum Non-Stick Loaf Pan - Stainless Steel Bakeware - Perfect for Baking, Roasting & Cooking - Made without PF",
+      "url": "https://www.amazon.com/dp/B09YZ44HC1/ref=cm_sw_r_as_gl_api_gl_i_YCH3WP54JEWV7WG3P4Z5?linkCode=ml1&tag=noya0b-20&linkId=ee35c3edc7fa278327338fb27ad39afe",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-14T12:32:27.144Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81QqH7t4+EL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b091bzzxxt-scotch-and-post-it-brand-office-essentials-kit-business-and-",
       "asin": "B091BZZXXT",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-13T06:18:27.978Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/517dae93WhL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fgw1mkhj-intex-metal-frame-8-ft-x-30-in-above-ground-pool-set-round-s",
-      "asin": "B0FGW1MKHJ",
-      "title": "INTEX Metal Frame 8 ft x 30 in Above Ground Pool Set, Round Swimming Pool with Steel Frame : Patio, Lawn & Garden",
-      "url": "https://www.amazon.com/dp/B0FGW1MKHJ/ref=cm_sw_r_as_gl_apa_gl_i_8ZN0BD4502YF4VE7CXF9?linkCode=ml1&tag=noya0b-20&linkId=03837b791f6eb4186e852159ce22b887",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Garden & Outdoor",
-      "ts": "2026-06-13T06:14:25.798Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/21qJoDwE+TL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
