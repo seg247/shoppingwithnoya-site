@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T10:00:01.760Z",
+  "generatedAt": "2026-06-14T10:10:00.253Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0gcf5l745-jugbow-dog-shock-collar-4500ft-dog-training-collar-with-remo",
+      "asin": "B0GCF5L745",
+      "title": "Jugbow Dog Shock Collar - 4500FT Dog Training Collar with Remote, IPX8 Waterproof Electric Dog Collar with 4 Training Mo",
+      "url": "https://www.amazon.com/dp/B0GCF5L745?th=1&linkCode=sl2&tag=noya0b-20&linkId=eadbc15aaa644fc8605d0c4718b39417&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Pet Supplies",
+      "ts": "2026-06-14T10:06:24.778Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/7137UZHcAYL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b09h53pswl-iberia-pineapple-nectar-33-8-fl-oz-pack-of-3",
+      "asin": "B09H53PSWL",
+      "title": "Iberia Pineapple Nectar, 33.8 Fl Oz, (Pack of 3)",
+      "url": "https://www.amazon.com/dp/B09H53PSWL/ref=cm_sw_r_as_gl_api_gl_i_FMZDB0469SVJ22CGA6RX?linkCode=ml1&tag=noya0b-20&linkId=941c03e313f8d3b892323792a1666269",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-14T10:04:23.980Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/813hnuSN6VL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0fms9qwwq-lego-technic-bugatti-chiron-pur-sport-hypercar-building-toy-",
       "asin": "B0FMS9QWWQ",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T03:04:27.955Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71APw41FByL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b07v1c8v3p-madison-park-signature-ansen-ceramic-handmade-vase-set-home-",
-      "asin": "B07V1C8V3P",
-      "title": "Madison Park Signature Ansen Ceramic Handmade Vase Set Home Décor - Metallic Accent Living Room Decoration Ideal for She",
-      "url": "https://www.amazon.com/dp/B07V1C8V3P/ref=cm_sw_r_as_gl_apa_gl_i_dl_C0T2MVYMY16D5XRZNJP7?linkCode=ml1&tag=noya0b-20&linkId=21e7db3e4cf5fbd216c87a85ed5501b0",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T02:58:25.144Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71g4mSbTBNL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b00j9h8o6c-biosilk-hydrating-therapy-pure-moisture-leave-in-hair-spray-",
-      "asin": "B00J9H8O6C",
-      "title": "BioSilk Hydrating Therapy Pure Moisture, Leave-In Hair Spray for Frizz Control & Hydration, Adds Shine, Replenishes Hair",
-      "url": "https://www.amazon.com/dp/B00J9H8O6C?th=1&linkCode=sl2&tag=noya0b-20&linkId=edc590d06958a7aeadc42cee18480d0f&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T02:54:25.984Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51eIqfZI1GL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
