@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T08:00:00.731Z",
+  "generatedAt": "2026-06-14T08:10:01.792Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b01fhowya2-ninja-fit-compact-personal-blender-for-smoothies-shakes-froz",
+      "asin": "B01FHOWYA2",
+      "title": "Ninja Fit Compact Personal Blender | For Smoothies, Shakes & Frozen Drinks | (2) 16-oz. To-Go Cups with Spout Lids | 700",
+      "url": "https://www.amazon.com/dp/B01FHOWYA2/ref=cm_sw_r_as_gl_apa_gl_i_dl_S5JPMX5RDK5GCPRRWGHC?linkCode=ml1&tag=noya0b-20&linkId=455d72fb79b3bb6fe55a0e424b10251e",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-14T08:02:23.743Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/710oNE8RCjL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0dxp6ppt8-cmf-by-nothing-buds-2-48db-hybrid-anc-true-wireless-earbuds-",
+      "asin": "B0DXP6PPT8",
+      "title": "CMF by Nothing Buds 2 48dB Hybrid ANC True Wireless Earbuds, Strong and Comfort Noise Cancelling, Ultra Bass and Dirac S",
+      "url": "https://www.amazon.com/dp/B0DXP6PPT8/ref=cm_sw_r_as_gl_apa_gl_i_dl_DVTWHFQKEH7X825QTGNV?linkCode=ml1&tag=noya0b-20&linkId=b4ee52745d6fce255a3de2c318c62ba1",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-06-14T08:00:22.455Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/418+HbnarkL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b09fcnkyjj-cetaphil-face-body-moisturizer-hydrating-moisturizing-cream-",
       "asin": "B09FCNKYJJ",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T01:34:27.892Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/7143pEc5IPL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b09s6khlwc-pro-filtr-instant-retouch-concealer-220-light-medium-with-wa",
-      "asin": "B09S6KHLWC",
-      "title": "Pro Filtr Instant Retouch Concealer - 220 Light Medium With Warm Undertone) by Fenty Beauty for Women - 0.27 oz Conceale",
-      "url": "https://www.amazon.com/dp/B09S6KHLWC?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&linkCode=sl2&tag=noya0b-20&linkId=be345ef9a02f9b5cdda6da74806122a1&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-06-13T01:32:28.930Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51BEf4AFZoL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0df3m4lm1-nuwave-oven-pro-plus-air-fryer-infra-red-countertop-2025-adv",
-      "asin": "B0DF3M4LM1",
-      "title": "Nuwave Oven Pro Plus Air Fryer, Infra-Red Countertop, 2025 Advanced Convection, No Defrosting or Preheating, Cook Fresh ",
-      "url": "https://www.amazon.com/dp/B0DF3M4LM1?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=c6ed9812fc20d5ed28b7b3334a3c49a8&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-13T01:30:30.946Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81-qmaLDfQL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
