@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-14T13:40:00.357Z",
+  "generatedAt": "2026-06-14T13:50:00.528Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0gclbg6mf-dumpling-squishy-mystery-box-mystery-dumpling-squishy-squeez",
+      "asin": "B0GCLBG6MF",
+      "title": "Dumpling Squishy Mystery Box, Mystery Dumpling Squishy Squeeze Stress Balls for Kids & Adults, Sensory Fidget Toys for A",
+      "url": "https://www.amazon.com/dp/B0GCLBG6MF/ref=cm_sw_r_as_gl_api_gl_i_SY83XH6ECFZDMGC450TW?linkCode=ml1&tag=noya0b-20&linkId=d71804d7af53fc6ed8f0326102619224",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-14T13:44:26.540Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61E7nEckKdL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b001e6uzl8-mountain-dew-code-red-cherry-12-fl-oz-cans-12-pack",
       "asin": "B001E6UZL8",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-13T07:04:28.044Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71GPWtT61gL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "0062304240-pete-the-cat-s-super-cool-reading-collection-a-fun-set-of-st",
-      "asin": "0062304240",
-      "title": "Pete the Cat's Super Cool Reading Collection: A Fun Set of Stories for Children (Ages 4-8) (My First I Can Read): 978006",
-      "url": "https://www.amazon.com/dp/0062304240/ref=cm_sw_r_as_gl_apa_gl_i_T4D9XJ69WES4110HCAB3?linkCode=ml1&tag=noya0b-20&linkId=8e5e3986be76cbe8b1304637b4e697e9",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Toys & Kids",
-      "ts": "2026-06-13T07:00:29.144Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81l9EfAJUHL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
