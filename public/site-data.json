@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-14T11:10:00.209Z",
+  "generatedAt": "2026-06-14T11:20:01.948Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fms68r65-lego-technic-john-deere-1470h-wheeled-harvester-building-toy",
+      "asin": "B0FMS68R65",
+      "title": "LEGO Technic John Deere 1470H Wheeled Harvester Building Toy for Kids - Heavy Vehicle Playset W/Realistic Suspension & S",
+      "url": "https://www.amazon.com/dp/B0FMS68R65/ref=cm_sw_r_as_gl_api_gl_i_MHWM1AEZ6DNPJSAX27RR?linkCode=ml1&tag=noya0b-20&linkId=7971b6289744d89e34ca201c5ddbf872",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Toys & Kids",
+      "ts": "2026-06-14T11:14:25.282Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81jCx7GEbnL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0dttvdtzr-omg",
+      "asin": "B0DTTVDTZR",
+      "title": "\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31",
+      "url": "https://www.amazon.com/dp/B0DTTVDTZR?social_share=cm_sw_r_cso_cp_apan_dp_hul_E7VW1PYM4ZDEV0M7PQCM&s=bazaar&linkCode=sl2&tag=noya0b-20&linkId=e93cd98227d04bba99d0edc10d0c1eae&language=en_US",
+      "discount": 84,
+      "rating": "FIRE",
+      "category": "Other",
+      "ts": "2026-06-14T11:12:25.619Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71XtALhZV3L._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0b9qc3kmy-ortho-home-defense-max-indoor-insect-barrier-battery-powered",
       "asin": "B0B9QC3KMY",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T04:24:27.915Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/818hRttwE0L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0cxf817yw-eletronova-safe-mandoline-slicer-for-kitchen-vegetable-slice",
-      "asin": "B0CXF817YW",
-      "title": "Eletronova Safe Mandoline Slicer for Kitchen, Vegetable Slicer with Container, French Fry Cutter, All in 1 Julienne Slic",
-      "url": "https://www.amazon.com/dp/B0CXF817YW/ref=cm_sw_r_as_gl_apa_gl_i_dl_CF2CK23BV97KN02WKX15?linkCode=ml1&tag=noya0b-20&linkId=fc457606bc69968702c61e37b7fdf569",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-13T04:20:30.635Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61VU8N+jxML.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fpltk6bm-wish-you-were-here-50th-anniversary-cds-vinyl",
-      "asin": "B0FPLTK6BM",
-      "title": "Wish You Were Here (50th Anniversary): CDs & Vinyl",
-      "url": "https://www.amazon.com/dp/B0FPLTK6BM/ref=cm_sw_r_as_gl_apa_gl_i_QSD0FS5MXQFVGEPNZPS3?linkCode=ml1&tag=noya0b-20&linkId=4ad20c6471116a7ce21a916f50a8055f",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T04:18:26.842Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/21qJoDwE+TL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
