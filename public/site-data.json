@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-15T08:20:01.161Z",
+  "generatedAt": "2026-06-15T08:30:01.200Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b09hn1c1yj-coleman-triton-2-burner-propane-stove-portable-camping-cookt",
+      "asin": "B09HN1C1YJ",
+      "title": "Coleman Triton 2-Burner Propane Stove, Portable Camping Cooktop with 2 Adjustable Burners & Wind Guards, 22,000 BTUs of ",
+      "url": "https://www.amazon.com/dp/B09HN1C1YJ/ref=cm_sw_r_as_gl_apa_gl_i_dl_P1353GCYFPD9Z6EY92GJ?linkCode=ml1&tag=noya0b-20&linkId=2c1d653d28e3876958b1503583ae9808",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Garden & Outdoor",
+      "ts": "2026-06-15T08:24:18.720Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71+hmUPnt0L._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0crmyzwwl-wow-in-the-world-10-real-break-open-crystal-geodes-with-disp",
       "asin": "B0CRMYZWWL",
@@ -2911,20 +2925,6 @@
       "ts": "2026-06-14T20:54:36.642Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61oK57GZl6L._AC_SL1280_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b09hn1c1yj-coleman-triton-2-burner-propane-stove-portable-camping-cookt",
-      "asin": "B09HN1C1YJ",
-      "title": "Coleman Triton 2-Burner Propane Stove, Portable Camping Cooktop with 2 Adjustable Burners & Wind Guards, 22,000 BTUs of ",
-      "url": "https://www.amazon.com/dp/B09HN1C1YJ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Garden & Outdoor",
-      "ts": "2026-06-14T20:50:34.959Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61HZlZEkaiL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     },
