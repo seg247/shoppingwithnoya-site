@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-15T08:00:01.691Z",
+  "generatedAt": "2026-06-15T08:10:01.404Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b095pt7zzz-pop-daddy-flavored-pretzels-sticks-gourmet-pretzels-snacks-7",
+      "asin": "B095PT7ZZZ",
+      "title": "Pop Daddy Flavored Pretzels Sticks, Gourmet Pretzels Snacks, 7.5oz Individual Bags, 3 Pack, Smoked Gouda",
+      "url": "https://www.amazon.com/dp/B095PT7ZZZ/ref=cm_sw_r_as_gl_apa_gl_i_1ZS9Q0HMHSCSV8D42EBH?linkCode=ml1&tag=noya0b-20&linkId=b4b156bff840cc7d3a66f3f6915683fc",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-15T08:00:23.477Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71g8RmErG0L.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b081qv5dff-insane-labz-insane-veinz-gold-nitric-oxide-non-stimulant-pre",
       "asin": "B081QV5DFF",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-14T01:50:28.152Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/618gD4HAeuL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0cxclqxqv-wooden-spoons-for-cooking-6-pieces-natural-acacia-wooden-coo",
-      "asin": "B0CXCLQXQV",
-      "title": "Wooden Spoons For Cooking, 6 Pieces Natural Acacia Wooden Cooking Utensils or Non-Stick Wooden Kitchen Utensil Set for K",
-      "url": "https://www.amazon.com/ROSOS-Cooking-Utensils-Non-Stick-Essentials/dp/B0CXCLQXQV?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=18c919667e04306e859d43b57a27190c&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-14T01:48:29.511Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/712yXW2lyIL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
