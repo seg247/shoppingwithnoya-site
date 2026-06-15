@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-15T03:20:00.208Z",
+  "generatedAt": "2026-06-15T03:30:00.846Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0014d2a64-sure-deodorant-invisible-solid-unscented-2-6-oz",
+      "asin": "B0014D2A64",
+      "title": "Sure Deodorant Invisible Solid, Unscented - 2.6 oz",
+      "url": "https://www.amazon.com/dp/B0014D2A64/ref=cm_sw_r_as_gl_apa_gl_i_G0JKYD74DZ6ENC0JRE7B?linkCode=ml1&tag=noya0b-20&linkId=af2f35573cebd12d1b22927655578244",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-06-15T03:28:25.572Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71pDzr0uX-L._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0dxz9n5my-printed-yoga-mat-72-34-x-24-34-thick-6mm-non-slip-fitness-ex",
+      "asin": "B0DXZ9N5MY",
+      "title": "Printed Yoga Mat 72&#34; x 24&#34; Thick 6mm Non-Slip Fitness Exercise Exercise Mat with Strap for Women Men Yoga Pilate",
+      "url": "https://www.amazon.com/dp/B0DXZ9N5MY/ref=cm_sw_r_as_gl_apa_gl_i_S5REBN47XEGPS7ASAV5F?linkCode=ml1&tag=noya0b-20&linkId=62dc38064a93294d9ea0c4486b011f38",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Sports & Fitness",
+      "ts": "2026-06-15T03:24:25.835Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71mJ84sRYvL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0gjfglbkd-monster-jam-ride-on-toy-12v-atv-for-kids-battery-powered-ele",
       "asin": "B0GJFGLBKD",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T23:28:35.405Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71K3KAucrZL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b07krtzw7d-summer-s-eve-ultra-feminine-spray-daily-body-spray-for-women",
-      "asin": "B07KRTZW7D",
-      "title": "Summer's Eve Ultra Feminine Spray, Daily Body Spray for Women, Feminine Care that Neutralizes & Reduces Body Odor, Gynec",
-      "url": "https://www.amazon.com/dp/B07KRTZW7D?m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=ed6487f1fc1460800a893d94b1adccbf&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T23:26:29.206Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71l6nBpIhNL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fjms2jt3-honeywell-home-x8s-premium-smart-programmable-wi-fi-thermost",
-      "asin": "B0FJMS2JT3",
-      "title": "Honeywell Home X8S Premium Smart Programmable Wi-Fi Thermostat, Video Doorbell Access, Humidity Control, 5\" Customizable",
-      "url": "https://www.amazon.com/dp/B0FJMS2JT3?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-13T23:24:40.423Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/512f-5-PqlL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
