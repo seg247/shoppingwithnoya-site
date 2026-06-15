@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-15T03:30:00.846Z",
+  "generatedAt": "2026-06-15T03:40:02.043Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b01mr8efry-core-hydration-perfect-7-4-ph-nutrient-enhanced-water-20-oun",
+      "asin": "B01MR8EFRY",
+      "title": "CORE Hydration Perfect 7.4 pH Nutrient Enhanced Water, 20 Ounce (Pack of 24)",
+      "url": "https://www.amazon.com/dp/B01MR8EFRY/ref=cm_sw_r_as_gl_apa_gl_i_S1HR2J66M2N57TX5T4XY?linkCode=ml1&tag=noya0b-20&linkId=43e0b2e0db7f6598c61faa6dd14fde26",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-15T03:36:25.593Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81iIPUl4JAL._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b000nbvu0k-cuisinart-classic-entertaining-collection-12-inch-5-quart-st",
+      "asin": "B000NBVU0K",
+      "title": "Cuisinart Classic Entertaining Collection 12-Inch, 5-Quart Stainless Rectangular Buffet Server, 7BSRT-31: Cookware: Home",
+      "url": "https://www.amazon.com/dp/B000NBVU0K/ref=cm_sw_r_as_gl_apa_gl_i_X6066DVVXCKEH3NQ13NP?linkCode=ml1&tag=noya0b-20&linkId=fda86002087aaea9c5cee8bd04737678",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-15T03:32:25.157Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41ImVcbFUFL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0014d2a64-sure-deodorant-invisible-solid-unscented-2-6-oz",
       "asin": "B0014D2A64",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T23:32:32.022Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71F8XoLBhlL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0gsvgqtjb-caracilia-women-s-wedding-guest-dress-double-lined-soft-flor",
-      "asin": "B0GSVGQTJB",
-      "title": "Caracilia Women's Wedding Guest Dress,Double Lined Soft Floral Mesh Maxi Dress,Short Sleeve Bodycon for Formal Cocktail ",
-      "url": "https://www.amazon.com/dp/B0GSVGQTJB?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T23:30:29.010Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61xd1pU23WL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0h3n5sbwg-arstpeoe-under-sink-organizer-2-packs-multi-purpose-pull-out",
-      "asin": "B0H3N5SBWG",
-      "title": "ARSTPEOE Under Sink Organizer - 2 Packs Multi-Purpose Pull-Out Storage Organizers, Slide out Pull out Cabinet Organizer ",
-      "url": "https://www.amazon.com/dp/B0H3N5SBWG?th=1&tag=noya0b-20",
-      "discount": 63,
-      "rating": "FIRE",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-13T23:28:35.405Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71K3KAucrZL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
