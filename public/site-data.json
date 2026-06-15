@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-15T09:40:00.423Z",
+  "generatedAt": "2026-06-15T09:50:01.317Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0dk46jv64-samsung-22-34-s30gd-essential-monitor-with-ips-panel-and-til",
+      "asin": "B0DK46JV64",
+      "title": "Samsung 22&#34; (S30GD) Essential Monitor with IPS Panel and Tilt Only Stand, 100Hz Refresh Rate, Ergonomic Design, Adva",
+      "url": "https://www.amazon.com/dp/B0DK46JV64/ref=cm_sw_r_as_gl_api_gl_i_dl_6KPZF3RNDNZ6TBYRXE88?linkCode=ml1&tag=noya0b-20&linkId=51be83641a64d983552bde0f078a2ca0",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-06-15T09:46:20.915Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71bk3j4agoL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b07bb1vv9k-physician-s-choice-collagen-peptides-hydrolyzed-protein-powd",
+      "asin": "B07BB1VV9K",
+      "title": "Physician's CHOICE Collagen Peptides - Hydrolyzed Protein Powder for Hair, Skin, Joints - Grass Fed, Non-GMO : Health & ",
+      "url": "https://www.amazon.com/dp/B07BB1VV9K/ref=cm_sw_r_as_gl_api_gl_i_dl_GF9B60X3YDQ2HBPE0DVR?linkCode=ml1&tag=noya0b-20&linkId=ac0e03b174ff08657ee67115c8656a65",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-06-15T09:42:22.599Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Z4c-BpRQL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0dff1sbqf-square-dipping-bowls-set-mini-2-6-oz-ceramic-soy-sauce-dishe",
       "asin": "B0DFF1SBQF",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-14T02:50:28.160Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61xMQh4nCsL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0f3lrpm93-lipton-diet-peach-iced-tea-mix-10-quarts-each-z-ero-sugar-ca",
-      "asin": "B0F3LRPM93",
-      "title": "Lipton Diet Peach Iced Tea Mix – 10 Quarts Each– Z ero Sugar, Caffeinated Powder Drink Mix",
-      "url": "https://www.amazon.com/dp/B0F3LRPM93?th=1&linkCode=sl2&tag=noya0b-20&linkId=72df2bfe05b3a7ee0c73e30d6953ee9e&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-14T02:48:28.441Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71AqKr8IiKL._SL1200_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fv37k4rz-rosamo-10-piece-luggage-set-expandable-suitcase-22x14x9-airl",
-      "asin": "B0FV37K4RZ",
-      "title": "Rosamo 10 piece Luggage Set Expandable Suitcase 22x14x9 Airline Approved Carry on, ABS Hard Case Suitcases with Spinner ",
-      "url": "https://www.amazon.com/dp/B0FV37K4RZ?th=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-06-14T02:46:31.392Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/818DfvNfI3L._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
