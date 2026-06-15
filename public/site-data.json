@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-15T11:20:01.164Z",
+  "generatedAt": "2026-06-15T11:30:01.399Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fpphkf6p-spyder-men-s-fleece-lined-cuff-logo-beanie",
+      "asin": "B0FPPHKF6P",
+      "title": "Spyder Men's Fleece Lined Cuff Logo Beanie",
+      "url": "https://www.amazon.com/dp/B0FPPHKF6P/ref=cm_sw_r_as_gl_api_gl_i_dl_0GFDNEJMEMY4VE2GD8HP?linkCode=ml1&tag=noya0b-20&linkId=ca197e817ffed7cde5d5969ef0a718d9",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-15T11:24:23.427Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81WIj+Up5jL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b091bzzxxt-scotch-and-post-it-brand-office-essentials-kit-business-and-",
+      "asin": "B091BZZXXT",
+      "title": "Scotch and Post-it Brand Office Essentials Kit, Business and Teacher Supplies Set with Post-it Super Sticky Notes, Scotc",
+      "url": "https://www.amazon.com/dp/B091BZZXXT/ref=cm_sw_r_as_gl_api_gl_i_PBR69EM7WH9V8XZXX6Y3?linkCode=ml1&tag=noya0b-20&linkId=75109a5ca452488205a127b84d32153f",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-15T11:22:23.828Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71+ueD7fwML._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0dczrxhbj-disney-stitch-many-moods-14-inch-interactive-plush-50-sounds",
       "asin": "B0DCZRXHBJ",
@@ -5939,20 +5967,6 @@
       "promoCode": null
     },
     {
-      "slug": "b091bzzxxt-scotch-and-post-it-brand-office-essentials-kit-business-and-",
-      "asin": "B091BZZXXT",
-      "title": "Scotch and Post-it Brand Office Essentials Kit, Business and Teacher Supplies Set with Post-it Super Sticky Notes, Scotc",
-      "url": "https://www.amazon.com/dp/B091BZZXXT/ref=cm_sw_r_as_gl_api_gl_i_PBR69EM7WH9V8XZXX6Y3?linkCode=ml1&tag=noya0b-20&linkId=75109a5ca452488205a127b84d32153f",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-14T12:26:27.426Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71+ueD7fwML._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
       "slug": "b0fm5kf34g-ninja-french-door-premier-air-fry-oven-10-in-1-functions-20-",
       "asin": "B0FM5KF34G",
       "title": "Ninja | French Door Premier Air fry Oven | 10-in-1 functions | 20.3-qt capacity | 5-qt Air Fry Basket, Sheet Pan, Wire R",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-14T03:08:24.987Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/911HmhaGlVL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fdcgsdj6-vitaup-beet-root-powder-8-in-1-usa-made-beets-powder-supplem",
-      "asin": "B0FDCGSDJ6",
-      "title": "VitaUp Beet Root Powder 8 in 1 – USA Made Beets Powder Supplements with Grape Seed, Hawthorn, Coq10 – with Organic Beetr",
-      "url": "https://www.amazon.com/dp/B0FDCGSDJ6?th=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-14T03:06:28.514Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81jqnu64AKL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
