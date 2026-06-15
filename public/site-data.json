@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-15T02:40:01.083Z",
+  "generatedAt": "2026-06-15T02:50:00.905Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0dhlsv3y3-score-c4-cellucor-up-to-50-off-clip-35-off-q-sub-and-save-up",
+      "asin": "B0DHLSV3Y3",
+      "title": "Score C4 Cellucor up to 50% off! clip 35% off Q + sub and save up to 15% off! Select options are also on sale",
+      "url": "https://www.amazon.com/dp/B0DHLSV3Y3?tag=noya0b-20",
+      "discount": 50,
+      "rating": "FIRE",
+      "category": "Other",
+      "ts": "2026-06-15T02:48:33.537Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/811GCsrXRzL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0dhlwbc6j-cellucor-creatine-powder-blue-raspberry-flavor-increases-str",
+      "asin": "B0DHLWBC6J",
+      "title": "Cellucor Creatine Powder, Blue Raspberry Flavor - Increases Strength, Lean Muscle Mass & Endurance, Micronized Creatine ",
+      "url": "https://www.amazon.com/dp/B0DHLWBC6J?ie=UTF8&ascsubtag=b5827eee686311f1b031a2aba26d0fbb0INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=4ac86de1c8ee4a8a532e81728df8a421&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-15T02:42:31.243Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/812mEbqLwrL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b00enxm5bw-icelandic-glacial-natural-spring-alkaline-water-330-ml-11-1-",
       "asin": "B00ENXM5BW",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T23:12:48.360Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71sSSHEMFqL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0h4yppmch-mnlr-10x14-ft-metal-storage-shed-large-waterproof-lockable-d",
-      "asin": "B0H4YPPMCH",
-      "title": "MNLR 10x14 FT Metal Storage Shed Large | Waterproof, Lockable Double Hinged Door, Reinforced Frame Structure, Sloped Roo",
-      "url": "https://www.amazon.com/dp/B0H4YPPMCH?th=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T23:10:31.617Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/914lAwlCk3L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fljs3rzj-maestri-house-usda-organic-ceremonial-matcha-powder-first-ha",
-      "asin": "B0FLJS3RZJ",
-      "title": "Maestri House USDA Organic Ceremonial Matcha Powder, First Harvest Pure Unsweetened Green Tea Powder for Matcha Lattes a",
-      "url": "https://www.amazon.com/dp/B0FLJS3RZJ?th=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-13T23:08:30.790Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61dq7uIGQnL._SL1200_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
