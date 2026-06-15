@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-15T16:30:01.814Z",
+  "generatedAt": "2026-06-15T16:40:01.307Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b011m6k81q-this-promo-is-back",
+      "asin": "B011M6K81Q",
+      "title": "THIS PROMO IS BACK!\udfc3‍♀️",
+      "url": "https://www.amazon.com/dp/B011M6K81Q?tag=noya0b-20",
+      "discount": 50,
+      "rating": "FIRE",
+      "category": "Other",
+      "ts": "2026-06-15T16:38:24.443Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71slKhL-c1L._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0g84s39sc-well-people-skinforia-serum-foundation-lightweight-tinted-fo",
+      "asin": "B0G84S39SC",
+      "title": "Well People Skinforia Serum Foundation, Lightweight Tinted Formula Hydrates, Smooths, and Evens Skin Tone with Birch Sap",
+      "url": "https://www.amazon.com/dp/B0G84S39SC?th=1&linkCode=sl2&tag=noya0b-20&linkId=483c2d01dcb9416d2e64055b25c5cb9b&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-06-15T16:32:26.244Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51-k16UyH+L.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0fpstx5wy-frosty-the-snowman-holiday-christmas-soap-lotion-hand-saniti",
       "asin": "B0FPSTX5WY",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-14T13:06:27.941Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/81bc2K6cTTL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0dpfh5sr3-bandai-hobby-mobile-suit-gundam-gquuuuuux-1-gquuuuuux-hg-1-1",
-      "asin": "B0DPFH5SR3",
-      "title": "Bandai Hobby - Mobile Suit Gundam GQuuuuuuX - #1 GQuuuuuuX HG 1/144 Model Kit",
-      "url": "https://www.amazon.com/dp/B0DPFH5SR3/ref=cm_sw_r_as_gl_api_gl_i_EXN9TRH9JNBG3BDE7SSX?linkCode=ml1&tag=noya0b-20&linkId=42efe12ab9297372b8e6b72283c2aad2",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-14T12:52:27.375Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/6140TmFvwbL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b085pwsjgl-acqua-panna-natural-spring-water-11-15-fl-oz-plastic-water-b",
-      "asin": "B085PWSJGL",
-      "title": "Acqua Panna Natural Spring Water, 11.15 FL OZ Plastic Water Bottles (24 Count) : Health & Household",
-      "url": "https://www.amazon.com/dp/B085PWSJGL/ref=cm_sw_r_as_gl_api_gl_i_E401GS7YPXPDYWGF3JXN?linkCode=ml1&tag=noya0b-20&linkId=b99fd5e2efb1aa2c3a4ed35dc7c846d0",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-14T12:50:29.089Z",
-      "type": "deal",
-      "imageUrl": null,
       "expiresAt": null,
       "promoCode": null
     }
