@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-15T03:10:01.777Z",
+  "generatedAt": "2026-06-15T03:20:00.208Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0gjfglbkd-monster-jam-ride-on-toy-12v-atv-for-kids-battery-powered-ele",
+      "asin": "B0GJFGLBKD",
+      "title": "Monster Jam - Ride On Toy, 12V ATV for Kids, Battery Powered Electric Vehicle with Fun Design for Boys and Girls Imagina",
+      "url": "https://www.amazon.com/dp/B0GJFGLBKD/ref=cm_sw_r_as_gl_apa_gl_i_NYM83BQP66WJ7B5Q4JMK?linkCode=ml1&tag=noya0b-20&linkId=8d0619ebed4ab8cc54a0c82d7462c8d8",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-15T03:19:20.872Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71qz+p3GXhL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b07t8bm88v-hanes-boys-boxer-briefs-moisture-wicking-underwear-for-boys-",
+      "asin": "B07T8BM88V",
+      "title": "Hanes Boys' Boxer Briefs, Moisture-Wicking Underwear for Boys & Toddlers, Assorted, 10 or 12 Pack",
+      "url": "https://www.amazon.com/dp/B07T8BM88V/ref=cm_sw_r_as_gl_apa_gl_i_5TAZZQ38VTR7ADGZ6DQC?linkCode=ml1&tag=noya0b-20&linkId=71f2cea101325bfedacbdca8f41074de",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Fashion",
+      "ts": "2026-06-15T03:16:33.061Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Q0pspOIwL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0cstdgbvf-youthefan-ncaa-nc-state-wolfpack-horseshoe-bags-sports-outdo",
       "asin": "B0CSTDGBVF",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-13T23:24:40.423Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/512f-5-PqlL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fk1c3zx4-mattel-universal-pictures-wicked-magical-wise-woman-moon-fas",
-      "asin": "B0FK1C3ZX4",
-      "title": "Mattel Universal Pictures’ Wicked Magical Wise Woman – Moon Fashion Doll with Removable Deluxe Outfit & Accessory, Inspi",
-      "url": "https://www.amazon.com/dp/B0FK1C3ZX4?linkCode=sl2&tag=noya0b-20&linkId=cd3f8d2fb8d559ad3ac43baba5b2980f&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Toys & Kids",
-      "ts": "2026-06-13T23:22:35.412Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81jFdnGU+yL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0h1b7qw7d-bedstory-hybrid-mattress-queen-13-inch-zero-motion-transfer-",
-      "asin": "B0H1B7QW7D",
-      "title": "BedStory Hybrid Mattress Queen 13 Inch - Zero Motion Transfer with Precision Pocket Springs - Firm Orthopedic Lumbar Hip",
-      "url": "https://www.amazon.com/dp/B0H1B7QW7D?th=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-13T23:20:41.617Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81QwPq5OiAL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
