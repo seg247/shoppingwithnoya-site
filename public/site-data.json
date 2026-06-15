@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-15T17:30:02.091Z",
+  "generatedAt": "2026-06-15T17:40:02.066Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0c8sc8ptz-gerber-stage-2-baby-food-farmers-market-puree-tubs-no-added-",
+      "asin": "B0C8SC8PTZ",
+      "title": "Gerber Stage 2 Baby Food, Farmers’ Market Puree Tubs, No Added Colors or Flavors, Baby Puree, Variety 32-Pack",
+      "url": "https://www.amazon.com/dp/B0C8SC8PTZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=d48804d4e0602d6676b8decf6ac1b47f&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-15T17:36:24.638Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Mu7FOyGOL._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0013ovzvk-now-foods-solutions-jojoba-oil-100-pure-moisturizing-multi-p",
       "asin": "B0013OVZVK",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-14T14:00:23.510Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/81D1-U4kEPL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0gclbg6mf-dumpling-squishy-mystery-box-mystery-dumpling-squishy-squeez",
-      "asin": "B0GCLBG6MF",
-      "title": "Dumpling Squishy Mystery Box, Mystery Dumpling Squishy Squeeze Stress Balls for Kids & Adults, Sensory Fidget Toys for A",
-      "url": "https://www.amazon.com/dp/B0GCLBG6MF/ref=cm_sw_r_as_gl_api_gl_i_SY83XH6ECFZDMGC450TW?linkCode=ml1&tag=noya0b-20&linkId=d71804d7af53fc6ed8f0326102619224",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-14T13:44:26.540Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61E7nEckKdL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
