@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-15T10:10:01.607Z",
+  "generatedAt": "2026-06-15T10:20:01.652Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b000ax13us-good-cook-can-opener-safe-cut-manual-can-opener-no-sharp-can",
+      "asin": "B000AX13US",
+      "title": "Good Cook Can Opener, Safe Cut Manual Can Opener, no Sharp Can Edges, Black",
+      "url": "https://www.amazon.com/dp/B000AX13US/ref=cm_sw_r_as_gl_api_gl_i_dl_9RDAE47EYBQXC34GVBBA?linkCode=ml1&tag=noya0b-20&linkId=bc144159e92abf843a017c7844f9add5",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-15T10:16:20.962Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61b8DkzyadL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0bs48x544-organic-usda-caf-romano-coffee-aluminum-espresso-pods-for-ne",
+      "asin": "B0BS48X544",
+      "title": "Organic USDA Café Romano Coffee Aluminum Espresso Pods For Nespresso Original Machine 100 Pack Italian Espresso Coffee (",
+      "url": "https://www.amazon.com/dp/B0BS48X544/ref=cm_sw_r_as_gl_api_gl_i_2CKHBSRPX45ZGP06F0BA?linkCode=ml1&tag=noya0b-20&linkId=0a77b73ed9123469d28f07d209bc2bc8",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-15T10:12:23.894Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81gh9AXmi+L._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0cx4qtnfq-eztzen-giraffe-metal-garden-stakes-decorative-giraffe-gifts-",
       "asin": "B0CX4QTNFQ",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-14T02:56:28.311Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/81UcMX2qmzL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b08tpgxw5b-amazon-com-nearly-natural-36in-artificial-triple-ball-boxwoo",
-      "asin": "B08TPGXW5B",
-      "title": "Amazon.com - Nearly Natural 36in Artificial Triple Ball Boxwood Topiary Tree - Indoor Outdoor Realistic Faux Greenery fo",
-      "url": "https://www.amazon.com/dp/B08TPGXW5B?linkCode=sl2&tag=noya0b-20&linkId=177b7ede6ff3f8893fdbbbe3a501c259&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-14T02:54:28.716Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81SAgPcGaQL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0h3pztd3h-huanuo-48-x-24-inch-electric-standing-desk-height-adjustable",
-      "asin": "B0H3PZTD3H",
-      "title": "HUANUO 48 x 24 Inch Electric Standing Desk, Height Adjustable Computer Gaming Desk with 4 Memory Presets, Home Office Si",
-      "url": "https://www.amazon.com/dp/B0H3PZTD3H?th=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-06-14T02:52:29.528Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71EIY69Y-TL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
