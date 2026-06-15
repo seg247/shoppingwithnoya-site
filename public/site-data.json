@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-15T06:30:01.544Z",
+  "generatedAt": "2026-06-15T06:40:01.465Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b00sax0nz6-evian-natural-spring-water-750-ml-25-36-fluid-ounce-water-bo",
+      "asin": "B00SAX0NZ6",
+      "title": "evian Natural Spring Water, 750 ml (25.36 fluid ounce) Water Bottle with Sports Cap, 12 Pack",
+      "url": "https://www.amazon.com/dp/B00SAX0NZ6/ref=cm_sw_r_as_gl_apa_gl_i_MQCPKEZMP022T4FW22ES?linkCode=ml1&tag=noya0b-20&linkId=380eafe4c2af5371fd87720a85a845c3",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-15T06:36:19.774Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71-z3dADUYL._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0gfwbxg3b-nothing-phone-4a-pro-cell-phone-2026-new-unlocked-android-16",
       "asin": "B0GFWBXG3B",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-14T00:36:23.408Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61OQ6Cj4knL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0gt6rfqzy-irobot-roomba-plus-505x-combo-robot-vacuum-mop-autowash-dock",
-      "asin": "B0GT6RFQZY",
-      "title": "iRobot Roomba Plus 505X Combo Robot Vacuum & Mop + AutoWash Dock, Auto‑Empties up to 75 Days, Extending Spinning Mop Pad",
-      "url": "https://www.amazon.com/dp/B0GT6RFQZY?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-14T00:34:33.381Z",
-      "type": "deal",
-      "imageUrl": null,
       "expiresAt": null,
       "promoCode": null
     }
