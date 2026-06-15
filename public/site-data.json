@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-15T13:00:01.344Z",
+  "generatedAt": "2026-06-15T13:10:01.656Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0cb4vpqrr-philips-sonicare-a3-all-in-one-genuine-replacement-electric-",
+      "asin": "B0CB4VPQRR",
+      "title": "Philips Sonicare A3 All-in-One - Genuine Replacement Electric Toothbrush Heads, White, 4 Pack One Year Supply, HX9094/65",
+      "url": "https://www.amazon.com/dp/B0CB4VPQRR?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Personal Care",
+      "ts": "2026-06-15T13:08:20.690Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71avQSzWcuL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0dqq8lwbq-oeak-women-jelly-bras-no-underwire-scalloped-push-up-buttery",
       "asin": "B0DQQ8LWBQ",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-14T07:28:18.327Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61859HweXCL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0b4ycbx9y-swimways-swim-trainer-us-coast-guard-approved-life-vest-kids",
-      "asin": "B0B4YCBX9Y",
-      "title": "SwimWays Swim Trainer, US Coast Guard Approved Life Vest Kids Swim Vest, Arm Floaties & Life Jackets for Kids 33-55 lbs",
-      "url": "https://www.amazon.com/dp/B0B4YCBX9Y/ref=cm_sw_r_as_gl_apa_gl_i_ESQNXXMJJ6Z95ZVGJW90?linkCode=ml1&tag=noya0b-20&linkId=43a3517b0ccd5c973f13baa8eb11808c",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Toys & Kids",
-      "ts": "2026-06-14T07:00:26.084Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81Xyj6aF43L._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
