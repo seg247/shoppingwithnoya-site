@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-15T17:20:01.632Z",
+  "generatedAt": "2026-06-15T17:30:02.091Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0013ovzvk-now-foods-solutions-jojoba-oil-100-pure-moisturizing-multi-p",
+      "asin": "B0013OVZVK",
+      "title": "NOW Foods Solutions, Jojoba Oil, 100% Pure Moisturizing, Multi-Purpose Oil for Face, Hair and Body, 16-Ounce : Beauty & ",
+      "url": "https://www.amazon.com/Solutions-Jojoba-Moisturizing-Multi-Purpose-16-Ounce/dp/B0013OVZVK?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=081b5ad401b49fd18ba64bd685419dae&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-06-15T17:22:24.631Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61J4RpzOIhL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0b12c7lvv-organization-finds-on-amazon",
       "asin": "B0B12C7LVV",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-14T13:44:26.540Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61E7nEckKdL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b001e6uzl8-mountain-dew-code-red-cherry-12-fl-oz-cans-12-pack",
-      "asin": "B001E6UZL8",
-      "title": "Mountain Dew Code Red Cherry, 12 Fl Oz Cans, 12 Pack",
-      "url": "https://www.amazon.com/dp/B001E6UZL8/ref=cm_sw_r_as_gl_api_gl_i_Q7GXMY915Q7Y0DCHMQD5?linkCode=ml1&tag=noya0b-20&linkId=2d2e1528d0c4a3393277b9973731ed9e",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-14T13:38:29.814Z",
-      "type": "deal",
-      "imageUrl": null,
       "expiresAt": null,
       "promoCode": null
     }
