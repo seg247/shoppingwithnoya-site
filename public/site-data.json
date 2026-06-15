@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-15T04:50:02.013Z",
+  "generatedAt": "2026-06-15T05:00:01.473Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b089dr29t6-amazon-smart-plug-works-with-alexa-a-certified-for-humans-de",
+      "asin": "B089DR29T6",
+      "title": "Amazon Smart Plug, works with Alexa – A Certified for Humans Device",
+      "url": "https://www.amazon.com/dp/B089DR29T6/ref=cm_sw_r_as_gl_apa_gl_i_dl_R1PRYQE5ZPDG83YK797X?linkCode=ml1&tag=noya0b-20&linkId=e237e41cab3881b7891be483db4a1904",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-06-15T04:58:20.479Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61t5zBS57gL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0fk1c3gdw-owala-freesip-sway-insulated-stainless-steel-water-bottle-wi",
+      "asin": "B0FK1C3GDW",
+      "title": "Owala FreeSip Sway Insulated Stainless Steel Water Bottle with Two-Way Spout, Built-In Straw and Bucket Handle, Made for",
+      "url": "https://www.amazon.com/dp/B0FK1C3GDW?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-15T04:50:21.975Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61s+DOVawZL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0gkvwxrng-scarlet-darkness-floral-corset-dress-summer-mini-dresses-for",
       "asin": "B0GKVWXRNG",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-14T00:04:31.907Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/81mChQbnjnL._SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b071jqwdf2-lanc-me-monsieur-big-mascara-instant-volume-mascara-with-fal",
-      "asin": "B071JQWDF2",
-      "title": "Lancôme Monsieur Big Mascara – Instant Volume Mascara with False Lash Effect – Up to 12x More Volume & 24-Hour Wear - Vo",
-      "url": "https://www.amazon.com/dp/B071JQWDF2?th=1&linkCode=sl2&tag=noya0b-20&linkId=5c6e0b78b4cef79deeb52b0d81dc729e&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-06-14T00:02:36.991Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/616i6B0B+CL._SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fbpdxq7w-legendary-whitetails-mens-long-sleeve-button-down-100-cotton",
-      "asin": "B0FBPDXQ7W",
-      "title": "Legendary Whitetails Mens Long Sleeve Button Down 100% Cotton Flannel Shirt, Sky Plaid, Medium : Clothing, Shoes & Jewel",
-      "url": "https://www.amazon.com/dp/B0FBPDXQ7W?th=1&psc=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-06-14T00:00:34.494Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81nLJtpUl8L._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
