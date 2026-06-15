@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-15T12:40:01.822Z",
+  "generatedAt": "2026-06-15T12:50:01.684Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b09h53pswl-iberia-pineapple-nectar-33-8-fl-oz-pack-of-3",
+      "asin": "B09H53PSWL",
+      "title": "\udecd️Iberia Pineapple Nectar, 33.8 Fl Oz, (Pack of 3)",
+      "url": "https://www.amazon.com/dp/B09H53PSWL?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-15T12:48:19.433Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/813hnuSN6VL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0fh6yl3xc-astercook-deep-carbonized-bamboo-cutting-boards-for-kitchen-",
       "asin": "B0FH6YL3XC",
@@ -531,20 +545,6 @@
       "ts": "2026-06-15T10:52:19.891Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51XFmiQk4tL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b09h53pswl-iberia-pineapple-nectar-33-8-fl-oz-pack-of-3",
-      "asin": "B09H53PSWL",
-      "title": "Iberia Pineapple Nectar, 33.8 Fl Oz, (Pack of 3)",
-      "url": "https://www.amazon.com/dp/B09H53PSWL/ref=cm_sw_r_as_gl_api_gl_i_FMZDB0469SVJ22CGA6RX?linkCode=ml1&tag=noya0b-20&linkId=941c03e313f8d3b892323792a1666269",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-15T10:46:19.467Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/813hnuSN6VL._SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     },
