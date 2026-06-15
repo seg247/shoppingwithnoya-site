@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-15T05:50:01.585Z",
+  "generatedAt": "2026-06-15T06:00:01.442Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0ff4lkwyq-hatchimals-bloomables-bloom-bash-collectibles-pack-with-6-su",
+      "asin": "B0FF4LKWYQ",
+      "title": "Hatchimals Bloomables, Bloom Bash Collectibles Pack with 6 Surprise Blind Box Characters, Over 15 Accessories, Terrarium",
+      "url": "https://www.amazon.com/dp/B0FF4LKWYQ/ref=cm_sw_r_as_gl_apa_gl_i_1WJGJ1RJ6GN3KD9RY40Y?linkCode=ml1&tag=noya0b-20&linkId=0c0c69a515442ef72707ff3b636baaea",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-15T05:58:18.516Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81O6XR4OQUL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0fngssx3z-hempz-fall-faves-trio-lotion-lip-balm-set-limited-holiday-ru",
+      "asin": "B0FNGSSX3Z",
+      "title": "Hempz Fall Faves Trio Lotion & Lip Balm Set, Limited Holiday Run, Moisturizing and Nourishing Gift Pack, Travel Size",
+      "url": "https://www.amazon.com/dp/B0FNGSSX3Z/ref=cm_sw_r_as_gl_apa_gl_i_ST8FDT1YAQCD9C9Q741Y?linkCode=ml1&tag=noya0b-20&linkId=8af0dddf80997ab14014b85a1999e2f6",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-06-15T05:52:20.009Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81iFqBzE+fL._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0d7qhy574-coleman-sundome-camping-tent-with-rainfly-2-3-4-6-person-ten",
       "asin": "B0D7QHY574",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-14T00:16:26.994Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/81hFqHNsZ-L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0dy78999w-8-set-packing-cubes-for-suitcases-packing-cube-with-shoe-cos",
-      "asin": "B0DY78999W",
-      "title": "8 Set Packing Cubes for Suitcases,Packing Cube with Shoe, Cosmetics, Clothing, and Accessories Bags Packing Cubes for Tr",
-      "url": "https://www.amazon.com/Suitcases-Cosmetics-Clothing-Accessories-Organizer/dp/B0DY78999W?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=3fd78db3fd1ee17be72f201739f9fac4&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-06-14T00:14:30.633Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71UUKYhS9yL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b00gfrp3xg-dole-canned-pineapple-slices-12-pack-just-10-xx-reg-33",
-      "asin": "B00GFRP3XG",
-      "title": "\udf4dDole Canned Pineapple Slices 12-Pack Just $10.xx (Reg $33)",
-      "url": "https://www.amazon.com/dp/B00GFRP3XG?th=1&linkCode=sl2&tag=noya0b-20&linkId=ac0534723c88a22c0fdc5414cb748f61&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-14T00:12:27.025Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81xdk6ITlzL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
