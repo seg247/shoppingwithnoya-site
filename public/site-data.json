@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-15T02:10:02.013Z",
+  "generatedAt": "2026-06-15T02:20:01.158Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b00099ymcy-back-up-to-triple-savings-on-batteries-select-batteries-are-",
+      "asin": "B00099YMCY",
+      "title": "Back! Up to triple savings on batteries!! select batteries are on sale + save 40% off when you add to cart + sub and sav",
+      "url": "https://www.amazon.com/dp/B00099YMCY?tag=noya0b-20",
+      "discount": 40,
+      "rating": "HOT",
+      "category": "Other",
+      "ts": "2026-06-15T02:18:31.897Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81xGo68SPlL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0dn2bncsy-cheez-it-cheese-crackers-baked-snack-crackers-single-serve-e",
+      "asin": "B0DN2BNCSY",
+      "title": "Cheez-It Cheese Crackers, Baked Snack Crackers, Single Serve, Extra Toasty (40 Pouches) : Everything Else",
+      "url": "https://www.amazon.com/dp/B0DN2BNCSY?ie=UTF8&ascsubtag=650e4d10660811f1bec57e62ec9a2a0f0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=9cf404ab8a55b717b9407d427df5799d&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-15T02:14:36.131Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81GRhye-OIL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0g221g3z9-miracle-gro-indoor-plant-food-mist-for-orchids-orchid-plant-",
       "asin": "B0G221G3Z9",
@@ -5869,20 +5897,6 @@
       "promoCode": null
     },
     {
-      "slug": "b00099ymcy-back-up-to-triple-savings-on-batteries-select-batteries-are-",
-      "asin": "B00099YMCY",
-      "title": "Back! Up to triple savings on batteries!! select batteries are on sale + save 40% off when you add to cart + sub and sav",
-      "url": "https://www.amazon.com/dp/B00099YMCY?tag=noya0b-20",
-      "discount": 40,
-      "rating": "HOT",
-      "category": "Other",
-      "ts": "2026-06-14T02:36:39.652Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/91RaEKTiWfL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
       "slug": "b0cc644kmj-fitbit-charge-6-fitness-tracker-with-google-apps-heart-rate-",
       "asin": "B0CC644KMJ",
       "title": "Fitbit Charge 6 Fitness Tracker with Google Apps - Heart Rate on Exercise Equipment - 3-Month Google Health Premium Memb",
@@ -6983,20 +6997,6 @@
       "rating": "WORTH A LOOK",
       "category": "Other",
       "ts": "2026-06-13T23:06:35.320Z",
-      "type": "deal",
-      "imageUrl": null,
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0866q12bk-tommy-bahama-maritime-eau-de-cologne-for-men-2-5-fl-oz-beaut",
-      "asin": "B0866Q12BK",
-      "title": "Tommy Bahama Maritime Eau de Cologne for Men, 2.5 Fl. Oz. : Beauty & Personal Care",
-      "url": "https://www.amazon.com/dp/B0866Q12BK?th=1&tag=noya0b-20",
-      "discount": 31,
-      "rating": "HOT",
-      "category": "Beauty",
-      "ts": "2026-06-13T23:04:33.499Z",
       "type": "deal",
       "imageUrl": null,
       "expiresAt": null,
