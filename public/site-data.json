@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-15T14:40:01.609Z",
+  "generatedAt": "2026-06-15T14:50:01.163Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b072jt7mqm-little-tinkers-world-baby-hair-brush-and-comb-set-4-piece-na",
+      "asin": "B072JT7MQM",
+      "title": "Little Tinkers World Baby Hair Brush and Comb Set 4-Piece Natural Wooden Set with Soft Goat Bristle Brush, Cradle Cap Br",
+      "url": "https://www.amazon.com/dp/B072JT7MQM?th=1&linkCode=sl2&tag=noya0b-20&linkId=9b137cc1782f50cad4612f8ec59fc9de&language=en_US",
+      "discount": 57,
+      "rating": "FIRE",
+      "category": "Other",
+      "ts": "2026-06-15T14:42:24.224Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/810o4ArKl8L._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0cl7x1mzc-campbell-s-chunky-chili-with-beans-16-5-oz-can-12-pack",
+      "asin": "B0CL7X1MZC",
+      "title": "Campbell’s Chunky Chili With Beans, 16.5 oz Can (12 Pack)",
+      "url": "https://www.amazon.com/dp/B0CL7X1MZC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-15T14:40:23.257Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81ByUNJTFjL._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b00j9h8o6c-biosilk-hydrating-therapy-pure-moisture-leave-in-hair-spray-",
       "asin": "B00J9H8O6C",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-14T10:26:26.916Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/610eQ7tD3EL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0747ygsfp-tide-pods-free-and-gentle-laundry-detergent-soap-pacs-tide-p",
-      "asin": "B0747YGSFP",
-      "title": "Tide, Pods Free and Gentle Laundry Detergent Soap Pacs, Tide Pods Laundry Detergent, 42 Count : Health & Household",
-      "url": "https://www.amazon.com/dp/B0747YGSFP?th=1&linkCode=sl2&tag=noya0b-20&linkId=f18bf5a16cb274e5f1f4585bb6c4417a&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Cleaning Supplies",
-      "ts": "2026-06-14T10:24:25.372Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71Wi49KgkOL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0cs3v8m9h-ninja-xl-air-fryer-with-maxcrisp-6-5-qt-capacity-6-in-1-max-",
-      "asin": "B0CS3V8M9H",
-      "title": "Ninja XL Air Fryer with MaxCrisp | 6.5 QT Capacity | 6-in-1 Max Crisp, Air Fry, Roast, Bake, Reheat & Dehydrate | 450°F ",
-      "url": "https://www.amazon.com/dp/B0CS3V8M9H/ref=cm_sw_r_as_gl_api_gl_i_dl_035RE821E7X0M4K18AQ7?linkCode=ml1&tag=noya0b-20&linkId=1e9a54f537f88d6ee61032e3e8436929",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-14T10:22:25.949Z",
-      "type": "deal",
-      "imageUrl": null,
       "expiresAt": null,
       "promoCode": null
     }
