@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-15T06:10:01.611Z",
+  "generatedAt": "2026-06-15T06:20:01.919Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b08hrm697d-de-longhi-upgraded-all-in-one-combination-coffee-maker-espre",
+      "asin": "B08HRM697D",
+      "title": "De'Longhi UPGRADED All-in-One Combination Coffee Maker & Espresso Machine + Advanced Adjustable Milk Frother for Cappucc",
+      "url": "https://www.amazon.com/dp/B08HRM697D/ref=cm_sw_r_as_gl_apa_gl_i_BMFW0FMJS9BCCYYHVA71?linkCode=ml1&tag=noya0b-20&linkId=b1740cf82d8b4c55fe5022767d7bf2fb",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-15T06:14:23.466Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71uLuTiXQlL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0fkgw4vnm-rainmr-memory-foam-mattress-topper-twin-2000gsm-pillow-top-m",
+      "asin": "B0FKGW4VNM",
+      "title": "Rainmr Memory Foam Mattress Topper Twin - 2000GSM Pillow Top Mattress Topper Twin Size, Extra Thick Soft Bed Topper for ",
+      "url": "https://www.amazon.com/dp/B0FKGW4VNM/ref=cm_sw_r_as_gl_apa_gl_i_dl_BM3NCKD27BK2YQ0JKEPV?linkCode=ml1&tag=noya0b-20&linkId=312b9d3ed84a2e5f217c7cbe3b428fcd",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-15T06:10:22.360Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71tPCP0BHlL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b08w8ks8d3-amazon-smart-air-quality-monitor-know-your-air-works-with-al",
       "asin": "B08W8KS8D3",
@@ -1945,20 +1973,6 @@
       "ts": "2026-06-14T22:12:37.495Z",
       "type": "deal",
       "imageUrl": null,
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b08hrm697d-de-longhi-upgraded-all-in-one-combination-coffee-maker-espre",
-      "asin": "B08HRM697D",
-      "title": "De'Longhi UPGRADED All-in-One Combination Coffee Maker & Espresso Machine + Advanced Adjustable Milk Frother for Cappucc",
-      "url": "https://www.amazon.com/dp/B08HRM697D?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-14T22:10:33.360Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71uLuTiXQlL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     },
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-14T00:26:28.352Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71ukKLbRp5L._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b07f3bbxj6-bose-bass-module-500-black",
-      "asin": "B07F3BBXJ6",
-      "title": "Bose Bass Module 500 Black",
-      "url": "https://www.amazon.com/dp/B07F3BBXJ6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-14T00:24:27.395Z",
-      "type": "deal",
-      "imageUrl": null,
       "expiresAt": null,
       "promoCode": null
     }
