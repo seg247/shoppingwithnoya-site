@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-15T06:00:01.442Z",
+  "generatedAt": "2026-06-15T06:10:01.611Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b08w8ks8d3-amazon-smart-air-quality-monitor-know-your-air-works-with-al",
+      "asin": "B08W8KS8D3",
+      "title": "Amazon Smart Air Quality Monitor – Know your air, Works with Alexa",
+      "url": "https://www.amazon.com/dp/B08W8KS8D3/ref=cm_sw_r_as_gl_apa_gl_i_dl_YED8J9H6AM3CJCCNAVZC?linkCode=ml1&tag=noya0b-20&linkId=5ca6c33a0f04061e66b794c33fc3abaa",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-06-15T06:02:18.648Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61JysiUA-jL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0gsh1xg56-irobot-roomba-105x-robot-vacuum-smart-lidar-mapping-70x-powe",
+      "asin": "B0GSH1XG56",
+      "title": "iRobot Roomba 105X Robot Vacuum, Smart LiDAR Mapping, 70X Power‑Lifting Suction, Custom Room Cleaning, App & Voice Contr",
+      "url": "https://www.amazon.com/dp/B0GSH1XG56?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-15T06:00:22.078Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71uD-uH0NoL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0ff4lkwyq-hatchimals-bloomables-bloom-bash-collectibles-pack-with-6-su",
       "asin": "B0FF4LKWYQ",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-14T00:24:27.395Z",
       "type": "deal",
       "imageUrl": null,
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0f53yhzt6-minthouz-desktop-circulating-fan-small-portable-compact-usb-",
-      "asin": "B0F53YHZT6",
-      "title": "Minthouz Desktop Circulating Fan, Small Portable Compact USB-C Rechargeable Battery Powered, 2000mAh, 3 Speeds, 90° Adju",
-      "url": "https://www.amazon.com/dp/B0F53YHZT6?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-14T00:20:27.030Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61MU6dqvY+L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0gkdjbzkk-boruit-clip-on-solar-lights-outdoor-600lm-solar-fence-light-",
-      "asin": "B0GKDJBZKK",
-      "title": "BORUIT Clip On Solar Lights Outdoor, 600LM Solar Fence Light with Motion Sensor, Adjustable Angle, 3 Modes White Light f",
-      "url": "https://www.amazon.com/dp/B0GKDJBZKK?th=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Garden & Outdoor",
-      "ts": "2026-06-14T00:16:26.994Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81hFqHNsZ-L.jpg",
       "expiresAt": null,
       "promoCode": null
     }
