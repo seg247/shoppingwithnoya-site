@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-15T02:50:00.905Z",
+  "generatedAt": "2026-06-15T03:00:01.646Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0dt2sbx2s-de-longhi-magnifica-evo-next-fully-automatic-espresso-machin",
+      "asin": "B0DT2SBX2S",
+      "title": "De'Longhi Magnifica Evo Next Fully Automatic Espresso Machine - Programmable Coffee Maker with Grinder and Milk Frother ",
+      "url": "https://www.amazon.com/dp/B0DT2SBX2S?ie=UTF8&ascsubtag=94da2082686511f1b25c2efc6c563dbe0INT&th=1&linkCode=sl2&tag=noya0b-20&linkId=e033f51220e89cc533e36ccea22e0267&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-15T02:56:30.761Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71S+DELcECL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0dhlsv3y3-score-c4-cellucor-up-to-50-off-clip-35-off-q-sub-and-save-up",
       "asin": "B0DHLSV3Y3",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-13T23:16:33.830Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51cbTe9hELL._AC_SL1200_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0ghrr98l4-fireswan-womens-cardigan-sweaters-summer-tops-batwing-short-",
-      "asin": "B0GHRR98L4",
-      "title": "FireSwan Womens Cardigan Sweaters Summer Tops Batwing Short Sleeve Oversized Sweater Lightweight Trendy Outfits",
-      "url": "https://www.amazon.com/dp/B0GHRR98L4?th=1&psc=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-13T23:12:48.360Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71sSSHEMFqL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
