@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-16T06:00:01.798Z",
+  "generatedAt": "2026-06-16T06:10:01.450Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b000mdhh06-breville-juice-fountain-compact-centrifugal-machine",
+      "asin": "B000MDHH06",
+      "title": "Breville Juice Fountain Compact Centrifugal Machine",
+      "url": "https://www.amazon.com/dp/B000MDHH06?linkCode=sl2&tag=noya0b-20&linkId=a98489be55ba6141322ae0ec2febe6e8&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-16T06:02:24.135Z",
+      "type": "deal",
+      "imageUrl": null,
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b07jhqgcz8-purina-fancy-feast-chicken-and-beef-classic-pate-collection-",
       "asin": "B07JHQGCZ8",
@@ -391,20 +405,6 @@
       "ts": "2026-06-16T04:04:23.837Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/517H6x7wLVL._SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b000mdhh06-breville-bje200xl-juice-fountain-compact-centrifugal-machine",
-      "asin": "B000MDHH06",
-      "title": "Breville BJE200XL Juice Fountain Compact Centrifugal Machine, 25 fl oz, Silver: Electric Centrifugal Juicers: Home & Kit",
-      "url": "https://www.amazon.com/dp/B000MDHH06/ref=cm_sw_r_as_gl_apa_gl_i_9JSP89FWRVR7MCBYRVT6?linkCode=ml1&tag=noya0b-20&linkId=638dbcbe8b234defafe7f40fd7056612",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-16T04:00:24.278Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71lXEv3tnoL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     },
