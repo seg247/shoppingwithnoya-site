@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-16T03:20:01.683Z",
+  "generatedAt": "2026-06-16T03:30:01.290Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fm5kf34g-ninja-french-door-premier-air-fry-oven",
+      "asin": "B0FM5KF34G",
+      "title": "Ninja French Door Premier Air fry Oven",
+      "url": "https://www.amazon.com/dp/B0FM5KF34G?th=1&linkCode=sl2&tag=noya0b-20&linkId=8d1ad5256a14830353ba47b3d3938f71&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-16T03:28:23.789Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81Hw2PusFkL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0f9zt3z6r-dash-peanuts-x-hot2go-portable-food-warmer-electronics",
+      "asin": "B0F9ZT3Z6R",
+      "title": "DASH Peanuts x Hot2Go Portable Food Warmer : Electronics",
+      "url": "https://www.amazon.com/dp/B0F9ZT3Z6R/ref=cm_sw_r_as_gl_apa_gl_i_dl_27A27D1DFA6W9HC1Y1JW?linkCode=ml1&tag=noya0b-20&linkId=7ad77aac9bada7b5d14917d655b866ac",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-16T03:24:27.376Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/7185GrSv1+L.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0cyn3p9f6-madame-alexander-14-inch-alexander-girlz-doll-brooks-light-s",
       "asin": "B0CYN3P9F6",
@@ -489,20 +517,6 @@
       "ts": "2026-06-16T01:30:33.886Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71qBCuZL6RL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fm5kf34g-ninja-french-door-premier-air-fry-oven-10-in-1-functions-20-",
-      "asin": "B0FM5KF34G",
-      "title": "Ninja | French Door Premier Air fry Oven | 10-in-1 functions | 20.3-qt capacity | 5-qt Air Fry Basket, Sheet Pan, Wire R",
-      "url": "https://www.amazon.com/dp/B0FM5KF34G?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=261c79f9718811c80e665a30db515099&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-16T01:26:30.330Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81Hw2PusFkL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     },
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-14T22:34:29.683Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71RM34ltgqL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fxl3wvys-dumos-3-piece-large-lighted-christmas-deer-family-set-with-3",
-      "asin": "B0FXL3WVYS",
-      "title": "DUMOS 3-Piece Large Lighted Christmas Deer Family Set with 360 Bright LED Warm Lights Standing Reindeer, Lawn Decor, Ind",
-      "url": "https://www.amazon.com/dp/B0FXL3WVYS?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=93631a5194e759f69c3f07df0cd5e161&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Garden & Outdoor",
-      "ts": "2026-06-14T22:32:35.055Z",
-      "type": "deal",
-      "imageUrl": null,
       "expiresAt": null,
       "promoCode": null
     }
