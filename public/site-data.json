@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-16T16:40:01.216Z",
+  "generatedAt": "2026-06-16T16:50:01.505Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b08chjp3tj-crayola-fine-line-markers-for-kids-12-boxes-bulk-coloring-ma",
+      "asin": "B08CHJP3TJ",
+      "title": "Crayola Fine Line Markers for Kids (12 Boxes), Bulk Coloring Markers for School, 10 Assorted Colors, Essential Teacher C",
+      "url": "https://www.amazon.com/dp/B08CHJP3TJ?m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=1323fe984d3cdab6e7e1af261aae352d&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-16T16:48:24.527Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71FzQiRmR+L.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0cws5jnnv-yesterday-s-top-deals-you-can-still-grab",
+      "asin": "B0CWS5JNNV",
+      "title": "Yesterday's TOP Deals you can still grab!",
+      "url": "https://www.amazon.com/Five-Star-Notebook-Personal-450048CH1-ECM/dp/B0CWS5JNNV?th=1&linkCode=sl2&tag=noya0b-20&linkId=4829f3f63a157e16794687c11bfec9e2&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-16T16:42:25.159Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71du+WjPQDL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0fvz2fp24-tommy-jeans-men-s-tommy-jeans-hats-for-men-cotton-logo-adjus",
       "asin": "B0FVZ2FP24",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-15T11:36:20.022Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71mvztzpmSL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0dyzp1krm-sidefeel-women-s-high-waisted-jean-shorts-stretchy-summer-de",
-      "asin": "B0DYZP1KRM",
-      "title": "\udecd️Sidefeel Women's High Waisted Jean Shorts Stretchy Summer Denim Shorts with Pockets White Size 12",
-      "url": "https://www.amazon.com/dp/B0DYZP1KRM/ref=cm_sw_r_as_gl_apa_gl_i_dl_HJ74BCA6NWTYP3E9QD9G?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-15T11:34:24.293Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61PIT+7vp4L._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0dszw144q-medicube-korean-viral-duo-for-glass-glow-skin-zero-pore-pads",
-      "asin": "B0DSZW144Q",
-      "title": "\udecd️medicube Korean Viral Duo for Glass Glow Skin: Zero Pore Pads 2.0 and Collagen Overnight Wrapping Peel Off Facial Mask",
-      "url": "https://www.amazon.com/dp/B0DSZW144Q/ref=nav_custrec_signin?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-06-15T11:30:21.738Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71FQw3xtADL._SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
