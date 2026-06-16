@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-16T18:40:01.393Z",
+  "generatedAt": "2026-06-16T18:50:01.723Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0frsd1kmx-topsung-walkie-talkies-for-kids-long-range-walkie-talkie-for",
+      "asin": "B0FRSD1KMX",
+      "title": "Topsung Walkie Talkies for Kids Long Range Walkie-Talkie for Adults Rechargeable 4 Pack with Lanyard NOAA USB, Family Pi",
+      "url": "https://www.amazon.com/Topsung-Talkies-Walkie-Talkie-Rechargeable-Toddlers/dp/B0FRSD1KMX?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=ea69ae5cd241760c73b6e1ec4a27d28f&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-16T18:48:31.794Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71VUYmIlP8L._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b088swv8lp-grandma-s-cookies-peanut-butter-2-5-ounce-pack-of-10",
+      "asin": "B088SWV8LP",
+      "title": "Grandma's Cookies, Peanut Butter, 2.5 Ounce (Pack of 10)",
+      "url": "https://www.amazon.com/dp/B088SWV8LP?th=1&linkCode=sl2&tag=noya0b-20&linkId=49e54266b0125bda77953f333d3dba76&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-16T18:40:29.190Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/917LDlpI41L._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0czpc94x6-bella-2-slice-toaster-6-setting-shade-control-w-reheat-cance",
       "asin": "B0CZPC94X6",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-15T13:14:20.468Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61VCqbSFW8L._AC_SL1350_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0ffn4jdnp-airmsen-12-cup-programmable-dual-coffee-maker-single-serve-m",
-      "asin": "B0FFN4JDNP",
-      "title": "\udecd️AIRMSEN 12-Cup Programmable Dual Coffee Maker – Single Serve Machine for K-Cup Pods & Ground, 1000W Fast Brew, Delay S",
-      "url": "https://www.amazon.com/dp/B0FFN4JDNP/ref=cm_sw_r_as_gl_api_gl_i_J6SM7RA43DAMK2TY22TY?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-15T13:12:20.344Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/717GVSR3XzL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0cb4vpqrr-philips-sonicare-a3-all-in-one-genuine-replacement-electric-",
-      "asin": "B0CB4VPQRR",
-      "title": "Philips Sonicare A3 All-in-One - Genuine Replacement Electric Toothbrush Heads, White, 4 Pack One Year Supply, HX9094/65",
-      "url": "https://www.amazon.com/dp/B0CB4VPQRR?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Personal Care",
-      "ts": "2026-06-15T13:08:20.690Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71avQSzWcuL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
