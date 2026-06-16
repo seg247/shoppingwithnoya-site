@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-16T09:10:01.619Z",
+  "generatedAt": "2026-06-16T09:20:01.841Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0b628329s-barbie-skipper-babysitters-inc-playset-with-brunette-doll-in",
+      "asin": "B0B628329S",
+      "title": "Barbie Skipper Babysitters, Inc. Playset with Brunette Doll in Butterfly Dress, Potty & Bathroom-Themed Accessories",
+      "url": "https://www.amazon.com/dp/B0B628329S/ref=cm_sw_r_as_gl_api_gl_i_DYTQHVF9V91CDYC0PBXA?linkCode=ml1&tag=noya0b-20&linkId=ac556959d9edebb4501d4575ecfb0863",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Toys & Kids",
+      "ts": "2026-06-16T09:16:20.695Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/715ux-ywmvL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0dxprys3b-cat-sleeping-bag-for-indoor-cats-faux-fur-pet-cave-bed-burro",
+      "asin": "B0DXPRYS3B",
+      "title": "Cat Sleeping Bag for Indoor Cats, Faux Fur Pet Cave Bed & Burrow Nest, Reversible Plush Snuggle Sack, Portable Foldable ",
+      "url": "https://www.amazon.com/dp/B0DXPRYS3B/ref=cm_sw_r_as_gl_api_gl_i_ZNN6EK2H21GT8C9GHW8A?linkCode=ml1&tag=noya0b-20&linkId=33df54deed9e263e2f5b66545776c5e3",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Garden & Outdoor",
+      "ts": "2026-06-16T09:12:18.859Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51rc57eyRfL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0fyl57gbj-61-34-tall-metal-storage-cabinet-with-barn-doors-and-3-adjus",
       "asin": "B0FYL57GBJ",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-15T03:02:27.959Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71h1FJ8TiqL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0gg9h6tlt-spindrift-sparkling-water-americana-3-flavor-variety-pack-ma",
-      "asin": "B0GG9H6TLT",
-      "title": "Spindrift Sparkling Water, Americana 3 Flavor Variety Pack, Made with Real Squeezed Fruit, 12 Fl Oz Cans, Pack of 24 : T",
-      "url": "https://www.amazon.com/dp/B0GG9H6TLT/ref=cm_sw_r_as_gl_apa_gl_i_72WJ7AYE9805J4VA9FPZ?linkCode=ml1&tag=noya0b-20&linkId=de86b931c2549221aa442a44b53950ec",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-15T03:00:30.043Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/817wFmecFsL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0dt2sbx2s-de-longhi-magnifica-evo-next-fully-automatic-espresso-machin",
-      "asin": "B0DT2SBX2S",
-      "title": "De'Longhi Magnifica Evo Next Fully Automatic Espresso Machine - Programmable Coffee Maker with Grinder and Milk Frother ",
-      "url": "https://www.amazon.com/dp/B0DT2SBX2S?ie=UTF8&ascsubtag=94da2082686511f1b25c2efc6c563dbe0INT&th=1&linkCode=sl2&tag=noya0b-20&linkId=e033f51220e89cc533e36ccea22e0267&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-15T02:56:30.761Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71S+DELcECL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
