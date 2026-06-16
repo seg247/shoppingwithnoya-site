@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-16T18:00:01.177Z",
+  "generatedAt": "2026-06-16T18:10:02.103Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b005cukjfe-jolly-rancher-filled-pops-assorted-fruit-flavored-candy-box-",
+      "asin": "B005CUKJFE",
+      "title": "JOLLY RANCHER Filled Pops Assorted Fruit Flavored Candy Box, 56 oz (100 Pieces) : Suckers And Lollipops : Everything Els",
+      "url": "https://www.amazon.com/dp/B005CUKJFE?th=1&linkCode=sl2&tag=noya0b-20&linkId=83b4592d0493e27e77c3bf5515225811&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-16T18:04:35.139Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71if55sGJEL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0743pzrrh-izod-men-s-golf-swingflex-straight-fit-flat-front-pants-peac",
+      "asin": "B0743PZRRH",
+      "title": "IZOD Men's Golf Swingflex Straight-Fit Flat-Front Pants, peacoat, 38W X 30L : Clothing, Shoes & Jewelry",
+      "url": "https://www.amazon.com/dp/B0743PZRRH?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Sports & Fitness",
+      "ts": "2026-06-16T18:02:29.041Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61yVn0YvzQL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0cxp8pt5n-chuya-bath-sponges-loofahs-70-grams-large-size-4-pack-shower",
       "asin": "B0CXP8PT5N",
@@ -3205,20 +3233,6 @@
       "ts": "2026-06-16T03:12:34.151Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/7150-oo8gDL._SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b005cukjfe-jolly-rancher-filled-pops-assorted-fruit-flavored-candy-box-",
-      "asin": "B005CUKJFE",
-      "title": "JOLLY RANCHER Filled Pops Assorted Fruit Flavored Candy Box, 56 oz (100 Pieces)",
-      "url": "https://www.amazon.com/dp/B005CUKJFE/ref=cm_sw_r_as_gl_apa_gl_i_SCJ63S60EE6827CRCHEC?linkCode=ml1&tag=noya0b-20&linkId=3c381d78e274d011ea682299b1e3bcd5",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-16T03:08:28.286Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71if55sGJEL._SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     },
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-15T12:26:22.266Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71KfeZJWA1L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0gkj9kcrr-ninja-frostvault-65qt-wheeled-cooler-with-cold-dry-zone-inte",
-      "asin": "B0GKJ9KCRR",
-      "title": "Ninja FrostVault | 65qt Wheeled Cooler with Cold Dry Zone | Integrated Fridge-Temp Dry Storage Drawer | Premium Heavy-Du",
-      "url": "https://www.amazon.com/dp/B0GKJ9KCRR?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-15T12:20:23.691Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61Ro+3yHb6L._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
