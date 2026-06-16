@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-16T06:50:01.424Z",
+  "generatedAt": "2026-06-16T07:00:01.693Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b004k3d0fk-it-s-a-10-miracle-leave-in-plus-keratin-4-oz",
+      "asin": "B004K3D0FK",
+      "title": "It's A 10 Miracle Leave-In Plus Keratin 4 Oz",
+      "url": "https://www.amazon.com/dp/B004K3D0FK/ref=cm_sw_r_as_gl_apa_gl_i_CC16WYV2F2BZJK80Q60E?linkCode=ml1&tag=noya0b-20&linkId=17303c511162391b381a6f9a889f9183",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-16T06:56:23.313Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51kTu9HmOiL._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0cp8b2x9r-blue-buffalo-tastefuls-natural-wet-cat-food-cans-flaked-styl",
+      "asin": "B0CP8B2X9R",
+      "title": "Blue Buffalo Tastefuls Natural Wet Cat Food Cans, Flaked Style, Tuna Entrée in Gravy 3-oz Cans (Pack of 4)",
+      "url": "https://www.amazon.com/dp/B0CP8B2X9R/ref=cm_sw_r_as_gl_apa_gl_i_CY11JJ0GEBYZSXF0VZ06?linkCode=ml1&tag=noya0b-20&linkId=8525cbc355392658529228c8dff4c99f",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Pet Supplies",
+      "ts": "2026-06-16T06:50:22.157Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81XecjzkaJL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b09k93sfmm-blue-buffalo-life-protection-formula-healthy-weight-small-br",
       "asin": "B09K93SFMM",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-15T00:58:26.385Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/717Vse-kLpL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0d9ymt9l2-hair-dryer-150000-rpm-professional-high-speed-blow-dryer-neg",
-      "asin": "B0D9YMT9L2",
-      "title": "Hair Dryer, 150000 RPM Professional High-Speed Blow Dryer, Negative Ionic Hair Dryer for Fast Drying, Low Noise Thermo-C",
-      "url": "https://www.amazon.com/dp/B0D9YMT9L2?th=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-06-15T00:56:28.531Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61ItP1p9NjL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0cscz6mxs-lavyhuno-black-lace-sheer-curtains-2-panels-72-inches-long-f",
-      "asin": "B0CSCZ6MXS",
-      "title": "Lavyhuno Black Lace Sheer Curtains 2 Panels 72 Inches Long for Kitchen Nursery Room, Rose Florals Embroidery Shabby Chic",
-      "url": "https://www.amazon.com/Lavyhuno-72-Embroidery-Treatments-Halloween/dp/B0CSCZ6MXS?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=b1659fce969c47480a89a4f913a2549f&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-15T00:54:28.276Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81pIXurkXSL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
