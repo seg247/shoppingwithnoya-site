@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-16T10:40:01.548Z",
+  "generatedAt": "2026-06-16T10:50:01.309Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0042nwoly-crc-heavy-duty-silicone-lubricant-11-wt-oz-clear-colorless-l",
+      "asin": "B0042NWOLY",
+      "title": "CRC Heavy Duty Silicone Lubricant, 11 Wt Oz, Clear Colorless Liquid",
+      "url": "https://www.amazon.com/dp/B0042NWOLY/ref=cm_sw_r_as_gl_api_gl_i_KRWDF5AVGAG9BPKTHPQA?linkCode=ml1&tag=noya0b-20&linkId=378965a408ef17d66b408742626333c8",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-16T10:46:22.376Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/618NRRNPfdL._AC_SL1410_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0cp5gcw26-manjiamei-504-pcs-coloured-dot-stickers-sticky-labels-25mm-4",
+      "asin": "B0CP5GCW26",
+      "title": "MANJIAMEI 504 Pcs Coloured Dot Stickers Sticky Labels, 25mm/40mm/90mm/128mm Multi-Size Self Adhesive Colorful Sticky Dot",
+      "url": "https://www.amazon.com/dp/B0CP5GCW26/ref=cm_sw_r_as_gl_api_gl_i_VPKYTS8C2MMDGZ7ZPFYB?linkCode=ml1&tag=noya0b-20&linkId=033513907c2727fc9b607e01d33af3fb",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-16T10:40:25.791Z",
+      "type": "deal",
+      "imageUrl": null,
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0c2nfffms-beetles-matte-gel-top-coat-for-gel-nail-polish-15ml-chrome-p",
       "asin": "B0C2NFFFMS",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-15T05:46:17.053Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71ADgccHF4L._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0168k8vqk-scotts-green-max-lawn-food-lawn-fertilizer-for-grass-plus-ir",
-      "asin": "B0168K8VQK",
-      "title": "Scotts Green Max Lawn Food - Lawn Fertilizer for Grass Plus Iron Supplement, 10,000 sq. ft., 33.33 lbs.",
-      "url": "https://www.amazon.com/dp/B0168K8VQK?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Garden & Outdoor",
-      "ts": "2026-06-15T05:42:17.524Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71GTZY936qL._SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b089dr29t6-amazon-smart-plug-works-with-alexa-a-certified-for-humans-de",
-      "asin": "B089DR29T6",
-      "title": "Amazon Smart Plug, works with Alexa – A Certified for Humans Device",
-      "url": "https://www.amazon.com/dp/B089DR29T6/ref=cm_sw_r_as_gl_apa_gl_i_dl_R1PRYQE5ZPDG83YK797X?linkCode=ml1&tag=noya0b-20&linkId=e237e41cab3881b7891be483db4a1904",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-06-15T04:58:20.479Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61t5zBS57gL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
