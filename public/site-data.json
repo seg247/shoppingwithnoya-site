@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-16T12:40:01.937Z",
+  "generatedAt": "2026-06-16T12:50:01.295Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b09pgvgch5-horizon-group-usa-bluey-aqua-art-reusable-water-reveal-activ",
+      "asin": "B09PGVGCH5",
+      "title": "Horizon Group USA Bluey Aqua Art - Reusable Water Reveal Activity Pages With Water Pen for No-Mess Drawing and Coloring",
+      "url": "https://www.amazon.com/dp/B09PGVGCH5/ref=cm_sw_r_as_gl_api_gl_i_S9KJHJ5CE99RTYF9ZKDA?linkCode=ml1&tag=noya0b-20&linkId=8c472ab205a1850be94b680bc4636076",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Toys & Kids",
+      "ts": "2026-06-16T12:40:25.060Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81fmkv7E38L._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0f2b4hf5s-sally-hansen-miracle-gel-nail-polish-special-effect-top-coat",
       "asin": "B0F2B4HF5S",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-15T07:02:19.929Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71sYS8FEWaL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b07c2z21x5-canon-eos-rebel-t7-dslr-camera-ef-s-18-55mm-f-3-5-5-6-is-ii-",
-      "asin": "B07C2Z21X5",
-      "title": "Canon EOS Rebel T7 DSLR Camera EF-S 18-55mm f/3.5-5.6 is II Lens Kit, 24.1 Megapixel CMOS (APS-C) Sensor, Full HD Videos",
-      "url": "https://www.amazon.com/dp/B07C2Z21X5/ref=cm_sw_r_as_gl_apa_gl_i_dl_2BGCZEM39SHHW1P1PEPE?linkCode=ml1&tag=noya0b-20&linkId=2dd0ec20f0758a94189a671af49dbc93",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-15T07:00:21.559Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/714hINuPoBL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
