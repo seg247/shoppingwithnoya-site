@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-16T05:40:01.357Z",
+  "generatedAt": "2026-06-16T05:50:01.329Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0dq6tc4sp-prime-hydration-variety-berry-freeze-cherry-freeze-ice-pop-s",
+      "asin": "B0DQ6TC4SP",
+      "title": "PRIME HYDRATION Variety, Berry Freeze, Cherry Freeze, & Ice Pop Sports Drinks, Electrolyte Enhanced to Replenish Fluids,",
+      "url": "https://www.amazon.com/dp/B0DQ6TC4SP?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-16T05:44:19.713Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81El5CdQsdL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0cb76l2zj-coleman-pro-heavy-duty-9qt-ultra-light-premium-hard-cooler-l",
+      "asin": "B0CB76L2ZJ",
+      "title": "Coleman Pro Heavy-Duty 9qt Ultra-Light Premium Hard Cooler Lunchbox, Extra-Thick Insulation Keeps Ice for Days",
+      "url": "https://www.amazon.com/dp/B0CB76L2ZJ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-16T05:40:21.409Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41L9std0fYL._AC_SL1200_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0f7rbx5vc-aesthifae-red-light-therapy-for-face-red-light-therapy-mask-",
       "asin": "B0F7RBX5VC",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-15T00:20:26.412Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71acuoYPE3L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0flfr47wc-miracle-gro-6-x-4-x-6-outdoor-mini-walk-in-greenhouse-plant-",
-      "asin": "B0FLFR47WC",
-      "title": "Miracle-GRO 6' x 4' x 6' Outdoor Mini Walk-in Greenhouse Plant Tent, All-Season Small Walk-in Plant Growth Accelerator w",
-      "url": "https://www.amazon.com/dp/B0FLFR47WC?th=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Garden & Outdoor",
-      "ts": "2026-06-15T00:18:31.268Z",
-      "type": "deal",
-      "imageUrl": null,
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0h25t275q-womens-pajamas-shorts-set-satin-pj-set-women-s-pajama-shorts",
-      "asin": "B0H25T275Q",
-      "title": "Womens Pajamas Shorts Set Satin Pj Set Women's Pajama Shorts Pjs for Print Black XL at Amazon Women’s Clothing store",
-      "url": "https://www.amazon.com/dp/B0H25T275Q?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-15T00:12:26.840Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81EME8LbcBL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
