@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-16T09:30:01.993Z",
+  "generatedAt": "2026-06-16T09:40:01.418Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0ccz1l489-bose-quietcomfort-ultra-bluetooth-headphones-wireless-headph",
+      "asin": "B0CCZ1L489",
+      "title": "Bose QuietComfort Ultra Bluetooth Headphones, Wireless Headphones with Spatial Audio, Over Ear Noise Cancelling with Mic",
+      "url": "https://www.amazon.com/dp/B0CCZ1L489?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-06-16T09:38:23.718Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51ZR4lyxBHL._AC_SL1123_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b001cd9rrg-bic-xtra-strong-mechanical-pencils-with-erasers-thick-point-",
       "asin": "B001CD9RRG",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-15T03:28:25.572Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71pDzr0uX-L._SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0gjfglbkd-monster-jam-ride-on-toy-12v-atv-for-kids-battery-powered-ele",
-      "asin": "B0GJFGLBKD",
-      "title": "Monster Jam - Ride On Toy, 12V ATV for Kids, Battery Powered Electric Vehicle with Fun Design for Boys and Girls Imagina",
-      "url": "https://www.amazon.com/dp/B0GJFGLBKD/ref=cm_sw_r_as_gl_apa_gl_i_NYM83BQP66WJ7B5Q4JMK?linkCode=ml1&tag=noya0b-20&linkId=8d0619ebed4ab8cc54a0c82d7462c8d8",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-15T03:19:20.872Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71qz+p3GXhL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
