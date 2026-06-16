@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-06-16T08:40:01.765Z",
+  "generatedAt": "2026-06-16T08:50:01.521Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0gchbr2rh-save-10-when-you-buy-40-of-select-toys",
+      "asin": "B0GCHBR2RH",
+      "title": "Save $10 when you buy $40 of select toys",
+      "url": "https://www.amazon.com/dp/B0GCHBR2RH?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-16T08:48:22.179Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Iw7Nxub6L._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b09qh39p4c-arctic-air-portable-fan-pocket-chill-handheld-mini-fan-recha",
+      "asin": "B09QH39P4C",
+      "title": "Arctic Air Portable Fan, Pocket Chill Handheld Mini Fan, Rechargeable Personal Air Cooler with Hydro-Chill Technology, 3",
+      "url": "https://www.amazon.com/dp/B09QH39P4C/ref=cm_sw_r_as_gl_apa_gl_i_dl_472E3JDTM9V8YHT6KS48?linkCode=ml1&tag=noya0b-20&linkId=636f50143364c1c308509c3539e16b85",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-16T08:44:21.302Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71AKMvTQ5mL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b00hfqq0vu-waterpik-aquarius-water-flosser-for-teeth-cleaning-gums-brac",
+      "asin": "B00HFQQ0VU",
+      "title": "Waterpik Aquarius Water Flosser For Teeth Cleaning, Gums, Braces, Dental Care, Electric Power With 10 Settings, 7 Tips F",
+      "url": "https://www.amazon.com/dp/B00HFQQ0VU?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-16T08:42:21.793Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/714Q49TDXlL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0010o094w-bic-cristal-xtra-smooth-ballpoint-pen-medium-point-1-0mm-blu",
       "asin": "B0010O094W",
@@ -1875,20 +1917,6 @@
       "ts": "2026-06-16T00:54:29.849Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/817NENdS-LL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b09qh39p4c-arctic-air-portable-fan-pocket-chill-handheld-mini-fan-recha",
-      "asin": "B09QH39P4C",
-      "title": "Arctic Air Portable Fan, Pocket Chill Handheld Mini Fan, Rechargeable Personal Air Cooler with Hydro-Chill Technology, 3",
-      "url": "https://www.amazon.com/dp/B09QH39P4C?social_share=cm_sw_r_apan_dp_ss_E8GAKBFP7DKHFTVFC5EX&rsd=fbSuLnbY16kjbDCqHlfqW2HNms4fYrz%2ByoDmrVbA3ITlEr0sg9jh5dGOxEk7ZGIRT8BKLVd2NlXmFyk2f9uBWu48Dy1S9WyvZfi6j0eTxXO6aQcMDfLnzg%3D%3D&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQHrO1DKf3rdqOnLoy6B5oM9AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMInyXsbzqmSADfDYXAgEQgDvGzVJ%2BaIJWSZNJYDuWepy%2BuY6yGpyGWzy6mg284E0ywcV3YT%2FflNw1tgWvYMTmOXtbalLHzoTybpwRdg%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=d4906659194071dd7bb730e45b304a15&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-16T00:52:28.686Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71AKMvTQ5mL.jpg",
       "expiresAt": null,
       "promoCode": null
     },
@@ -6723,20 +6751,6 @@
       "promoCode": null
     },
     {
-      "slug": "b0gchbr2rh-skip-hop-2-in-1-baby-activity-center-with-20-developmental-a",
-      "asin": "B0GCHBR2RH",
-      "title": "Skip Hop 2-in-1 Baby Activity Center with 20+ Developmental Activities Light-up Musical Piano for Tummy Time Play 4 Clip",
-      "url": "https://www.amazon.com/dp/B0GCHBR2RH/ref=cm_sw_r_as_gl_apa_gl_i_Z6AW257HYSBF0A0ZZQ8R?linkCode=ml1&tag=noya0b-20&linkId=db4ff69e62d38c996a1eae19a9046b2c",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-15T04:28:21.248Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61Iw7Nxub6L._SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
       "slug": "b0dt7gzjnc-harry-s-men-s-body-wash-wildlands-3-pack-18-fl-oz-shower-gel",
       "asin": "B0DT7GZJNC",
       "title": "Harry's Men's Body Wash - Wildlands - (3 Pack) 18 fl oz - Shower Gel for Men - No Parabens, Sulfates, or Dyes : Beauty &",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-15T02:48:33.537Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/811GCsrXRzL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0dhlwbc6j-cellucor-creatine-powder-blue-raspberry-flavor-increases-str",
-      "asin": "B0DHLWBC6J",
-      "title": "Cellucor Creatine Powder, Blue Raspberry Flavor - Increases Strength, Lean Muscle Mass & Endurance, Micronized Creatine ",
-      "url": "https://www.amazon.com/dp/B0DHLWBC6J?ie=UTF8&ascsubtag=b5827eee686311f1b031a2aba26d0fbb0INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=4ac86de1c8ee4a8a532e81728df8a421&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-15T02:42:31.243Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/812mEbqLwrL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
