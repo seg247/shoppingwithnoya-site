@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-16T08:00:01.629Z",
+  "generatedAt": "2026-06-16T08:10:01.178Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0byb5kjfl-thermoflask-slim-can-cooler-2-in-1-insulated-can-cooler-cup-",
+      "asin": "B0BYB5KJFL",
+      "title": "ThermoFlask Slim Can Cooler - 2-in-1 Insulated Can Cooler Cup - Durable Stainless Steel Cooler with Non-Slip Base - Dish",
+      "url": "https://www.amazon.com/dp/B0BYB5KJFL/ref=cm_sw_r_as_gl_apa_gl_i_dl_RREM4HJTRX2RZAXVM23F?linkCode=ml1&tag=noya0b-20&linkId=877c926c02d128bcfada265abc3d4e47",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-16T08:06:20.821Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61IgVU047NL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0dn39w4zb-monopoly-app-banking-board-game-app-enabled-game-links-to-sm",
+      "asin": "B0DN39W4ZB",
+      "title": "Monopoly App Banking Board Game | App-Enabled Game | Links to Smart Devices | Ages 8+ | 2 to 6 Players | 45 Mins. | Fami",
+      "url": "https://www.amazon.com/dp/B0DN39W4ZB/ref=cm_sw_r_as_gl_apa_gl_i_dl_VYZS799K13NBM88RARB7?linkCode=ml1&tag=noya0b-20&linkId=2eacee528f3cc0b034b850ef178ded21",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Gaming",
+      "ts": "2026-06-16T08:02:23.081Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81DZ4SeVzSL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0dk7zmbb4-transformers-age-of-the-primes-wreck-n-doom-collection-2-pac",
       "asin": "B0DK7ZMBB4",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-15T01:48:29.273Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51JiaBNPY1L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0cmx8lm9y-findcozy-bible-cover-for-women-durable-carrying-book-case-ch",
-      "asin": "B0CMX8LM9Y",
-      "title": "FINDCOZY Bible Cover for Women, Durable Carrying Book Case Church Bag for Biblical Accessories with Handle and Zippered ",
-      "url": "https://www.amazon.com/dp/B0CMX8LM9Y?th=1&linkCode=sl2&tag=noya0b-20&linkId=0810effadbfe678f156e84687e55ecdf&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-15T01:46:30.040Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81EbD5-ZUhL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0bql1lg78-how-cute-is-this-ride-along-scooter",
-      "asin": "B0BQL1LG78",
-      "title": "How CUTE is this ride along scooter?",
-      "url": "https://www.amazon.com/dp/B0BQL1LG78?th=1&linkCode=sl2&tag=noya0b-20&linkId=fae77903b5efd905af91809e9d3bc9f9&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Sports & Fitness",
-      "ts": "2026-06-15T01:44:35.544Z",
-      "type": "deal",
-      "imageUrl": null,
       "expiresAt": null,
       "promoCode": null
     }
