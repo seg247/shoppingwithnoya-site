@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-16T05:00:01.575Z",
+  "generatedAt": "2026-06-16T05:10:01.611Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fnmbrj54-wyze-battery-video-doorbell-wireless-camera-1536x1536-hd-wit",
+      "asin": "B0FNMBRJ54",
+      "title": "Wyze Battery Video Doorbell Wireless Camera, 1536x1536 HD+ with Color Night Vision, 2-Way Audio, 1:1 Head-to-Toe View, P",
+      "url": "https://www.amazon.com/dp/B0FNMBRJ54?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-16T05:00:25.465Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71kxWFeEmIL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0dpl136v6-wyze-duo-cam-pan-indoor-outdoor-ip65-2k-360-pan-tilt-smart-h",
       "asin": "B0DPL136V6",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-15T00:08:30.215Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/614xx4drWUL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0ff9q82gt-ukemen-cast-iron-mortar-and-pestle-set-3-piece-small-garlic-",
-      "asin": "B0FF9Q82GT",
-      "title": "UKEMEN Cast Iron Mortar and Pestle Set, 3-Piece Small Garlic Grater Plate with Brush and Scoop, Heavy Duty Muddler and B",
-      "url": "https://www.amazon.com/3-Piece-Small-Muddler-Grinder-Guacamole/dp/B0FF9Q82GT?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=0a21dacbe8f7e343f8143aa7cd857370&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-15T00:06:29.258Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71GQ4C2ThAL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
