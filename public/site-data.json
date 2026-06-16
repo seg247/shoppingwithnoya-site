@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-16T09:40:01.418Z",
+  "generatedAt": "2026-06-16T09:50:01.673Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b07l1phsy9-differin-acne-treatment-gel-30-day-supply-retinoid-treatment",
+      "asin": "B07L1PHSY9",
+      "title": "Differin Acne Treatment Gel, 30 Day Supply, Retinoid Treatment for Face with 0.1% Adapalene, Gentle Skin Care for Acne P",
+      "url": "https://www.amazon.com/dp/B07L1PHSY9/ref=cm_sw_r_as_gl_api_gl_i_NNTH801X7RZSG7H2DST7?linkCode=ml1&tag=noya0b-20&linkId=d27c089e54a757c14c7392ec42776eb9",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-06-16T09:46:23.155Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Rncot-U9L._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b01acpw2qc-covergirl-olay-simply-ageless-3-in-1-liquid-foundation-matte",
+      "asin": "B01ACPW2QC",
+      "title": "COVERGIRL & Olay Simply Ageless 3-in-1 Liquid Foundation, Matte Finish, Hyaluronic & Vitamin C Formula, 220 Creamy Natur",
+      "url": "https://www.amazon.com/dp/B01ACPW2QC/ref=cm_sw_r_as_gl_api_gl_i_237D39D0HFG0PES9FV7E?linkCode=ml1&tag=noya0b-20&linkId=fa4f24c488b616322abeb2db0f5cb756",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-06-16T09:42:20.615Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71tu-o-RbeL._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0ccz1l489-bose-quietcomfort-ultra-bluetooth-headphones-wireless-headph",
       "asin": "B0CCZ1L489",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-15T03:40:25.488Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/91Rp7vtz3rL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b000nbvu0k-cuisinart-classic-entertaining-collection-12-inch-5-quart-st",
-      "asin": "B000NBVU0K",
-      "title": "Cuisinart Classic Entertaining Collection 12-Inch, 5-Quart Stainless Rectangular Buffet Server, 7BSRT-31: Cookware: Home",
-      "url": "https://www.amazon.com/dp/B000NBVU0K/ref=cm_sw_r_as_gl_apa_gl_i_X6066DVVXCKEH3NQ13NP?linkCode=ml1&tag=noya0b-20&linkId=fda86002087aaea9c5cee8bd04737678",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-15T03:32:25.157Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/41ImVcbFUFL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0014d2a64-sure-deodorant-invisible-solid-unscented-2-6-oz",
-      "asin": "B0014D2A64",
-      "title": "Sure Deodorant Invisible Solid, Unscented - 2.6 oz",
-      "url": "https://www.amazon.com/dp/B0014D2A64/ref=cm_sw_r_as_gl_apa_gl_i_G0JKYD74DZ6ENC0JRE7B?linkCode=ml1&tag=noya0b-20&linkId=af2f35573cebd12d1b22927655578244",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-06-15T03:28:25.572Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71pDzr0uX-L._SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
