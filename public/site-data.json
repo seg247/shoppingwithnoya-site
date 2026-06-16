@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-06-16T16:00:01.499Z",
+  "generatedAt": "2026-06-16T16:10:01.371Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0cnkx74cs-sun-bum-hair-care-travel-essentials-kit-revitalize-your-hair",
+      "asin": "B0CNKX74CS",
+      "title": "Sun Bum Hair Care Travel Essentials Kit - Revitalize Your Hair With Revitalizing Shampoo, Conditioner, and 3-in-1 Leave ",
+      "url": "https://www.amazon.com/dp/B0CNKX74CS?linkCode=sl2&tag=noya0b-20&linkId=a4ef6636e3864216fb17cf811efe858d&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-06-16T16:08:23.075Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71ol6tvaYjL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b019xipez0-american-crew-shampoo-conditioner-body-wash-for-men-3-in-1-t",
+      "asin": "B019XIPEZ0",
+      "title": "American Crew Shampoo, Conditioner & Body Wash for Men, 3-in-1, Tea Tree Scent, 15.2 Fl Oz",
+      "url": "https://www.amazon.com/Shampoo-Conditioner-American-Perfect-Fathers/dp/B019XIPEZ0?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=d19d69d7e42e46a4d6275a916f2e5b10&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-16T16:02:21.466Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71sl7eQWyuL._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0fsgkxl5c-goldfish-disney-pixar-toy-story-cheddar-cheese-crackers-6-6-",
+      "asin": "B0FSGKXL5C",
+      "title": "Goldfish Disney Pixar Toy Story Cheddar Cheese Crackers, 6.6 Oz Bag",
+      "url": "https://www.amazon.com/dp/B0FSGKXL5C?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-16T16:00:22.503Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71uxoo+Lw5L._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0fbzj2zpg-sweet-savings-1-xx-for-two-bags-of-laffy-taffy-banana",
       "asin": "B0FBZJ2ZPG",
@@ -3083,20 +3125,6 @@
       "promoCode": null
     },
     {
-      "slug": "b0cnkx74cs-sun-bum-hair-care-travel-essentials-kit-revitalize-your-hair",
-      "asin": "B0CNKX74CS",
-      "title": "Sun Bum Hair Care Travel Essentials Kit - Revitalize Your Hair With Revitalizing Shampoo, Conditioner, and 3-in-1 Leave ",
-      "url": "https://www.amazon.com/dp/B0CNKX74CS?linkCode=sl2&tag=noya0b-20&linkId=a4ef6636e3864216fb17cf811efe858d&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-06-16T01:38:30.111Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71ol6tvaYjL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
       "slug": "b0d9gv2hr2-maree-collagen-acne-clearing-polishes-toner-pads-with-retino",
       "asin": "B0D9GV2HR2",
       "title": "MAREE Collagen Acne Clearing Polishes - Toner Pads with Retinol - Minimizing Wrinkle Zero Pore Pads - Hydrating Toning C",
@@ -6051,20 +6079,6 @@
       "promoCode": null
     },
     {
-      "slug": "b019xipez0-american-crew-shampoo-conditioner-body-wash-for-men-3-in-1-t",
-      "asin": "B019XIPEZ0",
-      "title": "American Crew Shampoo, Conditioner & Body Wash for Men, 3-in-1, Tea Tree Scent, 15.2 Fl Oz",
-      "url": "https://www.amazon.com/Shampoo-Conditioner-American-Perfect-Fathers/dp/B019XIPEZ0?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=d19d69d7e42e46a4d6275a916f2e5b10&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-15T15:02:25.836Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71sl7eQWyuL._SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
       "slug": "b0gfs6qz4r-wiepux-women-high-cut-bikini-sets-string-crochet-swimsuit-se",
       "asin": "B0GFS6QZ4R",
       "title": "Wiepux Women High Cut Bikini Sets String Crochet Swimsuit Sexy Cheeky Side Tie Two Piece Bathing Suit(Pink White, M) : C",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-15T11:04:19.872Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71MgE0y13QL._SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0gd2s1wrq-anime-black-cat-gaming-mouse-pad-blue-pink-dreamy-desk-mat-w",
-      "asin": "B0GD2S1WRQ",
-      "title": "Anime Black Cat Gaming Mouse Pad, Blue Pink Dreamy Desk Mat with Anti-Slip Base & Stitched Edges,35.4\" x 15.7\" in Table ",
-      "url": "https://www.amazon.com/dp/B0GD2S1WRQ/ref=cm_sw_r_as_gl_api_gl_i_dl_NGRWVG2MK79P34TZQRBR?linkCode=ml1&tag=noya0b-20&linkId=9705908f83dddf407520e639ea2f1cb3",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-06-15T11:00:24.232Z",
-      "type": "deal",
-      "imageUrl": null,
       "expiresAt": null,
       "promoCode": null
     }
