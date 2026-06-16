@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-16T13:20:01.955Z",
+  "generatedAt": "2026-06-16T13:30:01.615Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b09541p9wh-amazon-basics-double-tipped-cotton-swabs-for-personal-hygien",
+      "asin": "B09541P9WH",
+      "title": "Amazon Basics Double-Tipped Cotton Swabs for Personal Hygiene and Baby Care, Cotton, Versatile, Baby Safe, 500 Count",
+      "url": "https://www.amazon.com/dp/B09541P9WH/ref=cm_sw_r_as_gl_api_gl_i_dl_J6J6381PWXSDNF6ZENB0?linkCode=ml1&tag=noya0b-20&linkId=e9d8437735324c2c05869a4a93ecaac8",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-16T13:28:20.968Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/612HeyYXOnL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b07v1c8v3p-madison-park-signature-ansen-ceramic-handmade-vase-set-home-",
+      "asin": "B07V1C8V3P",
+      "title": "Madison Park Signature Ansen Ceramic Handmade Vase Set Home Décor - Metallic Accent Living Room Decoration Ideal for She",
+      "url": "https://www.amazon.com/dp/B07V1C8V3P/ref=cm_sw_r_as_gl_api_gl_i_dl_QA41KBJ9DRKFE33GQFKQ?linkCode=ml1&tag=noya0b-20&linkId=e7f719fcdcdf1895bb4dceb5dc0bdc89",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-16T13:20:20.190Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/713k5ay6sdL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b09pzjsr2k-dearfoams-mens-matching-family-holiday-papa-bear-sherpa-line",
       "asin": "B09PZJSR2K",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-15T07:16:17.359Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71mPvINiSKL._SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0cn8wbxy2-tp-link-deco-7-pro-be63-tri-band-wifi-7-be10000-whole-home-m",
-      "asin": "B0CN8WBXY2",
-      "title": "TP-Link Deco 7 Pro BE63 Tri-Band WiFi 7 BE10000 Whole Home Mesh System- 6-Stream 10 Gbps, 4x2.5G Ports Wired Backhaul, 4",
-      "url": "https://www.amazon.com/dp/B0CN8WBXY2?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-06-15T07:10:20.289Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/616e4K1pOnL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0f9xzd976-nothing-phone-3-cell-phone-5g-unlocked-phones-256gb-android-",
-      "asin": "B0F9XZD976",
-      "title": "Nothing Phone (3) Cell Phone, 5G Unlocked Phones 256GB, Android 15, Snapdragon 8s Gen4, AI Mobile Phones with Four 50MP ",
-      "url": "https://www.amazon.com/dp/B0F9XZD976?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-15T07:08:20.856Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51xHUFqPx9L.jpg",
       "expiresAt": null,
       "promoCode": null
     }
