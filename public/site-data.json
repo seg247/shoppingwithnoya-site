@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-16T13:10:02.049Z",
+  "generatedAt": "2026-06-16T13:20:01.955Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b09pzjsr2k-dearfoams-mens-matching-family-holiday-papa-bear-sherpa-line",
+      "asin": "B09PZJSR2K",
+      "title": "Dearfoams mens Matching Family Holiday Papa Bear Sherpa Lined Moc Toe With Embroidery Slipper",
+      "url": "https://www.amazon.com/dp/B09PZJSR2K/ref=cm_sw_r_as_gl_api_gl_i_dl_3T98W786Y890HPBXTV5Q?linkCode=ml1&tag=noya0b-20&linkId=2ae12cbb81b80931d5f9127eaaa1b104",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Fashion",
+      "ts": "2026-06-16T13:12:22.136Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81ALOsPLrtL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0dtb3p91j-star-wars-non-electronic-lightsabers-multipack-darth-vader-l",
       "asin": "B0DTB3P91J",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-15T07:08:20.856Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51xHUFqPx9L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0d836988s-cmf-buds-pro-2-wireless-earbuds-with-smart-dial-50db-hybrid-",
-      "asin": "B0D836988S",
-      "title": "CMF Buds Pro 2 Wireless Earbuds with Smart Dial, 50dB Hybrid Noise Cancelling Earbuds Wireless Bluetooth 5.3, 11mm Bass ",
-      "url": "https://www.amazon.com/dp/B0D836988S?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-06-15T07:04:25.098Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61YeKJu7oML._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
