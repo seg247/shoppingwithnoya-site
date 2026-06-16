@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-16T15:50:01.221Z",
+  "generatedAt": "2026-06-16T16:00:01.499Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fbzj2zpg-sweet-savings-1-xx-for-two-bags-of-laffy-taffy-banana",
+      "asin": "B0FBZJ2ZPG",
+      "title": "Sweet savings! $1.xx for TWO Bags of Laffy Taffy Banana",
+      "url": "https://www.amazon.com/dp/B0FBZJ2ZPG?th=1&linkCode=sl2&tag=noya0b-20&linkId=dee7084367f6dfb545c186d99632776c&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-16T15:50:24.759Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61URySIw+pL._SL1314_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0fc8ngyv7-secret-fresh-antiperspirant-deodorant-for-women-72hr-breatha",
       "asin": "B0FC8NGYV7",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-15T11:00:24.232Z",
       "type": "deal",
       "imageUrl": null,
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fms68r65-lego-technic-john-deere-1470h-wheeled-harvester-building-toy",
-      "asin": "B0FMS68R65",
-      "title": "LEGO Technic John Deere 1470H Wheeled Harvester Building Toy for Kids - Heavy Vehicle Playset W/Realistic Suspension & S",
-      "url": "https://www.amazon.com/dp/B0FMS68R65/ref=cm_sw_r_as_gl_api_gl_i_MHWM1AEZ6DNPJSAX27RR?linkCode=ml1&tag=noya0b-20&linkId=7971b6289744d89e34ca201c5ddbf872",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Toys & Kids",
-      "ts": "2026-06-15T10:58:23.113Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81jCx7GEbnL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
