@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-16T12:30:01.560Z",
+  "generatedAt": "2026-06-16T12:40:01.937Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0f2b4hf5s-sally-hansen-miracle-gel-nail-polish-special-effect-top-coat",
+      "asin": "B0F2B4HF5S",
+      "title": "\udecd️Sally Hansen Miracle Gel Nail Polish Special Effect Top Coat | Salon Quality, Gel-Like Formula, Two-Step System, No UV",
+      "url": "https://www.amazon.com/dp/B0F2B4HF5S?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-06-16T12:30:21.097Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71nEfaytxfL._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0clhhhmrg-sally-hansen-color-therapy-nail-polish-biotin-argan-oil-long",
       "asin": "B0CLHHHMRG",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-15T07:00:21.559Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/714hINuPoBL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fc29phn9-bedsure-green-duvet-cover-king-size-with-bowknot-jacquard-de",
-      "asin": "B0FC29PHN9",
-      "title": "Bedsure Green Duvet Cover King Size with Bowknot Jacquard Design, Soft and Elegant Boho Bedding Set, Luxurious Craftsman",
-      "url": "https://www.amazon.com/dp/B0FC29PHN9/ref=cm_sw_r_as_gl_apa_gl_i_NZ4DHYGD4M9S9GTQWMYV?linkCode=ml1&tag=noya0b-20&linkId=322bc1d2b358d72846d6e77185d410d5",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Tools & Hardware",
-      "ts": "2026-06-15T06:58:21.565Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81BnX1a1iGL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
