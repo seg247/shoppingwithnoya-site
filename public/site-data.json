@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-16T06:10:01.450Z",
+  "generatedAt": "2026-06-16T06:20:01.881Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fqj1n1dg-black-bread-box-for-kitchen-countertop-large-capacity-kitche",
+      "asin": "B0FQJ1N1DG",
+      "title": "Black Bread Box for Kitchen Countertop,Large Capacity Kitchen Countertop Organizer,Bread Storage with Acrylic Window for",
+      "url": "https://www.amazon.com/dp/B0FQJ1N1DG/ref=cm_sw_r_as_gl_apa_gl_i_4WMXQERFCMWCWFAHF53B?linkCode=ml1&tag=noya0b-20&linkId=1a9ced5e70a4fd93339219f055038f5a",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-16T06:14:20.287Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71FeQgL3IoL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0dksc659z-etmi-bamboo-bread-box-for-kitchen-countertop-pastry-display-",
+      "asin": "B0DKSC659Z",
+      "title": "ETMI Bamboo Bread Box for Kitchen Countertop Pastry Display case kitchen Storage (bamboo clear): Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B0DKSC659Z/ref=cm_sw_r_as_gl_apa_gl_i_TFN8W2B4QPRJ8XK40ZMJ?linkCode=ml1&tag=noya0b-20&linkId=dd8480f3d9dd3f11b848d0b59554a1b5",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-16T06:10:22.210Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71ZTo9UcmoL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b000mdhh06-breville-juice-fountain-compact-centrifugal-machine",
       "asin": "B000MDHH06",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-15T00:32:28.526Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/91lwb10JaAL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0d5kvcj8c-hisense-32-inch-class-a4-series-hd-720p-smart-roku-tv-with-a",
-      "asin": "B0D5KVCJ8C",
-      "title": "Hisense 32-Inch Class A4 Series HD 720p Smart Roku TV with Alexa Compatibility (32A4HNR) - Dolby Audio, Slim Bezel Desig",
-      "url": "https://www.amazon.com/dp/B0D5KVCJ8C?th=1&tag=noya0b-20",
-      "discount": 28,
-      "rating": "WARM",
-      "category": "Other",
-      "ts": "2026-06-15T00:30:28.802Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81+We92iJxL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0cpxdhhvr-laszola-8-tiered-folding-tall-plant-stand-indoor-for-multipl",
-      "asin": "B0CPXDHHVR",
-      "title": "LASZOLA 8 Tiered Folding Tall Plant Stand Indoor for Multiple Large Planter, Heavy Duty Metal Adjustable Flower Rack for",
-      "url": "https://www.amazon.com/dp/B0CPXDHHVR?th=1&tag=noya0b-20",
-      "discount": 50,
-      "rating": "FIRE",
-      "category": "Garden & Outdoor",
-      "ts": "2026-06-15T00:26:26.173Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71jsPXQuaTL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
