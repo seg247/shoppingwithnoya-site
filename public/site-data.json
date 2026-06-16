@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-16T05:50:01.329Z",
+  "generatedAt": "2026-06-16T06:00:01.798Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b07jhqgcz8-purina-fancy-feast-chicken-and-beef-classic-pate-collection-",
+      "asin": "B07JHQGCZ8",
+      "title": "Purina Fancy Feast Chicken and Beef Classic Pate Collection Grain Free Wet Cat Food Variety Pack - (Pack of 24) 3 Oz. Pu",
+      "url": "https://www.amazon.com/dp/B07JHQGCZ8/ref=cm_sw_r_as_gl_apa_gl_i_0Y2B6N0QHNFPQ26MMV26?linkCode=ml1&tag=noya0b-20&linkId=894051b6d73b77a74c19e8158b1568ae",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-16T05:54:23.403Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81LRuTvY1bL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b09mq416cr-wolf-essentials-adult-cozy-soft-microfiber-neck-pillow-for-t",
+      "asin": "B09MQ416CR",
+      "title": "Wolf Essentials Adult Cozy Soft Microfiber Neck Pillow for Travel – Compact, Machine Washable - Perfect for Airplane, Ca",
+      "url": "https://www.amazon.com/dp/B09MQ416CR/ref=cm_sw_r_as_gl_apa_gl_i_dl_TJJYSMTPVM2KXMP6QB90?linkCode=ml1&tag=noya0b-20&linkId=9410a86546f8df29560917192a8cb6b0",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-16T05:52:19.923Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61i-aWzJq0L._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0dq6tc4sp-prime-hydration-variety-berry-freeze-cherry-freeze-ice-pop-s",
       "asin": "B0DQ6TC4SP",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-15T00:26:26.173Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71jsPXQuaTL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fp31yq47-laura-geller-new-york-laura-s-essentials-eclectic-elegant-ey",
-      "asin": "B0FP31YQ47",
-      "title": "LAURA GELLER NEW YORK Laura's Essentials Eclectic & Elegant Eyeshadow and Face Palette - Includes Eyeshadows, Blush, and",
-      "url": "https://www.amazon.com/dp/B0FP31YQ47?tag=noya0b-20",
-      "discount": 49,
-      "rating": "HOT",
-      "category": "Beauty",
-      "ts": "2026-06-15T00:24:27.163Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81n6a1tu0TL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fp98mw6g-lisen-airplane-travel-essentials-led-phone-stand-holder-for-",
-      "asin": "B0FP98MW6G",
-      "title": "LISEN Airplane Travel Essentials (LED) Phone Stand Holder for Desk Cruise Ship Essentials 2026 Mount Airplane Gadgets Wo",
-      "url": "https://www.amazon.com/dp/B0FP98MW6G?th=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-15T00:20:26.412Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71acuoYPE3L.jpg",
       "expiresAt": null,
       "promoCode": null
     }
