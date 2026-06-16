@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-16T05:20:01.731Z",
+  "generatedAt": "2026-06-16T05:30:02.054Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fgjg3pkm-zojirushi-sm-vh60-hmgocafe-insulated-stainless-steel-mug-20-",
+      "asin": "B0FGJG3PKM",
+      "title": "Zojirushi SM-VH60-HMGoCafe Insulated Stainless Steel Mug, 20-Ounce (.60 liter), PFAS-free & BPA-free",
+      "url": "https://www.amazon.com/dp/B0FGJG3PKM?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-16T05:24:23.750Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51wRUc0svpL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0fnmbrj54-wyze-battery-video-doorbell-wireless-camera-1536x1536-hd-wit",
       "asin": "B0FNMBRJ54",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-15T00:10:27.682Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71MTOyhiJ5L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0gf2jg2cg-balanoon-men-s-hiking-cargo-shorts-9-lightweight-elastic-wai",
-      "asin": "B0GF2JG2CG",
-      "title": "Balanoon Men's Hiking Cargo Shorts 9\" Lightweight Elastic Waist Work Casual Short with 6 Zipper Pockets for Golf Camping",
-      "url": "https://www.amazon.com/dp/B0GF2JG2CG?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Garden & Outdoor",
-      "ts": "2026-06-15T00:08:30.215Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/614xx4drWUL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
