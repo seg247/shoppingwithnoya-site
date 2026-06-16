@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-16T13:40:01.516Z",
+  "generatedAt": "2026-06-16T13:50:01.427Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fmxx23zm-cute-4-xx-lace-ruffles-ankle-floral-socks",
+      "asin": "B0FMXX23ZM",
+      "title": "CUTE! $4.xx Lace Ruffles Ankle Floral Socks!",
+      "url": "https://www.amazon.com/dp/B0FMXX23ZM?th=1&linkCode=sl2&tag=noya0b-20&linkId=e9566483885484f11361854b4138fbbf&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-16T13:46:26.088Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81ayIKjLUZL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0bcpc68j6-powrui-multi-plug-6-outlet-surge-protector-extender-with-3-u",
+      "asin": "B0BCPC68J6",
+      "title": "POWRUI Multi Plug 6 Outlet Surge Protector Extender with 3 USB Ports (1 USB C) and Night Light, 3-Sided Power Strip with",
+      "url": "https://www.amazon.com/dp/B0BCPC68J6/ref=cm_sw_r_as_gl_api_gl_i_dl_CFZB3N5JZGHTTXQ3FTR1?linkCode=ml1&tag=noya0b-20&linkId=b41ff56f7b6ce8506b6019f469274a3b",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-06-16T13:40:21.289Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61KkTo7bK4L._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b09541p9wh-amazon-basics-double-tipped-cotton-swabs-for-personal-hygien",
       "asin": "B09541P9WH",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-15T07:24:19.206Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71-uLYnB-nL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0863kjn3l-amazon-essentials-disney-marvel-star-wars-babies-toddlers-an",
-      "asin": "B0863KJN3L",
-      "title": "Amazon Essentials Disney | Marvel | Star Wars Babies, Toddlers and Girls' Pajama Set",
-      "url": "https://www.amazon.com/dp/B0863KJN3L/ref=cm_sw_r_as_gl_apa_gl_i_dl_SWBXSQJ4CG5H5G562RVV?linkCode=ml1&tag=noya0b-20&linkId=44dfb1fefea859b97c83b8fd478e7523",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-15T07:18:17.550Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81ZhQ2a2J-L._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b00u0p0ghm-dewalt-mechanics-tools-kit-and-socket-set-1-4-34-3-8-34-driv",
-      "asin": "B00U0P0GHM",
-      "title": "DEWALT Mechanics Tools Kit and Socket Set, 1/4&#34; & 3/8&#34; Drive, SAE, 108-Piece (DWMT73801)",
-      "url": "https://www.amazon.com/dp/B00U0P0GHM/ref=cm_sw_r_as_gl_apa_gl_i_dl_1QEQB1C9AHZ4GS1BJYGJ?linkCode=ml1&tag=noya0b-20&linkId=2f77ad0def2d8e3797ac3e821c271d54",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Tools & Hardware",
-      "ts": "2026-06-15T07:16:17.359Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71mPvINiSKL._SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
