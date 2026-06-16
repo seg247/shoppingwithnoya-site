@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-16T07:00:01.693Z",
+  "generatedAt": "2026-06-16T07:10:01.667Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0d2lw9m4p-chamberlain-myq-smart-indoor-security-camera-1080p-hd-video-",
+      "asin": "B0D2LW9M4P",
+      "title": "Chamberlain myQ Smart Indoor Security Camera – 1080p HD Video, Night Vision, Motion Detection, Wi-Fi, Two-Way Audio, Sma",
+      "url": "https://www.amazon.com/dp/B0D2LW9M4P/ref=cm_sw_r_as_gl_apa_gl_i_dl_1N5YJQ9W2F5WGTAS6833?linkCode=ml1&tag=noya0b-20&linkId=de77703f52d9ef77529d245440c1a76b",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-06-16T07:02:20.518Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51UvU6Em+-L._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0fy7krw64-arizona-x-fallout-orange-green-tea-energy-drink-15-fl-oz-pac",
+      "asin": "B0FY7KRW64",
+      "title": "AriZona x Fallout Orange Green Tea Energy Drink, 15 fl oz (Pack of 12) - 190mg Caffeine per Can",
+      "url": "https://www.amazon.com/dp/B0FY7KRW64/ref=cm_sw_r_as_gl_apa_gl_i_dl_DGWTAG8A33DSZXFP0831?linkCode=ml1&tag=noya0b-20&linkId=f23f96a0d5fb7c9694dd9188edfa1232",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-16T07:00:20.513Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/91K5IS-KknL._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b004k3d0fk-it-s-a-10-miracle-leave-in-plus-keratin-4-oz",
       "asin": "B004K3D0FK",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-15T01:02:26.707Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/81Z9F4akcxL._SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0bl7cg49l-veise-rz07c-smart-locks-for-front-door-2-knob-handle-set-fin",
-      "asin": "B0BL7CG49L",
-      "title": "Veise RZ07C Smart Locks for Front Door, 2 Knob Handle Set, Fingerprint Keyless Entry, App Control Biometric Lock, Electr",
-      "url": "https://www.amazon.com/dp/B0BL7CG49L?th=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-15T01:00:29.693Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/817YxTczEoL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b09sw461nk-flyfreeu-flamingo-inflatable-pool-floats-with-lights-solar-f",
-      "asin": "B09SW461NK",
-      "title": "FlyfreeU Flamingo Inflatable Pool Floats with Lights, Solar Flamingo Pool Floats for Adults, 42 Inch Pool Float Lake Bea",
-      "url": "https://www.amazon.com/dp/B09SW461NK?th=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-15T00:58:26.385Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/717Vse-kLpL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
