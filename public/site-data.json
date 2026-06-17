@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-17T02:10:01.303Z",
+  "generatedAt": "2026-06-17T02:20:01.106Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b01bgq1hf8-orgain-organic-vegan-protein-powder-creamy-chocolate-fudge-2",
+      "asin": "B01BGQ1HF8",
+      "title": "Orgain Organic Vegan Protein Powder, Creamy Chocolate Fudge - 21g Plant Protein, 7g Prebiotic Fiber, Low Net Carb, No La",
+      "url": "https://www.amazon.com/dp/B01BGQ1HF8?ie=UTF8&ascsubtag=cda48a36680d11f193402a158784cb780INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=1dbfdbfc16a9f63a08d45eeb4e219234&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-17T02:16:31.615Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/710N6VWl+tL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0fprk8jv3-nostalgia-electric-ice-cream-maker-with-2-qt-double-insulate",
+      "asin": "B0FPRK8JV3",
+      "title": "Nostalgia Electric Ice Cream Maker with 2-Qt Double Insulated Gel Canister & Stainless Steel Base - Makes Sorbet, Soft S",
+      "url": "https://www.amazon.com/dp/B0FPRK8JV3?th=1&linkCode=sl2&tag=noya0b-20&linkId=87f0d45925acce83a7256d28e0c71058&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-17T02:10:34.482Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/710wieJ1HML.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b07fcqkz4f-spindrift-sparkling-water-4-flavor-variety-pack-made-with-re",
       "asin": "B07FCQKZ4F",
@@ -965,20 +993,6 @@
       "ts": "2026-06-16T21:46:31.272Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/913ZTCZy56L._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fprk8jv3-nostalgia-electric-ice-cream-maker-with-2-qt-double-insulate",
-      "asin": "B0FPRK8JV3",
-      "title": "Nostalgia Electric Ice Cream Maker with 2-Qt Double Insulated Gel Canister & Stainless Steel Base - Makes Sorbet, Soft S",
-      "url": "https://www.amazon.com/dp/B0FPRK8JV3?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=88ffe1d1756111cb6de0f649b4c4aaae&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-16T21:44:34.234Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/710wieJ1HML.jpg",
       "expiresAt": null,
       "promoCode": null
     },
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-15T20:52:32.733Z",
       "type": "deal",
       "imageUrl": null,
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0glfn3nl1-sheripet-dog-life-jacket-high-buoyancy-shark-dog-safety-vest",
-      "asin": "B0GLFN3NL1",
-      "title": "Sheripet Dog Life Jacket, High Buoyancy Shark Dog Safety Vest, Neoprene Pet Life Preserver with Good Visibility & Reflec",
-      "url": "https://www.amazon.com/dp/B0GLFN3NL1?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-15T20:50:31.564Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71Z10laF7KL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
