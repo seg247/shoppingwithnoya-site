@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-17T01:40:01.689Z",
+  "generatedAt": "2026-06-17T01:50:01.091Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b008d5jozg-go-score-blue-buffalo-dog-cat-food-for-an-extra-40-off-clip-",
+      "asin": "B008D5JOZG",
+      "title": "Go score blue buffalo dog & cat food for an extra 40% off clip q + sub and save up to 15% off + check for any extra coup",
+      "url": "https://www.amazon.com/dp/B008D5JOZG?tag=noya0b-20",
+      "discount": 40,
+      "rating": "HOT",
+      "category": "Pet Supplies",
+      "ts": "2026-06-17T01:40:30.878Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71hW75TJU2L._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b003567qoo-save-an-extra-40-off-gerber-baby-food-stack-this-with-up-to-",
       "asin": "B003567QOO",
@@ -5277,20 +5291,6 @@
       "ts": "2026-06-16T02:38:32.366Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61TU5v28u6L._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b008d5jozg-save-40-on-your-subscribe-save-subscription-promotion",
-      "asin": "B008D5JOZG",
-      "title": "Save 40% on your Subscribe & Save subscription promotion",
-      "url": "https://www.amazon.com/dp/B008D5JOZG?tag=noya0b-20",
-      "discount": 40,
-      "rating": "HOT",
-      "category": "Other",
-      "ts": "2026-06-16T02:36:27.111Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71hW75TJU2L._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     },
