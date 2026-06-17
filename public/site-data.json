@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-17T04:20:01.773Z",
+  "generatedAt": "2026-06-17T04:30:01.432Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fwrw8pby-3-for-as-low-as-20-xx",
+      "asin": "B0FWRW8PBY",
+      "title": "3 for as low as $20.xx",
+      "url": "https://www.amazon.com/dp/B0FWRW8PBY/ref=cm_sw_r_as_gl_apa_gl_i_JJJT6X5WDS0RA5FN38TC?linkCode=ml1&tag=noya0b-20&linkId=81d1e7a42f58d41ac92320db935cd519",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-17T04:28:28.864Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51uvlm74ZqL._SL1100_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b0dd2wkdjw-girls-denim-overalls-wide-leg-accordion-deep-heel-pockets-ca",
+      "asin": "B0DD2WKDJW",
+      "title": "Girls Denim Overalls,Wide Leg Accordion Deep Heel Pockets Cargo Jeans Dungarees",
+      "url": "https://www.amazon.com/dp/B0DD2WKDJW/ref=cm_sw_r_as_gl_apa_gl_i_dl_AA7JDP3VG6M5VRY4CTYF?linkCode=ml1&tag=noya0b-20&linkId=ebed3fd4e72081069fc1b63dda8027e7",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Fashion",
+      "ts": "2026-06-17T04:20:31.147Z",
+      "type": "deal",
+      "imageUrl": null,
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b08tq7tglw-star-wars-the-black-series-first-order-stormtrooper-premium-",
       "asin": "B08TQ7TGLW",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-15T22:02:40.566Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61clNLnjTWL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0g5q49k1w-hayelf-ergonomic-office-chair-high-back-mesh-computer-chair-",
-      "asin": "B0G5Q49K1W",
-      "title": "Hayelf Ergonomic Office Chair, High Back Mesh Computer Chair with Comfortable Adaptive Lumbar Support, Built-in Coat Han",
-      "url": "https://www.amazon.com/dp/B0G5Q49K1W?th=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-06-15T22:00:51.898Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71Ut1cBo09L.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0bdsp6wps-charmin-essentials-strong-toilet-paper-6-mega-rolls-429-shee",
-      "asin": "B0BDSP6WPS",
-      "title": "\udecd️Charmin Essentials Strong Toilet Paper 6 Mega Rolls, 429 sheets per roll",
-      "url": "https://www.amazon.com/dp/B0BDSP6WPS/ref=cm_sw_r_as_gl_api_gl_i_DDB4PDC6S3ANDP9FEBJ7?linkCode=ml1&tag=noya0b-20&linkId=d2fde2d04c90fa02f8a2bf6543046db7",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Cleaning Supplies",
-      "ts": "2026-06-15T21:58:37.892Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81G4fvJizwL._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
