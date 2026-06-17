@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-17T02:00:01.274Z",
+  "generatedAt": "2026-06-17T02:10:01.303Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b07fcqkz4f-spindrift-sparkling-water-4-flavor-variety-pack-made-with-re",
+      "asin": "B07FCQKZ4F",
+      "title": "Spindrift Sparkling Water, 4 Flavor Variety Pack, Made with Real Squeezed Fruit, 12 Fl Oz (Pack of 20)",
+      "url": "https://www.amazon.com/dp/B07FCQKZ4F?th=1&linkCode=sl2&tag=noya0b-20&linkId=353276013da0a08fa0dcb9528ebf1ff4&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-17T02:04:30.530Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81maBtZEp4L._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0gt6byb85-irobot-roomba-plus-415x-combo-robot-vacuum-mop-autowash-dock",
       "asin": "B0GT6BYB85",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-15T20:50:31.564Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71Z10laF7KL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0d185cw1s-dole-100-pineapple-juice-no-added-sugar-excellent-source-of-",
-      "asin": "B0D185CW1S",
-      "title": "Dole 100% Pineapple Juice, No Added Sugar, Excellent Source of Vitamin C, 100% Fruit Juice, Packaging May Vary, 8.0 Fl O",
-      "url": "https://www.amazon.com/dp/B0D185CW1S?th=1&linkCode=sl2&tag=noya0b-20&linkId=a2d3e4b237fbd94bbb7458c7cb36dcb2&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-15T20:48:28.884Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71iB2QYaiiL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
