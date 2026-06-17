@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-17T00:40:02.005Z",
+  "generatedAt": "2026-06-17T00:50:01.786Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0dcgkdlxg-kind-healthy-grains-granola-variety-pack-gluten-free-healthy",
+      "asin": "B0DCGKDLXG",
+      "title": "Kind Healthy Grains Granola Variety Pack, Gluten Free, Healthy Snack Mix, Dark Chocolate, Almond Butter, Peanut Butter, ",
+      "url": "https://www.amazon.com/dp/B0DCGKDLXG?ie=UTF8&ascsubtag=03821c9469e511f1b0e602e5dd9238a10INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=b8b85a191ea32b8d81a407e3d9e82e7c&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-06-17T00:42:36.370Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81sZcQIf9mL._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b00emam9bc-covergirl-lash-blast-volume-mascara-very-black-cover-girl-la",
       "asin": "B00EMAM9BC",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-15T20:36:32.436Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71Vx1SI3FWL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0cq6qy3wh-bic-xtra-smooth-pastel-mechanical-pencils-with-erasers-mediu",
-      "asin": "B0CQ6QY3WH",
-      "title": "BIC Xtra-Smooth Pastel Mechanical Pencils with Erasers, Medium Point (0.7 mm), Bulk School Supplies for Students and Tea",
-      "url": "https://www.amazon.com/dp/B0CQ6QY3WH?linkCode=sl1&tag=noya0b-20&linkId=7c10cd6d25739624cdb7fa6c9932cf1d&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-06-15T20:34:29.876Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81nCrUQNGvL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
