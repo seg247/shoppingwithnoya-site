@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-17T01:30:01.417Z",
+  "generatedAt": "2026-06-17T01:40:01.689Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b003567qoo-save-an-extra-40-off-gerber-baby-food-stack-this-with-up-to-",
+      "asin": "B003567QOO",
+      "title": "Save an extra 40% off Gerber baby food! stack this with up to 15% off sub and save",
+      "url": "https://www.amazon.com/dp/B003567QOO?tag=noya0b-20",
+      "discount": 40,
+      "rating": "HOT",
+      "category": "Other",
+      "ts": "2026-06-17T01:32:33.517Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Z5ndWs9cL._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0dswfpgt2-funko-pop-movies-wicked-magical-wise-women-wicked-2-pack-col",
       "asin": "B0DSWFPGT2",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-15T20:42:27.263Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71w5HBjZlJL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0cdy277d3-chefman-6-quart-dual-basket-air-fryer-oven-with-easy-view-wi",
-      "asin": "B0CDY277D3",
-      "title": "CHEFMAN 6 Quart Dual Basket Air Fryer Oven with Easy View Windows, Sync Finish, Hi-Fry, Auto Shutoff, 2 Independent 3Qt ",
-      "url": "https://www.amazon.com/dp/B0CDY277D3?th=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-06-15T20:40:29.543Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81VavY-KG8L.jpg",
       "expiresAt": null,
       "promoCode": null
     }
