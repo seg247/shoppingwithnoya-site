@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-17T03:20:01.670Z",
+  "generatedAt": "2026-06-17T03:30:01.989Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0gsb9x1kb-sunny-days-entertainment-doritos-reversible-pool-float-doubl",
+      "asin": "B0GSB9X1KB",
+      "title": "Sunny Days Entertainment Doritos® Reversible Pool Float Double Sided Cool",
+      "url": "https://www.amazon.com/dp/B0GSB9X1KB/ref=cm_sw_r_as_gl_apa_gl_i_R83MSPK38X58ZAT8TYFR?linkCode=ml1&tag=noya0b-20&linkId=c3cf457c0e1da731b7f177fc75eee138",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-06-17T03:24:30.666Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81KADfzWaWL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0d16n7bbv-bosch-fully-automatic-coffee-and-espresso-machine-one-touch-",
       "asin": "B0D16N7BBV",
@@ -6985,20 +6999,6 @@
       "ts": "2026-06-15T21:36:27.748Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71Tdcws0UrL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0998m39tw-lugz-men-s-stagger-hi-fashion-sneaker-black-7-5-m-us-fashion",
-      "asin": "B0998M39TW",
-      "title": "Lugz Men's Stagger Hi Fashion Sneaker, Black, 7.5 M US | Fashion Sneakers",
-      "url": "https://www.amazon.com/dp/B0998M39TW?th=1&psc=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-06-15T21:32:31.603Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61udzm8lS-L._AC_SL1250_.jpg",
       "expiresAt": null,
       "promoCode": null
     }
