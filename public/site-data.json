@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-29T08:00:01.945Z",
+  "generatedAt": "2026-06-29T08:10:01.448Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0dyvqnl6n-delta-children-cozee-buddy-chair-koala-home-kitchen",
+      "asin": "B0DYVQNL6N",
+      "title": "Delta Children Cozee Buddy Chair, Koala : Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B0DYVQNL6N/ref=cm_sw_r_as_gl_apa_gl_i_1M6X4CMHJ12AZ8EVWGEV?linkCode=ml1&tag=noya0b-20&linkId=50f077eb17342a5a261f4f837207fbe8",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-06-29T08:06:15.956Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81vL1WKQ39L.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
+    {
+      "slug": "b07rgm11l5-frigidaire-5-000-btu-window-mounted-air-conditioner-cools-up",
+      "asin": "B07RGM11L5",
+      "title": "Frigidaire 5,000 BTU Window-Mounted Air Conditioner, Cools Up to 150 Sq. Ft., Quiet Operation, Effortless Temperature Co",
+      "url": "https://www.amazon.com/dp/B07RGM11L5?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-06-29T08:00:17.248Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81Aa2gcPQTL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0dp62d7ky-martha-stewart-cocktail-ottoman-for-living-room-fully-uphols",
       "asin": "B0DP62D7KY",
@@ -6971,34 +6999,6 @@
       "ts": "2026-06-27T23:06:27.248Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/81NbBLI0-HL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0fqj4yyw5-flaremove-womens-tank-tops-with-built-in-bra-longline-sports",
-      "asin": "B0FQJ4YYW5",
-      "title": "FlareMove Womens Tank Tops with Built in Bra Longline Sports Bra with Adjustable Straps Supportive Sports Bras Gray L at",
-      "url": "https://www.amazon.com/dp/B0FQJ4YYW5?th=1&psc=1&tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-06-27T23:04:27.104Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81lfSB6CoeL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0cgkph78f-samsung-34-viewfinity-s65uc-ultra-wqhd-100hz-amd-freesync-hd",
-      "asin": "B0CGKPH78F",
-      "title": "Samsung 34” ViewFinity S65UC, Ultra-WQHD, 100Hz, AMD FreeSync™ HDR10, KVM Switch Built in Speakers with USB-C Curved Mon",
-      "url": "https://www.amazon.com/SAMSUNG-ViewFinity-Adjustable-Intelligent-LS34C654UANXGO/dp/B0CGKPH78F?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=f45a3db3a5974546813cec436334c611&language=en_US",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-06-27T23:02:35.404Z",
-      "type": "deal",
-      "imageUrl": null,
       "expiresAt": null,
       "promoCode": null
     }
