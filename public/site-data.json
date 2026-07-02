@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-07-02T03:00:00.217Z",
+  "generatedAt": "2026-07-02T03:00:01.139Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "mavely-amc-theatres-2-tickets-drinks-popcorn",
+      "asin": null,
+      "title": "AMC Theatres — 2 Tickets + Drinks + Popcorn",
+      "url": "https://mavely.app.link/rVRFEglEO3b",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Entertainment",
+      "ts": "2026-07-02T02:59:59.052Z",
+      "type": "deal",
+      "imageUrl": null,
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0fpbnntph-linen-shirts-for-women-summer-crew-neck-embroidered-3-4-slee",
       "asin": "B0FPBNNTPH",
@@ -1595,20 +1609,6 @@
       "ts": "2026-07-01T23:00:28.032Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71-ScJJHdgL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "mavely-amc-theatres-2-tickets-drinks-popcorn",
-      "asin": null,
-      "title": "AMC Theatres — 2 Tickets + Drinks + Popcorn",
-      "url": "https://mavely.app.link/rVRFEglEO3b",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Entertainment",
-      "ts": "2026-07-01T23:00:18.395Z",
-      "type": "deal",
-      "imageUrl": null,
       "expiresAt": null,
       "promoCode": null
     },
