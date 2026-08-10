@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-08-10T22:50:01.168Z",
+  "generatedAt": "2026-08-10T23:00:01.698Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0f3y1914t-olay-face-wash-gentle-cleansing-melts-fragrance-free-daily-u",
+      "asin": "B0F3Y1914T",
+      "title": "Olay Face Wash, Gentle Cleansing Melts, Fragrance-Free, Daily Use Cleanser, For All Skin Types, Travel Size, Water-Activ",
+      "url": "https://www.amazon.com/dp/B0F3Y1914T?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-08-10T22:56:25.803Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71WrLOEzs1L.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0gwkhr5vs-acer-predator-orion-6000-gaming-desktop-intel-core-ultra-9-p",
       "asin": "B0GWKHR5VS",
@@ -6985,20 +6999,6 @@
       "ts": "2026-08-10T03:42:30.937Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71vUVJi25LL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b09tnm54x7-physicians-formula-murumuru-strawberry-jam-blush-strawberry-",
-      "asin": "B09TNM54X7",
-      "title": "\udecd️Physicians Formula Murumuru Strawberry Jam Blush Strawberry, Shimmery finish",
-      "url": "https://www.amazon.com/dp/B09TNM54X7?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=9f5a40374ff6806a992f10cb4147b40e&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-08-10T03:40:34.146Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/814ibe1lcpL.jpg",
       "expiresAt": null,
       "promoCode": null
     }
