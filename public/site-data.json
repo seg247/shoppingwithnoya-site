@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-08-10T21:00:01.377Z",
+  "generatedAt": "2026-08-10T21:10:01.934Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fkcr29n8-infantino-my-1st-tumbler-9-oz-silicone-sippy-cup-green-snow",
+      "asin": "B0FKCR29N8",
+      "title": "Infantino My 1st Tumbler 9 Oz Silicone Sippy Cup, Green Snow",
+      "url": "https://www.amazon.com/dp/B0FKCR29N8?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c45953e15f76613711ef9b45baa166d2&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-08-10T21:01:30.667Z",
+      "type": "deal",
+      "imageUrl": null,
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b000r9cooy-new-soda-pops-added-to-the-buy-3-for-16-promo-go-add-any-3-s",
       "asin": "B000R9COOY",
@@ -6985,20 +6999,6 @@
       "ts": "2026-08-10T03:14:30.204Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71fofutDdgL.jpg",
-      "expiresAt": null,
-      "promoCode": null
-    },
-    {
-      "slug": "b0dlnn99l6-torras-minimag-power-bank-ultra-slim-5-000mah-wireless-porta",
-      "asin": "B0DLNN99L6",
-      "title": "\udecd️TORRAS MiniMag Power Bank, Ultra Slim 5,000mAh Wireless Portable Charger with USB-C Cable, Fast Charging iPhone Air Ma",
-      "url": "https://www.amazon.com/dp/B0DLNN99L6?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=b1ef8e1baefdac5d24c47d56985cca73&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-08-10T03:12:32.168Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/6119NrnnA2L.jpg",
       "expiresAt": null,
       "promoCode": null
     }
