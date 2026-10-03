@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T20:20:01.495Z",
+  "generatedAt": "2026-10-03T20:30:01.351Z",
   "total": 500,
   "posts": [
     {
@@ -300,11 +300,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71qaNsaMkpL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0h83jn1hg-weighted-infinity-fitness-hoop-with-silent-24-detachable-par",
