@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T17:00:01.317Z",
+  "generatedAt": "2026-10-12T17:10:01.532Z",
   "total": 500,
   "posts": [
     {
@@ -148,11 +148,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81xl7KfsETL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0gvshwgbg-ombre-brown-human-crochet-hair-for-black-women-2-packs-18-in",
