@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T16:40:01.545Z",
+  "generatedAt": "2026-10-12T16:50:01.844Z",
   "total": 500,
   "posts": [
     {
@@ -167,11 +167,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71YafIgnCuL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0cqrcnh6v-exacme-yoga-mat-set-for-beginners-9-pieces-yoga-set-with-res",
