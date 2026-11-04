@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-04T10:00:02.230Z",
+  "generatedAt": "2026-11-04T10:10:01.770Z",
   "total": 500,
   "activeTotal": 495,
   "posts": [
+    {
+      "slug": "b0f1dgynh2-routine-wellness-hydrating-conditioning-hair-mask-8oz-unscen",
+      "asin": "B0F1DGYNH2",
+      "title": "Routine Wellness Hydrating & Conditioning Hair Mask, 8oz, Unscented | Repair Treatment for Dry, Damaged Hair, Moisturizes, Strengthens & Adds Volume, Color-Safe, All Hair Types : Beauty & Personal Care",
+      "url": "https://www.amazon.com/dp/B0F1DGYNH2?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-11-04T10:00:41.612Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61eSEaiDTsL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b07b8bsgpl-physician-s-choice-probiotics-for-women-ph-balance-digestive",
       "asin": "B07B8BSGPL",
@@ -316,11 +336,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71kt4SiidUL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -4770,22 +4786,6 @@
       "ts": "2026-10-28T08:00:39.030Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/614wG6B1dUL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0f1dgynh2-routine-wellness-hydrating-conditioning-hair-mask-8oz-unscen",
-      "asin": "B0F1DGYNH2",
-      "title": "Routine Wellness Hydrating & Conditioning Hair Mask, 8oz, Unscented | Repair Treatment for Dry, Damaged Hair, Moisturizes, Strengthens & Adds Volume, Color-Safe, All Hair Types : Beauty & Personal Care",
-      "url": "https://www.amazon.com/dp/B0F1DGYNH2?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-10-28T06:20:42.094Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61eSEaiDTsL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
