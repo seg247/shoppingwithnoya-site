@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T11:40:02.049Z",
+  "generatedAt": "2026-11-28T11:50:01.623Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -49,6 +49,26 @@
       "ts": "2026-11-28T06:51:45.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/B0DYWCQGH9-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0hbz5z9jr-gain-in-wash-laundry-scent-booster-beads-long-lasting-fresh-",
+      "asin": "B0HBZ5Z9JR",
+      "title": "\udecd️Gain In-Wash Laundry Scent Booster Beads Long-Lasting Fresh Scent Beads All Day Freshness and Odor Protection, Who-Vil",
+      "url": "https://www.amazon.com/dp/B0HBZ5Z9JR/ref=cmswrasglapiglidl_AZBA4EC283NKK6Q954NH?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-11-28T11:40:17.795Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81TxOBbDJ1L.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -371,11 +391,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61BPHAahwEL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8109,22 +8125,6 @@
       "ts": "2026-11-18T09:00:40.233Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51WD7kZ-8nL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b000068uz3-wusthof-2-piece-mincing-knife-and-cutting-board-set-ulu-knif",
-      "asin": "B000068UZ3",
-      "title": "Wusthof 2-Piece Mincing Knife and Cutting Board Set: Ulu Knife And Bowl: Home & Kitchen",
-      "url": "https://www.amazon.com/dp/B000068UZ3?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-11-18T08:20:46.190Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61ggLBzX6rL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27540,6 +27540,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-11-18T08:00:36.608Z",
       "archivedAt": "2026-11-28T11:30:01.972Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b000068uz3-wusthof-2-piece-mincing-knife-and-cutting-board-set-ulu-knif",
+      "asin": "B000068UZ3",
+      "title": "Wusthof 2-Piece Mincing Knife and Cutting Board Set: Ulu Knife And Bowl: Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B000068UZ3?tag=noya0b-20",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-18T08:20:46.190Z",
+      "archivedAt": "2026-11-28T11:50:01.623Z",
       "status": "archived"
     }
   ]
