@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T13:00:01.961Z",
+  "generatedAt": "2026-11-28T13:10:01.543Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -52,6 +52,26 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0gvc63yn5-men-s-winter-coats-sherpa-lined-jacket-insulated-fleece-down",
+      "asin": "B0GVC63YN5",
+      "title": "\udecd️Men's Winter Coats Sherpa Lined Jacket Insulated Fleece Down Puffer Parka | Waterproof, Quilted, Warm, Windproof, Bomb",
+      "url": "https://www.amazon.com/dp/B0GVC63YN5/ref=cmswrasglapiglidl_3GP26RPMTKG5EBFBPZCT?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Fashion",
+      "ts": "2026-11-28T13:00:13.838Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71d2fjOU-IL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
       "feedStatus": "active"
     },
     {
@@ -367,11 +387,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71zMH-ZH4qL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8105,22 +8121,6 @@
       "ts": "2026-11-18T11:20:27.914Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61noPL7mHYL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b085s7w87s-mintegra-women-shoulder-handbag-roomy-multiple-pockets-bag-l",
-      "asin": "B085S7W87S",
-      "title": "MINTEGRA Women Shoulder Handbag Roomy Multiple Pockets Bag Ladies Crossbody Purse Fashion Tote Top Handle Satchel: Handbags",
-      "url": "https://www.amazon.com/dp/B085S7W87S?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-11-18T11:00:49.448Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61mkAdhVeOL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27576,6 +27576,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-11-18T10:00:37.706Z",
       "archivedAt": "2026-11-28T12:50:02.059Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b085s7w87s-mintegra-women-shoulder-handbag-roomy-multiple-pockets-bag-l",
+      "asin": "B085S7W87S",
+      "title": "MINTEGRA Women Shoulder Handbag Roomy Multiple Pockets Bag Ladies Crossbody Purse Fashion Tote Top Handle Satchel: Handbags",
+      "url": "https://www.amazon.com/dp/B085S7W87S?tag=noya0b-20",
+      "category": "Fashion",
+      "ts": "2026-11-18T11:00:49.448Z",
+      "archivedAt": "2026-11-28T13:10:01.543Z",
       "status": "archived"
     }
   ]
