@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T12:20:01.552Z",
+  "generatedAt": "2026-11-28T12:30:01.697Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -49,6 +49,26 @@
       "ts": "2026-11-28T06:51:45.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/B0DYWCQGH9-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0c157rgm9-glade-plugins-air-freshener-refills-coastal-sunshine-citrus-",
+      "asin": "B0C157RGM9",
+      "title": "\udecd️Glade PlugIns Air Freshener Refills, Coastal Sunshine Citrus, 5 Count | 0.67 fl oz Each, Includes 5 Refills, Scented a",
+      "url": "https://www.amazon.com/dp/B0C157RGM9/ref=cmswrasglapiglidl_T24YS9N8PZZY1QDZ987S?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-11-28T12:20:14.516Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71UuEuCVYLL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -371,11 +391,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71M0E6IyEwL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8109,22 +8125,6 @@
       "ts": "2026-11-18T10:00:37.706Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51ANiYuVnfL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b00ah20qmi-kitchenaid-artisan-series-with-pouring-shield-mixer-5-quart-",
-      "asin": "B00AH20QMI",
-      "title": "KitchenAid Artisan Series with Pouring Shield Mixer, 5-Quart, Liquid Graphite: Electric Stand Mixers: Home & Kitchen",
-      "url": "https://www.amazon.com/dp/B00AH20QMI?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-11-18T09:40:39.386Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/91ofj9pv2uL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27560,6 +27560,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-11-18T09:00:40.233Z",
       "archivedAt": "2026-11-28T12:10:02.146Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b00ah20qmi-kitchenaid-artisan-series-with-pouring-shield-mixer-5-quart-",
+      "asin": "B00AH20QMI",
+      "title": "KitchenAid Artisan Series with Pouring Shield Mixer, 5-Quart, Liquid Graphite: Electric Stand Mixers: Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B00AH20QMI?tag=noya0b-20",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-18T09:40:39.386Z",
+      "archivedAt": "2026-11-28T12:30:01.697Z",
       "status": "archived"
     }
   ]
