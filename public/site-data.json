@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T12:00:01.721Z",
+  "generatedAt": "2026-11-28T12:10:02.146Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -49,6 +49,26 @@
       "ts": "2026-11-28T06:51:45.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/B0DYWCQGH9-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0g5y8ds44-chaoren-mens-belts-leather-35mm-for-jeans-tough-at-work-shar",
+      "asin": "B0G5Y8DS44",
+      "title": "\udecd️CHAOREN Mens Belts Leather 35mm for Jeans - Tough at Work, Sharp Daily | Genuine Leather, Durable Buckle, Casual Occas",
+      "url": "https://www.amazon.com/dp/B0G5Y8DS44/ref=cmswrasglapiglidl_KAJERXJE1084YCYH5C3Y?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Fashion",
+      "ts": "2026-11-28T12:00:12.071Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81HlUz9aX8L.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -371,11 +391,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61li1lzcezL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8109,22 +8125,6 @@
       "ts": "2026-11-18T09:40:39.386Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/91ofj9pv2uL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0bqzchfk4-stanley-quencher-h2-0-flow-state-tumbler-40-oz-charcoal-hand",
-      "asin": "B0BQZCHFK4",
-      "title": "STANLEY Quencher H2.0 Flow State Tumbler, 40 oz, Charcoal | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free : Home & Kitchen",
-      "url": "https://www.amazon.com/dp/B0BQZCHFK4?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-11-18T09:00:40.233Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51WD7kZ-8nL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27550,6 +27550,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-11-18T08:20:46.190Z",
       "archivedAt": "2026-11-28T11:50:01.623Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0bqzchfk4-stanley-quencher-h2-0-flow-state-tumbler-40-oz-charcoal-hand",
+      "asin": "B0BQZCHFK4",
+      "title": "STANLEY Quencher H2.0 Flow State Tumbler, 40 oz, Charcoal | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free : Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B0BQZCHFK4?tag=noya0b-20",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-18T09:00:40.233Z",
+      "archivedAt": "2026-11-28T12:10:02.146Z",
       "status": "archived"
     }
   ]
